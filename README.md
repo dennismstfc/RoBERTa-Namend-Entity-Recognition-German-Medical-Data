@@ -1,0 +1,3 @@
+# RoBERTa-Namend-Entity-Recognition-Tagging-German-Medical-Data
+## Description
+This project uses named entity recognition (NER) techniques to extract important information from medical texts written in German. The NER model is trained on annotated German medical text data using the RoBERTa and SimpleTransformer frameworks. The resulting model is then used to identify and classify named entities in medical texts, such as patient names, diagnoses, and treatment methods. The project aims to demonstrate the effectiveness of NER for extracting valuable information from medical texts, and to provide a useful resource for anyone interested in using NER techniques in the medical domain.
