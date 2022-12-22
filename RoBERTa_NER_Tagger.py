@@ -15,9 +15,11 @@ from utils import should_get_skipped
 from utils import save_pickle, read_pickle
 from utils import DATA_PATH, SAVE_PATH
 
-
-if __name__ == "__main__":
+def pipeline(model, checkpoint, epochs, random_state=111):
+    print("##############################################################")
+    print(f"loading pipeline {model} with checkpoint {checkpoint} with {epochs} epochs...")
     print("checking if data was saved before...")
+
     if os.path.exists(SAVE_PATH + "X.pickle") and os.path.exists(SAVE_PATH + "y.pickle"):
         print("could find saved files...")
         print("loading...")
@@ -196,8 +198,8 @@ if __name__ == "__main__":
     X = ner_data[["sentence_id", "words"]]
     y = ner_data["labels"].str.upper()
 
-    x_train, x_test, y_train, y_test = train_test_split(X,y, test_size =0.2)
-    x_test, x_val, y_test, y_val = train_test_split(x_test,y_test, test_size =0.5)
+    x_train, x_test, y_train, y_test = train_test_split(X,y, test_size =0.2, random_state=random_state)
+    x_test, x_val, y_test, y_val = train_test_split(x_test,y_test, test_size =0.5, random_state=random_state)
 
     print(f"training size: {len(x_train)}")
     print(f"test size: {len(x_test)}")
@@ -211,17 +213,17 @@ if __name__ == "__main__":
 
     print("defining hyperparamters...")
     args = NERArgs()
-    args.num_train_epochs = 10
+    args.num_train_epochs = epochs
     args.learning_rate = 1e-4
     args.overwrite_output_dir =True
-    args.train_batch_size = 32
-    args.eval_batch_size = 32
+    args.train_batch_size = 16
+    args.eval_batch_size = 16
     args.labels_list = [el.upper() for el in tags]
     args.save_best_model = True
     args.save_model_every_epoch = False
 
     print("loading model...")
-    model = NERModel('roberta', 'roberta-base',args =args, use_cuda=True)
+    model = NERModel(model, checkpoint ,args =args, use_cuda=True)
     
     print(f"training the model for {args.num_train_epochs} epochs...")
     model.train_model(train_data, eval_data = test_data,acc=accuracy_score)
@@ -237,3 +239,49 @@ if __name__ == "__main__":
 
     for key in result.keys():
         print(f"{key}: {result[key]}")
+    
+    print("##############################################################\n\n\n")
+
+
+if __name__ == "__main__":
+    try:
+        pipeline("roberta", "roberta-base", 5)
+    except:
+        print("didn't work...")
+    
+    try:
+        pipeline("roberta", "roberta-base", 15)
+    except:
+        print("didn't work...")
+
+    try:
+        pipeline("roberta", "roberta-base", 100)
+    except:
+        print("didn't work...")
+
+    try:
+        pipeline("roberta", "roberta-base", 500)
+    except:
+        print("didn't work...")
+    
+
+    try:
+        pipeline("bert", "bert-base-cased", 5)
+    except:
+        print("didn't work...")
+
+    try:
+        pipeline("bert", "bert-base-cased", 15)
+    except:
+        print("didn't work...")
+
+    try:
+        pipeline("bert", "bert-base-cased", 100)
+    except:
+        print("didn't work...")
+
+    try:
+        pipeline("bert", "bert-base-cased", 500)
+    except:
+        print("didn't work...")
+
