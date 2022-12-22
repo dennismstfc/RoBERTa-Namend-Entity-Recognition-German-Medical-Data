@@ -92,7 +92,9 @@ def get_ann(fname):
 
 
 stemmer = PorterStemmer()
-
+'''
+This functions takes a sentence as input and returns the stemmed version.
+'''
 def stem_sentence(sentence):
     words = []
     for word in sentence.split(" "):
@@ -100,14 +102,22 @@ def stem_sentence(sentence):
     return " ".join(words)
 
 
+'''
+This functions takes a word as input and returns the stemmed version.
+'''
 def stem(word):
     return stemmer.stem(word, to_lowercase=True)
 
 
-nltk.download('stopwords')
-
+'''
+Simple function that returns true if a given word is a stop word.
+'''
 def should_get_skipped(act_word):
-    stop_words = stopwords.words("german")
+    try:
+        stop_words = stopwords.words("german")
+    except:
+        nltk.download('stopwords')
+        stop_words = stopwords.words("german")
 
     if act_word in stop_words:
         return True
