@@ -1,0 +1,21 @@
+T1	Disorders 0 22	Neuroendokrine Tumoren
+T2	Chemicals_Drugs 87 110	Somatostatin-Rezeptoren
+T3	Physiology 163 175	Somatostatin
+T4	Chemicals_Drugs 163 175	Somatostatin
+T5	Chemicals_Drugs 185 193	Liganden
+T6	Disorders 352 359	Tumoren
+T7	Anatomical_Structure 364 369	Lunge
+T8	Procedures 390 409	prospektive Studien
+T9	Living_Beings 583 592	Patienten
+T10	Physiology 625 637	Somatostatin
+T11	Chemicals_Drugs 625 637	Somatostatin
+T12	Procedures 647 660	Szintigraphie
+T13	Disorders 767 788	Lymphknotenmetastasen
+T14	Disorders 809 819	Metastasen
+T15	Living_Beings 945 954	Patienten
+T16	Physiology 1092 1104	Somatostatin
+T17	Chemicals_Drugs 1092 1104	Somatostatin
+T18	Chemicals_Drugs 1114 1122	Liganden
+T19	Procedures 1180 1190	Diagnostik
+T20	Disorders 1225 1243	Strahlenexposition
+T21	Procedures 1338 1348	Diagnostik

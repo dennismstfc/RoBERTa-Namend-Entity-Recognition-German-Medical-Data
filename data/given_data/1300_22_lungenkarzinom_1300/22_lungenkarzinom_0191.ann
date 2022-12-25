@@ -1,0 +1,11 @@
+T1	Procedures 14 29	Lungenresektion
+T2	Living_Beings 41 50	Patienten
+T3	Disorders 55 67	Schlaganfall
+T4	Disorders 73 76	TIA
+T5	Devices 149 156	Doppler
+T6	Procedures 174 185	Sonographie
+T7	Disorders 268 275	Stenose
+T8	Anatomical_Structure 320 328	Arterien
+T9	Procedures 340 355	Lungenresektion
+T10	Procedures 393 403	Behandlung
+T11	Disorders 408 415	Stenose

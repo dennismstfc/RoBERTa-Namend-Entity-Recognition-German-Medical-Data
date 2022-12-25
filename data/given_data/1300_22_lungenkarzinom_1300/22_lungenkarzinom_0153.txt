@@ -1,0 +1,91 @@
+Die Empfehlung basiert auf einem Expertenkonsens (siehe Kapitel 2.3.4) und baut auf den Vorarbeiten der Autoren der 4. Auflage der WHO-Klassifikation von 2015 auf, die sich mit einer Arbeitsgruppe von Experten am 24.-26. April 2014 in Lyon zu einer Konsensus-Konferenz getroffen haben. 
+Die jeweils gültige WHO-Klassifikation bildet somit die Basis der histopathologischen Typisierung von Lungentumoren. In der 4. Auflage der WHO-Klassifikation der Tumoren von Lunge, Pleura, Thymus und Herzwerden für die Lunge die folgenden histopathologischen Tumortypen voneinander unterschieden:
+
+
+-Adenokarzinom
+
+-Lepidisches Adenokarzinom
+-Azinäres Adenokarzinom
+-Papilläres Adenokarzinom
+-Mikropapilläres Adenokarzinom
+-Solides Adenokarzinom
+-Invasives muzinöses Adenokarzinom
+
+-Gemischtes invasives muzinöses und nicht-muzinöses Adenokarzinom
+
+-Kolloides Adenokarzinom
+-Fetales Adenokarzinom
+-Enterales Adenokarzinom
+-Minimal invasives Adenokarzinom
+
+-Nicht-muzinös
+-Muzinös
+
+-Präinvasive Läsionen
+
+-Atypische adenomatöse Hyperplasie
+-Adenocarcinoma in situ
+
+-Nicht-muzinös
+-Muzinös
+
+
+
+-Plattenepithelkarzinom
+
+-Verhornendes Plattenepithelkarzinom
+-Nicht-verhornendes Plattenepithelkarzinom
+-Basaloides Plattenepithelkarzinom
+-Präinvasive Läsion
+
+-Plattenepitheliales Carcinoma in situ
+
+
+-Neuroendokrine Tumoren
+
+-Kleinzelliges Karzinom
+
+-Kombiniertes kleinzelliges Karzinom
+
+-Großzelliges neuroendokrines Karzinom
+
+-Kombiniertes großzelliges neuroendokrines Karzinom
+
+-Karzinoide
+
+-Typisches Karzinoid
+-Atypisches Karzinoid
+
+-Präinvasive Läsion
+
+-Diffuse idiopathische Hyperplasie pulmonaler neuroendokriner Zellen (DIPNECH)
+
+
+-Großzelliges Karzinom
+-Adenosquamöses Karzinom
+-Pleomorphes Karzinom
+-Spindelzelliges Karzinom
+-Riesenzelliges Karzinom
+-Karzinosarkom
+-Pulmonales Blastom
+-Andere und unklassifizierte Karzinome
+
+-Lymphoepitheliom-artiges Karzinom
+-NUT Karzinom
+
+-Tumoren vom Speicheldrüsentyp
+
+-Mukoepidermoides Karzinom
+-Adenoidzystisches Karzinom
+-Epitheliales-myoepitheliales Karzinom
+-Pleomorphes Adenom
+
+-Papillome
+-Adenome
+
+Mesenchymale Tumoren
+Lymphohistiozytäre Tumoren
+Tumoren ektopen Ursprungs
+Metastatische Tumoren
+(modifiziert nach Travis et al. 2015)
+Die 4. Auflage der WHO-Klassifikation bezieht nun auch ausdrücklich die Typisierung anhand kleiner Biopsien und zytologischer Präparate ein (diagnostischer Algorithmus, siehe Abbildung im Kapitel 6.10)

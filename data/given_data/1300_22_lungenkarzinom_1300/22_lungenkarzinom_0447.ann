@@ -1,0 +1,36 @@
+T1	Living_Beings 127 130	Pan
+T2	Anatomical_Structure 213 218	Lunge
+T3	Living_Beings 327 336	Patienten
+T4	Physiology 346 354	Mutation
+T5	Procedures 386 394	Therapie
+T6	Chemicals_Drugs 417 428	Trastuzumab
+T7	Chemicals_Drugs 430 438	Afatinib
+T8	Living_Beings 470 479	Patienten
+T9	Procedures 503 511	Therapie
+T10	Procedures 542 555	Chemotherapie
+T11	Living_Beings 665 674	Patienten
+T12	Procedures 701 709	Therapie
+T13	Procedures 796 804	Therapie
+T14	Living_Beings 816 825	Patienten
+T15	Living_Beings 867 876	Patienten
+T16	Disorders 881 904	Adenokarzinom der Lunge
+T17	Physiology 909 917	sprechen
+T18	Anatomical_Structure 1322 1327	Lunge
+T19	Procedures 1406 1416	Behandlung
+T20	Living_Beings 1421 1430	Patienten
+T21	Chemicals_Drugs 1461 1464	ALK
+T22	Chemicals_Drugs 1483 1493	Crizotinib
+T23	Living_Beings 2110 2119	Patienten
+T24	Disorders 2130 2152	Plattenepithelkarzinom
+T25	Procedures 2153 2163	Histologie
+T26	Chemicals_Drugs 2200 2203	ALK
+T27	Disorders 2238 2245	Rezidiv
+T28	Chemicals_Drugs 2251 2257	Platin
+T29	Procedures 2268 2281	Chemotherapie
+T30	Procedures 2313 2321	Therapie
+T31	Living_Beings 2591 2600	Patienten
+T32	Procedures 2623 2639	klinische Studie
+T33	Physiology 2704 2714	Medikation
+T34	Procedures 2831 2839	Therapie
+T35	Procedures 2953 2967	Untersuchungen
+T36	Devices 3008 3014	Rahmen

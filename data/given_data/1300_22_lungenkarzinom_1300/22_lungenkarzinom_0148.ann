@@ -1,0 +1,16 @@
+T1	Anatomical_Structure 248 254	Pleura
+T2	Anatomical_Structure 281 291	Thoraxwand
+T3	Procedures 427 439	Untersuchung
+T4	Disorders 735 757	Adenocarcinoma in situ
+T5	Procedures 862 880	Paraffineinbettung
+T6	Procedures 911 923	Untersuchung
+T7	Procedures 1023 1035	Untersuchung
+T8	Anatomical_Structure 1111 1117	Pleura
+T9	Anatomical_Structure 1291 1302	Lymphknoten
+T10	Anatomical_Structure 1414 1425	Lymphknoten
+T11	Anatomical_Structure 1571 1582	Lymphknoten
+T12	Anatomical_Structure 1622 1631	Bronchien
+T13	Disorders 1815 1828	Lungenfibrose
+T14	Procedures 1885 1897	Untersuchung
+T15	Procedures 2167 2181	Untersuchungen
+T16	Procedures 2263 2270	Biopsie

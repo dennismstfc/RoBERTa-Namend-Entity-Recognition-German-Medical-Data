@@ -1,0 +1,9 @@
+T1	Procedures 304 316	Untersuchung
+T2	Procedures 416 442	Kombinations-Chemotherapie
+T3	Chemicals_Drugs 447 462	Cyclophosphamid
+T4	Chemicals_Drugs 464 474	Adriamycin
+T5	Chemicals_Drugs 475 484	Cisplatin
+T6	Chemicals_Drugs 485 493	Etoposid
+T7	Procedures 660 668	Prognose
+T8	Living_Beings 799 808	Patienten
+T9	Living_Beings 1114 1123	Patienten

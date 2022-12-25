@@ -1,0 +1,9 @@
+T1	TNM 150 152	N1
+T2	Disorders 176 182	Befall
+T3	Anatomical_Structure 216 227	Lymphknoten
+T4	TNM 247 249	T1
+T5	TNM 256 258	T2
+T6	Procedures 332 353	Lymphknotendissektion
+T7	Procedures 375 385	Behandlung
+T8	TNM 410 412	N1
+T9	TNM 504 506	N1

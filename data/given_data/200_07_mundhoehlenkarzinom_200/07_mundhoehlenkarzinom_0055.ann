@@ -1,0 +1,11 @@
+T1	Procedures 35 43	Therapie
+T2	Procedures 76 86	Behandlung
+T3	Procedures 145 155	Diagnostik
+T4	TNM 411 414	cN0
+T5	Disorders 447 457	Metastasen
+T6	Procedures 536 539	MRT
+T7	Physiology 800 808	Wachstum
+T8	Anatomical_Structure 853 864	Lymphknoten
+T9	Procedures 931 946	Neck-dissection
+T10	Procedures 955 963	Prognose
+T11	Procedures 1209 1224	Neck-dissection

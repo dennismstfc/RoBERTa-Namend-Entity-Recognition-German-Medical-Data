@@ -1,0 +1,15 @@
+T1	Living_Beings 488 497	Patienten
+T2	Living_Beings 591 600	Patienten
+T3	Physiology 693 701	Toleranz
+T4	Physiology 706 722	Nahrungsaufnahme
+T5	Disorders 753 759	Atonie
+T6	Procedures 819 840	Krankenhausaufenthalt
+T7	Anatomical_Structure 1041 1044	Arm
+T8	Living_Beings 1613 1622	Patienten
+T9	Anatomical_Structure 1799 1802	Arm
+T10	Anatomical_Structure 1824 1827	Arm
+T11	Living_Beings 1913 1922	Patienten
+T12	Living_Beings 2085 2094	Patienten
+T13	Disorders 2312 2319	Tumoren
+T14	TNM 2323 2325	T2
+T15	Procedures 2415 2425	Behandlung

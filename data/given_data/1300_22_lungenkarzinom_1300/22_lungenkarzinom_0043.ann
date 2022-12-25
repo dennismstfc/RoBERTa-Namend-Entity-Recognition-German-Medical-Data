@@ -1,0 +1,40 @@
+T1	Chemicals_Drugs 604 607	DNA
+T2	Living_Beings 891 899	Senfkohl
+T3	Living_Beings 933 937	Raps
+T4	Living_Beings 961 967	Kresse
+T5	Anatomical_Structure 1173 1177	Blut
+T6	Procedures 1241 1252	Metaanalyse
+T7	Procedures 1257 1262	Selen
+T8	Chemicals_Drugs 1257 1262	Selen
+T9	Physiology 1257 1262	Selen
+T10	Physiology 1302 1313	Assoziation
+T11	Anatomical_Structure 1348 1352	Blut
+T12	Procedures 1420 1434	Untersuchungen
+T13	Physiology 1451 1467	Nahrungsaufnahme
+T14	Chemicals_Drugs 1530 1541	Carotinoide
+T15	Chemicals_Drugs 1948 1959	Carotinoide
+T16	Physiology 2005 2016	Assoziation
+T17	Physiology 2046 2055	Vitamin C
+T18	Procedures 2046 2055	Vitamin C
+T19	Chemicals_Drugs 2046 2055	Vitamin C
+T20	Chemicals_Drugs 2110 2119	Vitamin A
+T21	Physiology 2110 2119	Vitamin A
+T22	Procedures 2110 2119	Vitamin A
+T23	Procedures 2200 2210	Vitamin B6
+T24	Chemicals_Drugs 2200 2210	Vitamin B6
+T25	Procedures 2279 2290	Vitamin B12
+T26	Chemicals_Drugs 2279 2290	Vitamin B12
+T27	Physiology 2279 2290	Vitamin B12
+T28	Chemicals_Drugs 2378 2388	Flavonoide
+T29	Living_Beings 2466 2474	Pflanzen
+T30	Chemicals_Drugs 2541 2551	Flavonoide
+T31	Chemicals_Drugs 2603 2613	Glutathion
+T32	Chemicals_Drugs 2616 2627	Transferase
+T33	Physiology 2770 2783	Konzentration
+T34	Chemicals_Drugs 3005 3015	Flavonoide
+T35	Chemicals_Drugs 3030 3039	Quercetin
+T36	Chemicals_Drugs 3132 3142	Flavonoide
+T37	Disorders 3280 3291	Lungenkrebs
+T38	Chemicals_Drugs 3335 3343	Schwefel
+T39	Physiology 3365 3378	Konzentration
+T40	Physiology 3927 3938	Assoziation

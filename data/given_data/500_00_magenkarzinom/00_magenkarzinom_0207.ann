@@ -1,0 +1,12 @@
+T1	Living_Beings 53 62	Patienten
+T2	Physiology 86 91	Essen
+T3	Chemicals_Drugs 102 108	Wasser
+T4	Physiology 113 118	Durst
+T5	Disorders 123 129	Hunger
+T6	Physiology 133 140	stillen
+T7	Disorders 201 214	Dehydratation
+T8	Chemicals_Drugs 365 376	Medikamente
+T9	Procedures 477 495	subkutane Infusion
+T10	Procedures 824 840	Schmerzlinderung
+T11	Disorders 875 887	Nebenwirkung
+T12	Living_Beings 1362 1371	Patienten

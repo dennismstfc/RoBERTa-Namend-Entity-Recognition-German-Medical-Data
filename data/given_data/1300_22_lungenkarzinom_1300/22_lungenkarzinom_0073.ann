@@ -1,0 +1,10 @@
+T1	TNM 60 62	T3
+T2	TNM 99 101	T4
+T3	Anatomical_Structure 183 188	Aorta
+T4	Anatomical_Structure 224 235	Mediastinum
+T5	Living_Beings 498 507	Patienten
+T6	Anatomical_Structure 615 625	Thoraxwand
+T7	TNM 967 969	T4
+T8	Anatomical_Structure 998 1004	Pleura
+T9	Disorders 1128 1140	Pleuraerguss
+T10	Anatomical_Structure 1201 1207	Pleura

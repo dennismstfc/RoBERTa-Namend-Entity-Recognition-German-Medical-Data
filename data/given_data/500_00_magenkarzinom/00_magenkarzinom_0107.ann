@@ -1,0 +1,17 @@
+T1	Living_Beings 94 103	Patienten
+T2	Disorders 108 132	Adenokarzinom des Magens
+T3	Disorders 201 208	Tumoren
+T4	Living_Beings 295 304	Patienten
+T5	Procedures 320 344	externe Strahlentherapie
+T6	Procedures 398 412	Fraktionierung
+T7	Procedures 443 456	Chemotherapie
+T8	Living_Beings 471 480	Patienten
+T9	Procedures 505 536	intraoperative Strahlentherapie
+T10	Living_Beings 720 729	Patienten
+T11	Living_Beings 787 796	Patienten
+T12	Procedures 909 922	Chemotherapie
+T13	Living_Beings 950 959	Patienten
+T14	Procedures 997 1015	Radiochemotherapie
+T15	Procedures 1037 1053	Strahlentherapie
+T16	Procedures 1098 1116	Radiochemotherapie
+T17	Procedures 1174 1182	Therapie

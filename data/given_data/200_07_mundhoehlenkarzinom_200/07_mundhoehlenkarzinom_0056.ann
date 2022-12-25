@@ -1,0 +1,34 @@
+T1	Physiology 17 26	Intention
+T2	Procedures 78 93	Neck-dissection
+T3	TNM 104 107	cN0
+T4	Procedures 145 160	Neck-dissection
+T5	Disorders 284 305	Lymphknotenmetastasen
+T6	Procedures 346 361	Neck-dissection
+T7	Procedures 412 436	Radikale Neck-dissection
+T8	Procedures 570 594	radikale Neck-dissection
+T9	Procedures 696 711	Neck-dissection
+T10	Procedures 828 843	Neck-dissection
+T11	TNM 1024 1027	cN0
+T12	Procedures 1255 1270	Neck-dissection
+T13	Procedures 1389 1404	Neck-dissection
+T14	Procedures 1672 1687	Neck-dissection
+T15	Procedures 1816 1831	Neck-dissection
+T16	Procedures 2050 2065	Neck-dissection
+T17	Procedures 2105 2113	Prognose
+T18	Disorders 2217 2238	Lymphknotenmetastasen
+T19	Anatomical_Structure 2438 2442	Hals
+T20	Procedures 2457 2472	Neck-dissection
+T21	Anatomical_Structure 2600 2604	Hals
+T22	Living_Beings 2618 2627	Patienten
+T23	Devices 2874 2880	Rahmen
+T24	Procedures 2897 2912	Neck-dissection
+T25	TNM 4074 4077	cN0
+T26	Anatomical_Structure 4078 4082	Hals
+T27	Procedures 4152 4167	Neck-dissection
+T28	Procedures 4214 4229	Neck-dissection
+T29	Procedures 4249 4264	Neck-dissection
+T30	Procedures 4361 4376	Neck-dissection
+T31	Disorders 4445 4456	Erweiterung
+T32	Procedures 4506 4532	adjuvante Strahlentherapie
+T33	Procedures 4599 4625	adjuvante Strahlentherapie
+T34	TNM 4672 4675	pN1

@@ -1,0 +1,5 @@
+T1	Living_Beings 57 66	Patienten
+T2	Disorders 71 93	Plattenepithelkarzinom
+T3	Disorders 104 120	Allgemeinzustand
+T4	Procedures 141 154	Immuntherapie
+T5	Procedures 191 204	Chemotherapie

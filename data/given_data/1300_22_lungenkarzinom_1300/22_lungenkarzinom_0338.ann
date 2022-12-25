@@ -1,0 +1,17 @@
+T1	Procedures 21 37	Strahlentherapie
+T2	Physiology 51 60	Intention
+T3	Living_Beings 62 71	Patienten
+T4	Procedures 121 151	kombinierte Radiochemotherapie
+T5	Disorders 285 301	Allgemeinzustand
+T6	Procedures 322 338	Strahlentherapie
+T7	Anatomical_Structure 375 386	Lymphknoten
+T8	Procedures 421 437	Strahlentherapie
+T9	Living_Beings 439 448	Patienten
+T10	Disorders 554 570	Allgemeinzustand
+T11	Procedures 589 605	Strahlentherapie
+T12	Disorders 682 689	Dyspnoe
+T13	Disorders 691 697	Husten
+T14	Disorders 699 708	Dysphagie
+T15	Disorders 710 723	Thoraxschmerz
+T16	Living_Beings 752 761	Patienten
+T17	Disorders 774 790	Allgemeinzustand

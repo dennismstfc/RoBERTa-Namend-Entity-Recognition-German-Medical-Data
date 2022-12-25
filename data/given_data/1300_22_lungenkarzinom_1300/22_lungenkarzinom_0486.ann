@@ -1,0 +1,7 @@
+T1	Procedures 23 46	adjuvante Chemotherapie
+T2	Chemicals_Drugs 83 92	Cisplatin
+T3	Chemicals_Drugs 93 101	Etoposid
+T4	Procedures 127 135	Therapie
+T5	Disorders 161 179	Kontraindikationen
+T6	Chemicals_Drugs 186 195	Cisplatin
+T7	Procedures 274 297	adjuvante Chemotherapie

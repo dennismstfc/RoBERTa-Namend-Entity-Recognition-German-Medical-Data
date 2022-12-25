@@ -1,0 +1,19 @@
+T1	Living_Beings 33 42	Patienten
+T2	Procedures 69 78	Nachsorge
+T3	Procedures 93 102	Nachsorge
+T4	Procedures 327 336	Nachsorge
+T5	Procedures 418 427	Nachsorge
+T6	Living_Beings 461 470	Patienten
+T7	Procedures 560 569	Nachsorge
+T8	Living_Beings 641 650	Patienten
+T9	Living_Beings 761 770	Patienten
+T10	Procedures 786 800	Tumorresektion
+T11	Disorders 805 812	Rezidiv
+T12	Living_Beings 828 837	Patienten
+T13	Procedures 932 941	Nachsorge
+T14	Procedures 1012 1024	Untersuchung
+T15	Procedures 1143 1155	Untersuchung
+T16	Anatomical_Structure 1239 1245	Thorax
+T17	Procedures 1267 1276	Thorax-CT
+T18	Disorders 1281 1299	metachrone Tumoren
+T19	Living_Beings 1335 1344	Patienten

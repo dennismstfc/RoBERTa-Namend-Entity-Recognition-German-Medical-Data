@@ -1,0 +1,42 @@
+T1	Procedures 17 30	Chemotherapie
+T2	Procedures 49 63	Tumorreduktion
+T3	Procedures 99 107	Therapie
+T4	Procedures 302 315	Chemotherapie
+T5	Living_Beings 320 329	Patienten
+T6	TNM 341 343	N0
+T7	TNM 349 351	N1
+T8	Living_Beings 391 400	Patienten
+T9	TNM 412 414	N2
+T10	Procedures 530 543	Chemotherapie
+T11	Living_Beings 548 557	Patienten
+T12	Living_Beings 621 630	Patienten
+T13	Procedures 877 890	Chemotherapie
+T14	Procedures 1079 1092	Chemotherapie
+T15	Procedures 1377 1393	Strahlentherapie
+T16	Devices 1397 1403	Rahmen
+T17	Chemicals_Drugs 1497 1506	Cisplatin
+T18	Living_Beings 1551 1560	Patienten
+T19	Chemicals_Drugs 1625 1634	Cisplatin
+T20	Procedures 1796 1809	Chemotherapie
+T21	Procedures 1935 1948	Chemotherapie
+T22	Procedures 2005 2023	adjuvante Therapie
+T23	Procedures 2301 2325	Induktions-Chemotherapie
+T24	Procedures 2356 2379	adjuvante Chemotherapie
+T25	Procedures 2521 2539	adjuvante Therapie
+T26	Anatomical_Structure 2558 2561	Arm
+T27	Living_Beings 2593 2602	Patienten
+T28	Chemicals_Drugs 2639 2649	Paclitaxel
+T29	Chemicals_Drugs 2654 2665	Carboplatin
+T30	Procedures 2757 2765	Therapie
+T31	Living_Beings 2953 2962	Patienten
+T32	Procedures 3007 3025	adjuvante Therapie
+T33	Anatomical_Structure 3156 3159	Arm
+T34	Procedures 3471 3482	Metaanalyse
+T35	Living_Beings 3561 3570	Patienten
+T36	Procedures 3896 3908	Meta-Analyse
+T37	Living_Beings 3941 3950	Patienten
+T38	Chemicals_Drugs 4184 4190	Platin
+T39	Procedures 4473 4481	Therapie
+T40	Procedures 4496 4507	Metaanalyse
+T41	Procedures 4629 4647	adjuvante Therapie
+T42	Living_Beings 4741 4750	Patienten

@@ -1,0 +1,7 @@
+T1	Anatomical_Structure 5 16	Lymphknoten
+T2	Devices 25 31	Rahmen
+T3	Procedures 66 82	Mediastinoskopie
+T4	Procedures 122 138	Lymphadenektomie
+T5	Devices 155 161	Rahmen
+T6	Procedures 166 180	Tumorresektion
+T7	Chemicals_Drugs 221 229	Paraffin

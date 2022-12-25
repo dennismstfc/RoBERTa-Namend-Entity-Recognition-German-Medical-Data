@@ -1,0 +1,12 @@
+T1	Physiology 1 15	Benzodiazepine
+T2	Chemicals_Drugs 1 15	Benzodiazepine
+T3	Living_Beings 51 60	Patienten
+T4	Disorders 65 72	Atemnot
+T5	Living_Beings 185 194	Patienten
+T6	Disorders 217 222	Angst
+T7	Disorders 229 242	Panikreaktion
+T8	Physiology 336 350	Benzodiazepine
+T9	Chemicals_Drugs 336 350	Benzodiazepine
+T10	Procedures 448 456	Therapie
+T11	Disorders 730 735	Angst
+T12	Living_Beings 826 835	Patienten

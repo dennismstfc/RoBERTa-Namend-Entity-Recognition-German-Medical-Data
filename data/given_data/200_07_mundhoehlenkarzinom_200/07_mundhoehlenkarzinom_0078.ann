@@ -1,0 +1,5 @@
+T1	Living_Beings 0 9	Patienten
+T2	Disorders 39 46	Tumoren
+T3	TNM 48 50	T1
+T4	TNM 53 55	T2
+T5	Procedures 127 141	Brachytherapie

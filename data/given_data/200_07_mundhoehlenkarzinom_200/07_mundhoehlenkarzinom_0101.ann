@@ -1,0 +1,5 @@
+T1	Living_Beings 0 9	Patienten
+T2	Disorders 20 29	Dysphagie
+T3	Procedures 54 64	Diagnostik
+T4	Chemicals_Drugs 108 122	Kontrastmittel
+T5	Procedures 149 159	Endoskopie

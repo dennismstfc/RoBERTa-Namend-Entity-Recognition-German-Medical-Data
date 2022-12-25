@@ -1,0 +1,13 @@
+T1	Devices 0 6	Stents
+T2	Procedures 86 96	Behandlung
+T3	Disorders 101 108	Dyspnoe
+T4	Chemicals_Drugs 166 173	Silikon
+T5	Devices 179 211	selbstexpandierende Metallstents
+T6	Anatomical_Structure 227 234	Trachea
+T7	Anatomical_Structure 251 260	Bronchien
+T8	Living_Beings 513 522	Patienten
+T9	Procedures 593 607	Untersuchungen
+T10	Disorders 914 921	Dyspnoe
+T11	Physiology 1028 1037	Charakter
+T12	Anatomical_Structure 1096 1103	Trachea
+T13	Devices 1452 1457	Stent

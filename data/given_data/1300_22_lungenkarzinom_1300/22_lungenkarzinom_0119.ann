@@ -1,0 +1,15 @@
+T1	Disorders 87 109	Lymphknoten-Metastasen
+T2	Procedures 170 182	Untersuchung
+T3	Anatomical_Structure 347 358	Lymphknoten
+T4	Anatomical_Structure 428 439	Lymphknoten
+T5	Procedures 460 476	Mediastinoskopie
+T6	Living_Beings 481 490	Patienten
+T7	Anatomical_Structure 522 533	Lymphknoten
+T8	Procedures 612 628	Mediastinoskopie
+T9	Anatomical_Structure 679 690	Mediastinum
+T10	Procedures 706 718	Untersuchung
+T11	Anatomical_Structure 772 783	Lymphknoten
+T12	Living_Beings 803 812	Patienten
+T13	Living_Beings 921 930	Patienten
+T14	Procedures 971 987	Mediastinoskopie
+T15	Disorders 1080 1102	Lymphknoten-Metastasen

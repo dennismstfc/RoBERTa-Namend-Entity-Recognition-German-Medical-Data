@@ -1,0 +1,21 @@
+T1	Living_Beings 31 40	Patienten
+T2	Disorders 84 94	Metastasen
+T3	Anatomical_Structure 160 167	Knochen
+T4	Anatomical_Structure 252 257	Leber
+T5	Anatomical_Structure 259 270	Nebennieren
+T6	Anatomical_Structure 292 303	Lymphknoten
+T7	Anatomical_Structure 305 309	Hirn
+T8	Anatomical_Structure 355 366	Lymphknoten
+T9	Disorders 444 459	Gewichtsverlust
+T10	Disorders 461 468	Ikterus
+T11	Disorders 484 497	Kopfschmerzen
+T12	Disorders 516 545	neurologische Manifestationen
+T13	Disorders 562 574	Verwirrtheit
+T14	Anatomical_Structure 576 579	ZNS
+T15	Disorders 580 586	Befall
+T16	Procedures 672 688	Feinnadelbiopsie
+T17	Procedures 762 773	Metaanalyse
+T18	Living_Beings 799 808	Patienten
+T19	Disorders 844 859	Gewichtsverlust
+T20	Disorders 869 877	Anorexie
+T21	Procedures 1049 1061	Untersuchung

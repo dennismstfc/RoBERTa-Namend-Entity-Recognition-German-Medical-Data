@@ -1,0 +1,9 @@
+Bei Patienten (ECOG 0-1) mit Nicht-Plattenepithelkarzinom und PDL1-Negativität soll eine 2. Linientherapie angeboten werden.
+Therapieoption sind: 
+
+Docetaxel-Nintedanib, 
+Docetaxel-Ramucirumab, 
+Pemetrexed, 
+Docetaxel, 
+Erlotinib
+Nivolumab.

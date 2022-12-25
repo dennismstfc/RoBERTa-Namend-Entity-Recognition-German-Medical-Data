@@ -1,0 +1,10 @@
+T1	Disorders 202 209	Tumoren
+T2	Disorders 601 609	Karzinom
+T3	Procedures 881 893	Gastrektomie
+T4	Anatomical_Structure 1291 1305	Resektionsrand
+T5	TNM 1386 1388	R0
+T6	Procedures 1511 1525	Magenresektion
+T7	Living_Beings 1955 1964	Patienten
+T8	Procedures 2540 2552	Gastrektomie
+T9	Procedures 2732 2744	Gastrektomie
+T10	Procedures 2836 2848	Gastrektomie

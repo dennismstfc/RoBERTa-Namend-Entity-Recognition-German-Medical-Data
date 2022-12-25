@@ -1,0 +1,4 @@
+Die typische Strahlendosis einer Thoraxübersichtsaufnahme in 2 Ebenen beträgt 0,02 mSv (natürliche Strahlenbelastung in Deutschland 2,1mSv/a, Transatlantikflug 0,1 mSv) (Ref: www.bfs.de). 
+Die typische Dosis einer Thorax-CT beträgt beim Erwachsenen 5 mSv (Evidenzgrad 3b). Bei Kindern (2mSv pro Thorax-CT) ist mit 1,5-10 induzierten Tumorerkrankungen pro 10000 Thorax-CT Untersuchungen zu rechnen (, Evidenzgrad 2a); beim 65 jährigen Erwachsenen mit 0,5 pro 10000 Thorax-CT Untersuchungen. Dies ist im Vergleich zu sehen mit einer kumulativen Tumorinzidenz von etwa 4200 pro 10000 Personen (=42 %) ((, Evidenzgrad 2a).
+Die MRT kommt ohne ionisierende Strahlung aus.
+Patienten mit Verdacht auf Lungenkarzinom haben vom potentiellen Ergebnis einer CT Thorax einen großen Nutzen, der das relativ geringe Risiko eines strahleninduzierten Schadens überwiegt.

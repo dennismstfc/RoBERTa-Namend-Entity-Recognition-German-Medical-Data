@@ -1,0 +1,8 @@
+T1	Living_Beings 0 9	Patienten
+T2	Disorders 20 42	Plattenepithelkarzinom
+T3	Procedures 103 111	Therapie
+T4	Disorders 137 155	Kontraindikationen
+T5	Chemicals_Drugs 278 287	Docetaxel
+T6	Chemicals_Drugs 289 299	Pemetrexed
+T7	Chemicals_Drugs 301 310	Docetaxel
+T8	Chemicals_Drugs 339 348	Erlotinib

@@ -1,0 +1,14 @@
+T1	Procedures 111 124	Chemotherapie
+T2	Anatomical_Structure 230 241	Lymphknoten
+T3	Procedures 524 536	Untersuchung
+T4	Procedures 660 668	Therapie
+T5	Disorders 729 736	Tumoren
+T6	Procedures 782 785	pCR
+T7	Chemicals_Drugs 1095 1103	Paraffin
+T8	Procedures 1260 1274	Untersuchungen
+T9	Anatomical_Structure 1321 1332	Lymphknoten
+T10	Anatomical_Structure 1583 1594	Lymphknoten
+T11	Anatomical_Structure 1820 1831	Lymphknoten
+T12	Disorders 1941 1950	Resttumor
+T13	Anatomical_Structure 2060 2071	Lymphknoten
+T14	Anatomical_Structure 2214 2225	Lymphknoten

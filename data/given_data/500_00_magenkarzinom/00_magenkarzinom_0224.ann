@@ -1,0 +1,11 @@
+T1	Physiology 60 71	Beurteilung
+T2	Procedures 88 98	Diagnostik
+T3	Living_Beings 127 136	Patienten
+T4	Physiology 287 295	sprechen
+T5	Procedures 622 630	Therapie
+T6	Disorders 1016 1029	Magenkarzinom
+T7	Living_Beings 1101 1110	Patienten
+T8	Physiology 1214 1221	Appetit
+T9	Living_Beings 1680 1689	Patienten
+T10	Disorders 1694 1707	Magenkarzinom
+T11	Living_Beings 2015 2024	Patienten

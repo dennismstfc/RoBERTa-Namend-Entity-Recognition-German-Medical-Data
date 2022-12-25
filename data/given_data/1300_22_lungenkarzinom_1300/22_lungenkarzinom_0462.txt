@@ -1,0 +1,5 @@
+Patienten mit OMD (nach IASLC 2016/17) sollten präferentiell prospektiv in dem (lokalen) klinischen Zentrum (Tumorboard) dokumentiert werden und die vorliegende 
+a) Zahl der Metastasenorte 
+b) Metastasenlokalisationen 
+c) größten Durchmesser der Organmetastasen 
+festgehalten werden.

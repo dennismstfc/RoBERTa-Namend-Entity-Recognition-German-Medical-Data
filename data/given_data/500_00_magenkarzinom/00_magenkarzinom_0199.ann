@@ -1,0 +1,24 @@
+T1	Living_Beings 117 126	Patienten
+T2	Disorders 131 144	Magenkarzinom
+T3	Living_Beings 219 228	Patienten
+T4	Physiology 318 329	Assoziation
+T5	Disorders 407 416	Dysphagie
+T6	Disorders 422 442	Magenausgangsstenose
+T7	Physiology 477 493	Nahrungsaufnahme
+T8	Living_Beings 610 619	Patienten
+T9	Living_Beings 759 768	Patienten
+T10	Procedures 1022 1042	kombinierte Therapie
+T11	Disorders 1547 1562	Gewichtsverlust
+T12	Anatomical_Structure 1704 1709	Leber
+T13	Disorders 1747 1759	Untergewicht
+T14	Chemicals_Drugs 1829 1841	Serumalbumin
+T15	Anatomical_Structure 1902 1907	Leber
+T16	Chemicals_Drugs 2009 2021	Serumalbumin
+T17	Living_Beings 2230 2239	Patienten
+T18	Chemicals_Drugs 2275 2287	Serumalbumin
+T19	Procedures 2471 2483	Meta-Analyse
+T20	Living_Beings 2685 2694	Patienten
+T21	Disorders 2718 2726	Karzinom
+T22	Disorders 2757 2772	Gewichtsverlust
+T23	Living_Beings 3435 3444	Patienten
+T24	Living_Beings 3667 3676	Patienten

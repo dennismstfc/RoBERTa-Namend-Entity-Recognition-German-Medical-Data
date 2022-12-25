@@ -1,0 +1,5 @@
+T1	Chemicals_Drugs 6 12	18-FDG
+T2	Anatomical_Structure 122 133	Lymphknoten
+T3	Procedures 179 191	Untersuchung
+T4	TNM 339 343	N0/1
+T5	TNM 361 365	N2/3

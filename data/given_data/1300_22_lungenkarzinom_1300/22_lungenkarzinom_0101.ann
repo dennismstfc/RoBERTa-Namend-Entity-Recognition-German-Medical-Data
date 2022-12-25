@@ -1,0 +1,14 @@
+T1	Procedures 17 29	Untersuchung
+T2	Anatomical_Structure 34 40	Sputum
+T3	Disorders 271 278	Tumoren
+T4	Procedures 471 489	Sputumuntersuchung
+T5	Living_Beings 510 519	Patienten
+T6	Disorders 542 557	Sputumzytologie
+T7	Disorders 886 893	Tumoren
+T8	Disorders 951 966	Sputumzytologie
+T9	Living_Beings 1025 1034	Patienten
+T10	Disorders 1056 1070	Lungenkarzinom
+T11	Living_Beings 1245 1254	Patienten
+T12	Disorders 1294 1308	Lungenkarzinom
+T13	Living_Beings 1671 1680	Patienten
+T14	Procedures 1790 1808	Sputumuntersuchung

@@ -1,0 +1,15 @@
+T1	Living_Beings 12 21	Patienten
+T2	Disorders 26 39	Magenkarzinom
+T3	Disorders 40 46	leiden
+T4	Disorders 88 103	Gewichtsverlust
+T5	Living_Beings 281 290	Patienten
+T6	Disorders 499 504	Angst
+T7	Disorders 506 516	Depression
+T8	Procedures 555 572	Bewegungstherapie
+T9	Procedures 666 683	Bewegungstherapie
+T10	Living_Beings 813 822	Patienten
+T11	Procedures 967 981	Rehabilitation
+T12	Living_Beings 987 996	Patienten
+T13	Procedures 1215 1231	Ausdauertraining
+T14	Physiology 1369 1379	Motivation
+T15	Living_Beings 1384 1393	Patienten

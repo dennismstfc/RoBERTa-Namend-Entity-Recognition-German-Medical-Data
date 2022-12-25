@@ -1,0 +1,22 @@
+T1	Procedures 90 106	Mediastinoskopie
+T2	Disorders 214 220	Befall
+T3	Anatomical_Structure 235 246	Lymphknoten
+T4	Procedures 306 329	adjuvante Chemotherapie
+T5	Procedures 416 429	Radiotherapie
+T6	Procedures 446 459	Chemotherapie
+T7	Procedures 541 564	adjuvante Chemotherapie
+T8	Living_Beings 587 596	Patienten
+T9	TNM 614 616	N2
+T10	Procedures 652 665	Radiotherapie
+T11	Procedures 850 863	Radiotherapie
+T12	Disorders 935 941	Befall
+T13	Procedures 1039 1060	Lymphknotendissektion
+T14	TNM 1096 1098	T4
+T15	TNM 1098 1100	N0
+T16	TNM 1103 1105	T4
+T17	TNM 1105 1107	N1
+T18	Disorders 1313 1319	Befall
+T19	Disorders 1402 1411	Metastase
+T20	Procedures 1449 1472	adjuvante Chemotherapie
+T21	Living_Beings 1694 1703	Patienten
+T22	Procedures 1824 1838	Chemotherapien

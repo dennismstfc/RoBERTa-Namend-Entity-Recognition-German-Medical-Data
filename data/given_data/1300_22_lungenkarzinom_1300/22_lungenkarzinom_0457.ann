@@ -1,0 +1,13 @@
+T1	Living_Beings 0 9	Patienten
+T2	Living_Beings 195 204	Patienten
+T3	Physiology 304 313	Intention
+T4	Physiology 314 321	greifen
+T5	Disorders 393 402	Metastase
+T6	Disorders 453 463	Metastasen
+T7	Procedures 558 564	PET-CT
+T8	Procedures 579 582	MRT
+T9	Disorders 626 637	Meta-stasen
+T10	Anatomical_Structure 773 784	Mediastinum
+T11	Procedures 822 830	Prognose
+T12	Procedures 990 996	PET-CT
+T13	Procedures 1006 1022	Mediastinoskopie

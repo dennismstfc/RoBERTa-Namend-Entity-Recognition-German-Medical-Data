@@ -1,0 +1,21 @@
+T1	Anatomical_Structure 144 149	Magen
+T2	Disorders 165 181	Linitis plastica
+T3	Procedures 286 300	Untersuchungen
+T4	Procedures 742 752	Diagnostik
+T5	Disorders 938 944	Falten
+T6	Procedures 988 998	Diagnostik
+T7	Procedures 1107 1114	Biopsie
+T8	Disorders 1211 1217	Falten
+T9	Living_Beings 1578 1587	Patienten
+T10	Disorders 1710 1723	Magenkarzinom
+T11	Procedures 1850 1862	Untersuchung
+T12	Living_Beings 1874 1883	Patienten
+T13	Procedures 1994 2001	Biopsie
+T14	Living_Beings 2216 2225	Patienten
+T15	Procedures 2257 2276	Computertomographie
+T16	Procedures 2313 2328	Endosonographie
+T17	Living_Beings 2421 2430	Patienten
+T18	Disorders 2476 2489	Magenkarzinom
+T19	Procedures 2669 2676	Biopsie
+T20	Anatomical_Structure 2715 2726	Lymphknoten
+T21	Disorders 2836 2846	Neoplasien

@@ -1,0 +1,14 @@
+T1	Anatomical_Structure 38 43	Magen
+T2	Physiology 63 75	Blutstillung
+T3	Procedures 111 124	Radiotherapie
+T4	Procedures 224 243	Prospektive Studien
+T5	Procedures 378 391	Radiotherapie
+T6	Living_Beings 841 850	Patienten
+T7	Disorders 873 886	Magenkarzinom
+T8	Physiology 950 962	Blutstillung
+T9	Physiology 1161 1173	Blutstillung
+T10	Living_Beings 1219 1228	Patienten
+T11	Disorders 1248 1255	Schmerz
+T12	Disorders 1260 1271	Obstruktion
+T13	Procedures 1396 1406	Behandlung
+T14	Procedures 1484 1497	Chemotherapie

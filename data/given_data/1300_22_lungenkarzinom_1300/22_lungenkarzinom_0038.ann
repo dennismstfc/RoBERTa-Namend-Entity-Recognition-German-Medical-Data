@@ -1,0 +1,14 @@
+T1	Chemicals_Drugs 36 41	Noxen
+T2	Disorders 65 76	Lungenkrebs
+T3	Chemicals_Drugs 210 215	Noxen
+T4	Chemicals_Drugs 473 484	kanzerogene
+T5	Chemicals_Drugs 776 787	kanzerogene
+T6	Chemicals_Drugs 822 834	Gefahrstoffe
+T7	Chemicals_Drugs 990 1001	kanzerogene
+T8	Disorders 1095 1108	Karzinogenese
+T9	Physiology 2132 2143	Beurteilung
+T10	Chemicals_Drugs 3057 3063	Asbest
+T11	Chemicals_Drugs 3855 3861	Wismut
+T12	Living_Beings 3902 3914	Arbeitnehmer
+T13	Living_Beings 3980 3992	Arbeitnehmer
+T14	Procedures 4072 4086	Untersuchungen

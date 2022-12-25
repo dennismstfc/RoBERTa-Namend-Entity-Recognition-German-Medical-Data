@@ -1,0 +1,12 @@
+T1	Procedures 25 33	Therapie
+T2	Devices 491 502	Ver-schluss
+T3	Living_Beings 722 731	Patienten
+T4	Procedures 1009 1028	Computertomographie
+T5	Procedures 1117 1128	Ultraschall
+T6	Devices 1369 1378	YAG-Laser
+T7	Disorders 1529 1549	Lichtempfindlichkeit
+T8	Disorders 1551 1562	Sonnenbrand
+T9	Anatomical_Structure 1835 1846	Schleimhaut
+T10	Disorders 1892 1899	Tumoren
+T11	Procedures 2064 2078	Brachytherapie
+T12	Living_Beings 2224 2233	Patienten

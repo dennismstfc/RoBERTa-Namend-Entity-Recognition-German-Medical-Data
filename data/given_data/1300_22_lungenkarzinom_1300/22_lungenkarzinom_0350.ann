@@ -1,0 +1,13 @@
+T1	Chemicals_Drugs 29 38	Cisplatin
+T2	Chemicals_Drugs 114 122	Etoposid
+T3	Chemicals_Drugs 124 134	Vinorelbin
+T4	Chemicals_Drugs 151 157	Taxane
+T5	Chemicals_Drugs 159 169	Paclitaxel
+T6	Chemicals_Drugs 174 183	Docetaxel
+T7	Chemicals_Drugs 258 267	Cisplatin
+T8	Chemicals_Drugs 272 280	Etoposid
+T9	Chemicals_Drugs 287 296	Cisplatin
+T10	Chemicals_Drugs 320 331	Carboplatin
+T11	Procedures 341 362	Behandlungsprotokolle
+T12	Disorders 435 451	Allgemeinzustand
+T13	Living_Beings 475 484	Patienten

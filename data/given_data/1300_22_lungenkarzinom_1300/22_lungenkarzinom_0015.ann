@@ -1,0 +1,27 @@
+T1	Disorders 79 104	Neubildungen der Atemwege
+T2	Disorders 195 212	Berufskrankheiten
+T3	Disorders 254 265	Lungenkrebs
+T4	Chemicals_Drugs 286 316	aromatische Kohlenwasserstoffe
+T5	Chemicals_Drugs 388 401	Benzo(a)pyren
+T6	Chemicals_Drugs 474 480	Asbest
+T7	Disorders 534 545	Lungenkrebs
+T8	Chemicals_Drugs 910 930	Luftverunreinigungen
+T9	Disorders 1206 1231	Neubildungen der Atemwege
+T10	Disorders 1290 1301	Verbrennung
+T11	Physiology 1318 1326	Material
+T12	Chemicals_Drugs 1362 1392	aromatische Kohlenwasserstoffe
+T13	Chemicals_Drugs 1428 1441	Benzo(a)pyren
+T14	Disorders 1484 1498	Lungenkarzinom
+T15	Physiology 1915 1924	Aluminium
+T16	Procedures 1915 1924	Aluminium
+T17	Chemicals_Drugs 1915 1924	Aluminium
+T18	Chemicals_Drugs 1955 1966	Kohlenstoff
+T19	Chemicals_Drugs 1980 1985	Teere
+T20	Anatomical_Structure 2061 2067	Steine
+T21	Procedures 2076 2081	Eisen
+T22	Chemicals_Drugs 2076 2081	Eisen
+T23	Physiology 2076 2081	Eisen
+T24	Chemicals_Drugs 2310 2340	aromatische Kohlenwasserstoffe
+T25	Chemicals_Drugs 2468 2481	Benzo(a)pyren
+T26	Chemicals_Drugs 2724 2737	Benzo(a)pyren
+T27	Chemicals_Drugs 2787 2817	aromatische Kohlenwasserstoffe

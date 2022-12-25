@@ -1,0 +1,5 @@
+T1	Disorders 18 31	Magenkarzinom
+T2	TNM 47 50	cT3
+T3	TNM 67 70	cT4
+T4	Disorders 71 78	Tumoren
+T5	Procedures 103 116	Chemotherapie

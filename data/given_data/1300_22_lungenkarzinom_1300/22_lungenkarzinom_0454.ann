@@ -1,0 +1,10 @@
+T1	Living_Beings 0 9	Patienten
+T2	Anatomical_Structure 88 94	Gehirn
+T3	Anatomical_Structure 96 101	Leber
+T4	Anatomical_Structure 115 122	Knochen
+T5	Anatomical_Structure 124 128	Haut
+T6	Anatomical_Structure 130 135	Lunge
+T7	Anatomical_Structure 160 171	Lymphknoten
+T8	TNM 232 235	M1b
+T9	Disorders 368 378	Metastasen
+T10	Anatomical_Structure 408 414	Gehirn

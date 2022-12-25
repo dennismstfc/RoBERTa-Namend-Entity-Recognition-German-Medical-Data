@@ -1,0 +1,9 @@
+T1	Procedures 5 28	adjuvante Chemotherapie
+T2	TNM 68 70	N2
+T3	Living_Beings 112 121	Patienten
+T4	Procedures 219 232	Chemotherapie
+T5	Procedures 377 390	Chemotherapie
+T6	TNM 592 594	T4
+T7	TNM 594 598	N0/1
+T8	Disorders 754 760	Befall
+T9	Disorders 843 852	Metastase

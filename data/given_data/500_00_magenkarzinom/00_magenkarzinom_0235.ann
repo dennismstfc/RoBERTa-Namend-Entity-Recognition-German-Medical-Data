@@ -1,0 +1,12 @@
+T1	Disorders 167 180	Magenkarzinom
+T2	Living_Beings 217 226	Patienten
+T3	Procedures 652 665	Chemotherapie
+T4	Disorders 666 676	Leukopenie
+T5	Procedures 703 716	Chemotherapie
+T6	Anatomical_Structure 756 772	Verdauungssystem
+T7	Anatomical_Structure 1056 1067	Immunsystem
+T8	Procedures 1307 1315	Therapie
+T9	Chemicals_Drugs 1393 1406	Schwermetalle
+T10	Chemicals_Drugs 1408 1417	Pestizide
+T11	Chemicals_Drugs 1463 1473	Corticoide
+T12	Living_Beings 1564 1572	Pflanzen

@@ -1,0 +1,17 @@
+T1	Disorders 135 145	Metastasen
+T2	Disorders 481 515	nicht kleinzelliges Lungenkarzinom
+T3	Procedures 702 716	Untersuchungen
+T4	Devices 754 760	Marker
+T5	Disorders 923 936	Lungentumoren
+T6	Disorders 1141 1163	kleinzelliges Karzinom
+T7	Disorders 1168 1175	Lymphom
+T8	Disorders 1219 1232	Lungentumoren
+T9	Disorders 1259 1268	Karzinoid
+T10	Disorders 1270 1292	kleinzelliges Karzinom
+T11	Procedures 1314 1328	Untersuchungen
+T12	Devices 1362 1368	Marker
+T13	Disorders 1548 1570	kleinzelliges Karzinom
+T14	Disorders 1602 1609	Tumoren
+T15	Procedures 2288 2295	Biopsie
+T16	Procedures 2338 2358	Differentialdiagnose
+T17	Anatomical_Structure 2513 2518	Lunge

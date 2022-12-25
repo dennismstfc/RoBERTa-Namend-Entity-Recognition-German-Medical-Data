@@ -1,0 +1,13 @@
+T1	Living_Beings 49 58	Patienten
+T2	Procedures 307 323	Strahlentherapie
+T3	Procedures 437 447	Behandlung
+T4	Living_Beings 468 477	Patienten
+T5	Procedures 633 646	Chemotherapie
+T6	Living_Beings 661 670	Patienten
+T7	Procedures 695 711	Strahlentherapie
+T8	Procedures 1186 1202	Strahlentherapie
+T9	Procedures 1372 1388	Strahlentherapie
+T10	Living_Beings 1531 1540	Patienten
+T11	Procedures 1607 1623	Strahlentherapie
+T12	Procedures 1637 1645	Prognose
+T13	Living_Beings 1660 1669	Patienten

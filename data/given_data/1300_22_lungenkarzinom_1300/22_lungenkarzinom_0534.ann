@@ -1,0 +1,10 @@
+T1	Living_Beings 4 13	Patienten
+T2	Living_Beings 126 135	Patienten
+T3	Chemicals_Drugs 184 193	Cisplatin
+T4	Living_Beings 222 231	Patienten
+T5	Disorders 242 258	Allgemeinzustand
+T6	Disorders 368 382	Risikofaktoren
+T7	Chemicals_Drugs 470 481	Carboplatin
+T8	Chemicals_Drugs 482 490	Etoposid
+T9	Living_Beings 502 511	Patienten
+T10	Procedures 556 564	Therapie

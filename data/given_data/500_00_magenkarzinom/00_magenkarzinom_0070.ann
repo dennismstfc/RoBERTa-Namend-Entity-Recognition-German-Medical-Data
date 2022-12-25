@@ -1,0 +1,26 @@
+T1	Living_Beings 235 244	Patienten
+T2	Procedures 486 494	Therapie
+T3	Anatomical_Structure 879 890	Lymphknoten
+T4	TNM 980 983	pN0
+T5	Procedures 1042 1054	Untersuchung
+T6	Anatomical_Structure 1084 1095	Lymphknoten
+T7	Procedures 1204 1220	Lymphadenektomie
+T8	Procedures 1259 1271	Untersuchung
+T9	Anatomical_Structure 1315 1326	Lymphknoten
+T10	Living_Beings 1354 1363	Patienten
+T11	Procedures 1419 1432	Chemotherapie
+T12	Procedures 1438 1456	Radiochemotherapie
+T13	Procedures 1544 1553	Extension
+T14	Anatomical_Structure 1811 1822	Lymphknoten
+T15	Procedures 1833 1849	Lymphadenektomie
+T16	Anatomical_Structure 1886 1891	Magen
+T17	Procedures 1942 1958	Lymphadenektomie
+T18	Anatomical_Structure 2079 2090	Lymphknoten
+T19	Procedures 2151 2163	Splenektomie
+T20	Procedures 2246 2254	Therapie
+T21	Procedures 2400 2408	Therapie
+T22	Procedures 2464 2472	Prognose
+T23	Disorders 2526 2539	Residualtumor
+T24	Procedures 2896 2904	Therapie
+T25	Physiology 3288 3299	Beurteilung
+T26	Disorders 3838 3858	Perineurale Invasion

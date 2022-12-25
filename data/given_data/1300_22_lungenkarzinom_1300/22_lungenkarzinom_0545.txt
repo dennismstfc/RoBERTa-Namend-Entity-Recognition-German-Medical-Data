@@ -1,0 +1,4 @@
+Ein refraktäres Rezidiv (refraktäre Erkrankung) liegt vor, wenn kein Ansprechen aufeine Erstlinientherapie erreicht wird und die Erkrankung unter den ersten beiden Therapiezyklen primär progredient ist.
+Ein resistentes Rezidiv (resistente Erkrankung) liegt vor, wenn zwar unter der Erstlinienchemotherapie eine Remission oder ein no change erreicht wurde, die Erkrankung jedoch innerhalb von 90 Tagen nach Gabe der letzten Chemotherapie wieder progredient wurde.
+Ein sensibles Rezidiv liegt vor, wenn unter der Erstlinientherapie eine Remission oder ein no change erreicht wurde und die Erkrankung später als 90 Tage und früher als 6 Monate nach der letzten Chemotherapie wieder progredient wurde.
+Ein Spätrezidiv liegt vor, wenn unter der Erstlinientherapie eine Remission oder ein no change erreicht wurde und die Erkrankung später als nach 6 Monaten nach Gabe der letzten Chemotherapie wieder progredient wurde.

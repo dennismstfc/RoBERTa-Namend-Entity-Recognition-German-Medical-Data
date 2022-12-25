@@ -1,0 +1,17 @@
+T1	Living_Beings 0 9	Patienten
+T2	TNM 33 35	T1
+T3	Procedures 150 163	Chemotherapie
+T4	Procedures 187 200	Chemotherapie
+T5	Living_Beings 244 253	Patienten
+T6	Procedures 283 296	Chemotherapie
+T7	Chemicals_Drugs 306 315	Cisplatin
+T8	Chemicals_Drugs 316 324	Etoposid
+T9	TNM 385 387	N1
+T10	Disorders 388 394	Befall
+T11	TNM 424 426	N2
+T12	Disorders 427 433	Befall
+T13	Living_Beings 501 510	Patienten
+T14	Living_Beings 964 973	Patienten
+T15	Living_Beings 1109 1119	Pati-enten
+T16	Procedures 1144 1160	Strahlentherapie
+T17	Procedures 1277 1291	Untersuchungen

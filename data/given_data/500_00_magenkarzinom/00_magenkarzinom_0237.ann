@@ -1,0 +1,14 @@
+T1	Living_Beings 81 90	Patienten
+T2	Procedures 145 153	Therapie
+T3	Living_Beings 213 223	Probiotika
+T4	Procedures 242 250	Therapie
+T5	Procedures 285 295	Behandlung
+T6	Devices 442 448	tragen
+T7	Living_Beings 449 459	Probiotika
+T8	Chemicals_Drugs 509 523	Antidiarrhoika
+T9	Living_Beings 543 552	Patienten
+T10	Living_Beings 579 589	Probiotika
+T11	Procedures 598 611	Chemotherapie
+T12	Procedures 612 628	Immunsuppression
+T13	Disorders 612 628	Immunsuppression
+T14	Disorders 639 645	Sepsis

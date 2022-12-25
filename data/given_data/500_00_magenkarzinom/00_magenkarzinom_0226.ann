@@ -1,0 +1,25 @@
+T1	Living_Beings 247 256	Patienten
+T2	Disorders 261 271	Magenkrebs
+T3	Disorders 398 414	Major Depression
+T4	Disorders 422 431	Dysthymie
+T5	Physiology 622 630	sprechen
+T6	Living_Beings 635 644	Patienten
+T7	Disorders 649 659	Magenkrebs
+T8	Disorders 696 706	Depression
+T9	Disorders 715 730	Gewichtsverlust
+T10	Disorders 736 748	Malnutrition
+T11	Living_Beings 1026 1035	Patienten
+T12	Living_Beings 1163 1172	Patienten
+T13	Physiology 1310 1318	sprechen
+T14	Procedures 1343 1352	Screening
+T15	Procedures 1439 1448	Screening
+T16	Living_Beings 1532 1541	Patienten
+T17	Procedures 1624 1633	Screening
+T18	Living_Beings 1694 1703	Patienten
+T19	Living_Beings 1866 1875	Patienten
+T20	Devices 2256 2267	Thermometer
+T21	Devices 2595 2601	Rahmen
+T22	Living_Beings 2645 2654	Patienten
+T23	Disorders 2966 2982	niedergeschlagen
+T24	Physiology 3076 3082	Freude
+T25	Procedures 3355 3365	Diagnostik

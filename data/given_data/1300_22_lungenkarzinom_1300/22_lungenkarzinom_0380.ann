@@ -1,0 +1,4 @@
+T1	Living_Beings 4 13	Patienten
+T2	Disorders 49 65	Allgemeinzustand
+T3	Procedures 102 127	Kombinationschemotherapie
+T4	Chemicals_Drugs 163 172	Cisplatin

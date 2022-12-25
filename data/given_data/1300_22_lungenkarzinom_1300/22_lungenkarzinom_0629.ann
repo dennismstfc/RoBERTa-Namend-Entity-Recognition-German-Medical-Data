@@ -1,0 +1,6 @@
+T1	Chemicals_Drugs 51 61	Sauerstoff
+T2	Procedures 82 90	Therapie
+T3	Disorders 95 102	Atemnot
+T4	Physiology 152 170	Sauerstofftherapie
+T5	Procedures 152 170	Sauerstofftherapie
+T6	Living_Beings 497 506	Patienten

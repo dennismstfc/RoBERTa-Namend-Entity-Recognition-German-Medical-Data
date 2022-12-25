@@ -1,0 +1,13 @@
+T1	Living_Beings 135 144	Patienten
+T2	Living_Beings 293 302	Patienten
+T3	Disorders 336 349	Magenkarzinom
+T4	Disorders 426 436	Metastasen
+T5	Procedures 506 520	Magenresektion
+T6	Disorders 584 597	Magenkarzinom
+T7	Procedures 718 730	Gastrektomie
+T8	Living_Beings 759 768	Patienten
+T9	Disorders 1022 1032	Metastasen
+T10	Procedures 1050 1063	Chemotherapie
+T11	Procedures 1542 1554	Omentektomie
+T12	Procedures 1613 1629	Lymphadenektomie
+T13	Procedures 1681 1693	Gastrektomie

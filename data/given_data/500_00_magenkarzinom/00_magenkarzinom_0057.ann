@@ -1,0 +1,15 @@
+T1	Procedures 90 93	MRT
+T2	Procedures 178 181	MRT
+T3	Procedures 566 569	MRT
+T4	Procedures 750 753	MRT
+T5	TNM 831 833	T1
+T6	TNM 838 840	T2
+T7	Chemicals_Drugs 1039 1049	Gadolinium
+T8	Procedures 1107 1110	MRT
+T9	Procedures 1306 1309	MRT
+T10	Chemicals_Drugs 1310 1324	Kontrastmittel
+T11	Chemicals_Drugs 1341 1355	Kontrastmittel
+T12	Disorders 1409 1424	Lebermetastasen
+T13	Disorders 1504 1522	Kontraindikationen
+T14	Procedures 1580 1583	MRT
+T15	Procedures 1647 1650	MRT

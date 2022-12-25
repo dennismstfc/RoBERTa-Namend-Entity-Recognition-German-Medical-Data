@@ -1,0 +1,14 @@
+T1	Disorders 99 116	Strahlenbelastung
+T2	Procedures 214 223	Thorax-CT
+T3	Procedures 295 304	Thorax-CT
+T4	Disorders 333 350	Tumorerkrankungen
+T5	Procedures 361 370	Thorax-CT
+T6	Procedures 371 385	Untersuchungen
+T7	Procedures 464 473	Thorax-CT
+T8	Procedures 474 488	Untersuchungen
+T9	Physiology 515 520	sehen
+T10	Living_Beings 581 589	Personen
+T11	Procedures 623 626	MRT
+T12	Living_Beings 666 675	Patienten
+T13	Disorders 693 707	Lungenkarzinom
+T14	Anatomical_Structure 749 755	Thorax

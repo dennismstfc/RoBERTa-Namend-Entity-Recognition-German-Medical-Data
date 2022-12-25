@@ -1,0 +1,22 @@
+T1	Disorders 104 112	Karzinom
+T2	Procedures 254 272	genetische Testung
+T3	Physiology 436 452	Keimbahnmutation
+T4	Living_Beings 523 532	Patienten
+T5	Procedures 571 583	Gastrektomie
+T6	Living_Beings 702 711	Patienten
+T7	Procedures 740 752	Gastrektomie
+T8	Procedures 789 799	Endoskopie
+T9	Anatomical_Structure 870 876	Mukosa
+T10	Procedures 1045 1057	Gastrektomie
+T11	Physiology 1199 1215	Keimbahnmutation
+T12	Procedures 1318 1330	Gastrektomie
+T13	Procedures 1531 1543	Gastrektomie
+T14	Living_Beings 1694 1701	Familie
+T15	Procedures 1805 1817	Gastrektomie
+T16	Physiology 2092 2100	Mutation
+T17	Procedures 2109 2121	Gastrektomie
+T18	TNM 2253 2257	pT1a
+T19	Living_Beings 2309 2318	Patienten
+T20	Procedures 2340 2352	Gastrektomie
+T21	Anatomical_Structure 2529 2540	Schleimhaut
+T22	Procedures 2568 2580	Gastrektomie

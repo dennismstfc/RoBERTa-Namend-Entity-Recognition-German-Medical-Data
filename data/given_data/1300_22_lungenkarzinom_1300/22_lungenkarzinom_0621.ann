@@ -1,0 +1,11 @@
+T1	Living_Beings 284 293	Patienten
+T2	Disorders 396 410	Lungenkarzinom
+T3	Living_Beings 481 490	Patienten
+T4	Physiology 698 712	Blutgasanalyse
+T5	Procedures 698 712	Blutgasanalyse
+T6	Procedures 714 733	Lungenfunktionstest
+T7	Physiology 764 776	Atemfrequenz
+T8	Disorders 939 946	Atemnot
+T9	Disorders 952 959	Atemnot
+T10	Disorders 1149 1156	Atemnot
+T11	Devices 1160 1166	Rahmen

@@ -1,0 +1,15 @@
+T1	TNM 245 248	pT3
+T2	TNM 294 297	pN0
+T3	Living_Beings 298 307	Patienten
+T4	TNM 321 324	pN1
+T5	Living_Beings 325 334	Patienten
+T6	Living_Beings 459 468	Patienten
+T7	TNM 473 475	R0
+T8	Living_Beings 542 551	Patienten
+T9	TNM 556 558	R1
+T10	TNM 754 756	R0
+T11	Living_Beings 905 914	Patienten
+T12	TNM 941 943	R0
+T13	Procedures 1071 1089	Brustwandresektion
+T14	Living_Beings 1381 1390	Patienten
+T15	Procedures 1418 1436	Brustwandresektion

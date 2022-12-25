@@ -1,0 +1,15 @@
+T1	Living_Beings 0 9	Patienten
+T2	Physiology 39 47	Mutation
+T3	Physiology 197 205	Mutation
+T4	Chemicals_Drugs 240 243	ATP
+T5	Chemicals_Drugs 280 283	ATP
+T6	Chemicals_Drugs 334 342	Afatinib
+T7	Chemicals_Drugs 344 353	Erlotinib
+T8	Chemicals_Drugs 355 364	Gefitinib
+T9	Physiology 508 516	Mutation
+T10	Living_Beings 580 589	Patienten
+T11	Procedures 727 735	Therapie
+T12	Procedures 1268 1281	Liquid Biopsy
+T13	Chemicals_Drugs 1294 1317	zirkulierende Tumor-DNA
+T14	Procedures 1353 1363	Diagnostik
+T15	Procedures 1403 1417	Untersuchungen

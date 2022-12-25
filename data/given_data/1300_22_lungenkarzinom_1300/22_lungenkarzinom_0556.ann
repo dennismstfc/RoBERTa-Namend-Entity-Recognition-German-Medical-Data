@@ -1,0 +1,9 @@
+T1	Disorders 178 194	Allgemeinzustand
+T2	Living_Beings 210 219	Patienten
+T3	Disorders 252 259	Rezidiv
+T4	Chemicals_Drugs 293 302	Topotecan
+T5	Chemicals_Drugs 358 367	Topotecan
+T6	Disorders 443 450	Rezidiv
+T7	Chemicals_Drugs 487 496	Topotecan
+T8	Procedures 740 750	Behandlung
+T9	Chemicals_Drugs 768 778	Paclitaxel

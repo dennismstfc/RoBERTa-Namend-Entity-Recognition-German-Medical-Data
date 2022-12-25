@@ -1,0 +1,6 @@
+T1	Living_Beings 0 9	Patienten
+T2	Procedures 137 150	Chemotherapie
+T3	Chemicals_Drugs 170 179	Cetuximab
+T4	Living_Beings 202 211	Patienten
+T5	Disorders 228 244	Allgemeinzustand
+T6	Procedures 322 348	Kombinations-Chemotherapie

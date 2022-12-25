@@ -1,0 +1,14 @@
+T1	Procedures 62 76	Lungenfunktion
+T2	Procedures 78 82	FEV1
+T3	Chemicals_Drugs 87 101	Transferfaktor
+T4	Procedures 140 154	Pneumonektomie
+T5	Procedures 299 303	FEV1
+T6	Procedures 407 411	FEV1
+T7	Procedures 486 500	Pneumonektomie
+T8	Procedures 563 567	FEV1
+T9	Procedures 605 619	Lungenfunktion
+T10	Procedures 652 666	Lungenfunktion
+T11	Procedures 1259 1273	Lungenfunktion
+T12	Procedures 1408 1411	MRT
+T13	Anatomical_Structure 1416 1422	Thorax
+T14	Procedures 1452 1475	Perfusionsszintigraphie

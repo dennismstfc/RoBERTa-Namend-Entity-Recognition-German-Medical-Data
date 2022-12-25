@@ -1,0 +1,14 @@
+T1	Living_Beings 576 585	Patienten
+T2	Living_Beings 721 730	Patienten
+T3	Living_Beings 955 964	Patienten
+T4	Physiology 1013 1033	Entscheidungsfindung
+T5	Procedures 1408 1420	Gastrektomie
+T6	Living_Beings 1566 1575	Patienten
+T7	Anatomical_Structure 1580 1585	Magen
+T8	Disorders 1602 1610	Karzinom
+T9	Living_Beings 1655 1664	Patienten
+T10	Procedures 1775 1783	Beratung
+T11	Devices 1852 1858	tragen
+T12	Disorders 1970 1983	Magenkarzinom
+T13	Living_Beings 1984 1993	Patienten
+T14	Living_Beings 2327 2336	Patienten

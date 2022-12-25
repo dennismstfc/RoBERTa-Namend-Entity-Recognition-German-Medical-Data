@@ -1,0 +1,25 @@
+T1	Procedures 120 132	Untersuchung
+T2	Anatomical_Structure 163 169	Thorax
+T3	Procedures 191 200	Spiral-CT
+T4	Anatomical_Structure 201 207	Thorax
+T5	Anatomical_Structure 241 252	Nebennieren
+T6	Procedures 255 268	Bronchoskopie
+T7	Anatomical_Structure 281 288	Abdomen
+T8	Disorders 320 334	Lungenkarzinom
+T9	Chemicals_Drugs 901 907	Asbest
+T10	Chemicals_Drugs 909 926	Arsenverbindungen
+T11	Chemicals_Drugs 928 933	Chrom
+T12	Physiology 928 933	Chrom
+T13	Procedures 928 933	Chrom
+T14	Chemicals_Drugs 935 941	Nickel
+T15	Physiology 935 941	Nickel
+T16	Procedures 967 979	Untersuchung
+T17	Procedures 1031 1043	Untersuchung
+T18	Physiology 1065 1076	Beurteilung
+T19	Disorders 1206 1221	Horner- Syndrom
+T20	Disorders 1271 1287	Allgemeinzustand
+T21	Living_Beings 1294 1303	Patienten
+T22	Procedures 1349 1364	Karnofsky-Index
+T23	Procedures 1465 1473	Blutbild
+T24	Chemicals_Drugs 1506 1517	Elektrolyte
+T25	Anatomical_Structure 1523 1528	Leber

@@ -1,0 +1,34 @@
+T1	Disorders 21 34	Magenkarzinom
+T2	Procedures 163 171	Prognose
+T3	Disorders 232 245	Magenkarzinom
+T4	Living_Beings 436 445	Patienten
+T5	Anatomical_Structure 498 514	Magenschleimhaut
+T6	Disorders 595 604	Gastritis
+T7	Disorders 642 652	Metaplasie
+T8	Disorders 693 706	Magenkarzinom
+T9	Disorders 787 795	Atrophie
+T10	Devices 810 816	Marker
+T11	Chemicals_Drugs 821 831	Pepsinogen
+T12	Anatomical_Structure 1087 1093	Kardia
+T13	Anatomical_Structure 1099 1106	Pylorus
+T14	Disorders 1383 1392	H. pylori
+T15	Anatomical_Structure 1408 1413	Serum
+T16	Chemicals_Drugs 1414 1425	Pepsinogene
+T17	Procedures 1461 1472	Beobachtung
+T18	Chemicals_Drugs 1733 1743	Pepsinogen
+T19	Disorders 1842 1851	H. pylori
+T20	Disorders 1852 1861	Infektion
+T21	Procedures 1872 1884	Meta-Analyse
+T22	Disorders 2039 2048	H. pylori
+T23	Procedures 2049 2058	Serologie
+T24	Procedures 2245 2257	Meta-Analyse
+T25	Anatomical_Structure 2393 2398	Serum
+T26	Chemicals_Drugs 2399 2409	Pepsinogen
+T27	Disorders 2440 2449	H. pylori
+T28	Disorders 2667 2680	Magenkarzinom
+T29	Procedures 2913 2925	Meta-Analyse
+T30	Disorders 3402 3411	H. pylori
+T31	Disorders 3715 3724	Dyspepsie
+T32	Physiology 3893 3901	gewissen
+T33	Procedures 4144 4153	Screening
+T34	Living_Beings 4158 4161	EBV

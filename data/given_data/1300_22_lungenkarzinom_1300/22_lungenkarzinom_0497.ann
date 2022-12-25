@@ -1,0 +1,13 @@
+T1	Disorders 339 367	kleinzelliges Lungenkarzinom
+T2	Procedures 460 476	Lymphadenektomie
+T3	Procedures 510 518	Therapie
+T4	Procedures 683 706	adjuvante Chemotherapie
+T5	Chemicals_Drugs 720 729	Cisplatin
+T6	Chemicals_Drugs 734 742	Etoposid
+T7	TNM 866 868	R1
+T8	TNM 869 871	R2
+T9	Procedures 1090 1106	Lymphadenektomie
+T10	Living_Beings 1124 1133	Patienten
+T11	TNM 1261 1265	T3-4
+T12	TNM 1271 1275	N2-3
+T13	Procedures 1309 1325	Strahlentherapie

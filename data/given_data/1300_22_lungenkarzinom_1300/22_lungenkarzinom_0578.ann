@@ -1,0 +1,15 @@
+T1	Procedures 100 116	Laserkoagulation
+T2	Disorders 490 496	Befall
+T3	Procedures 603 617	Lungenfunktion
+T4	Living_Beings 636 645	Patienten
+T5	Procedures 676 685	Perfusion
+T6	Disorders 809 816	Blutung
+T7	Disorders 818 829	Perforation
+T8	Disorders 831 839	Asphyxie
+T9	Disorders 848 860	Pneumothorax
+T10	Devices 986 997	Bronchoskop
+T11	Procedures 1022 1035	Bronchoskopie
+T12	Living_Beings 1176 1185	Patienten
+T13	Anatomical_Structure 1408 1417	Bronchien
+T14	Procedures 1569 1583	Brachytherapie
+T15	Procedures 1599 1615	Strahlentherapie

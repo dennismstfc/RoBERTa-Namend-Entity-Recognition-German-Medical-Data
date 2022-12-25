@@ -1,0 +1,26 @@
+T1	Disorders 23 31	Atrophie
+T2	Disorders 36 58	intestinale Metaplasie
+T3	Disorders 127 135	Atrophie
+T4	Anatomical_Structure 140 156	Magenschleimhaut
+T5	Disorders 232 245	Magenkarzinom
+T6	Disorders 287 295	Atrophie
+T7	Disorders 370 379	H. pylori
+T8	Disorders 380 389	Gastritis
+T9	Disorders 510 519	Gastritis
+T10	Disorders 838 846	Atrophie
+T11	Disorders 864 874	Metaplasie
+T12	Disorders 923 931	Atrophie
+T13	Disorders 949 959	Metaplasie
+T14	Disorders 1166 1174	Atrophie
+T15	Disorders 1179 1189	Metaplasie
+T16	Disorders 1306 1315	H. pylori
+T17	Disorders 1349 1362	Magenkarzinom
+T18	Living_Beings 1424 1433	Patienten
+T19	Procedures 1439 1449	Endoskopie
+T20	Procedures 1559 1577	Multicenterstudien
+T21	Living_Beings 1811 1820	Patienten
+T22	Disorders 1853 1861	Atrophie
+T23	Living_Beings 2008 2017	Patienten
+T24	Disorders 2043 2051	Atrophie
+T25	Procedures 2435 2454	prospektive Studien
+T26	Living_Beings 2553 2562	Patienten

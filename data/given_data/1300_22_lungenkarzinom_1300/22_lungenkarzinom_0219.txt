@@ -1,0 +1,12 @@
+In verschiedenen retrospektiven Kohortenanalysen wurde, bezogen auf Registerdaten bzw. auf Daten einer Institution, beim NSCLC analysiert, welchen Einfluss Komorbidität, Aktivität im täglichen Leben und Lebensalter auf
+
+-Indikationsstellung für eine intensive Therapie und
+-Outcome haben.
+
+Zur Erfassung von Komorbidität/Aktivität im täglichen Leben wurden unterschiedliche Scores eingesetzt (Cumulative Illness Rating Score – Geriatric; Charlson Comorbidity Index; Simplified Comorbidity Score). Die Analysen zeigen, dass:
+
+-Ein höheres Lebensalter sollte kein alleiniger Ausschlussgrund zur Behandlung mit einer Therapiemodresektion ein Komorbiditätsscore ein besserer Prädiktor für postoperative Komplikationen ist als einzelne Komorbiditätenund ältere Patienten (> 75 Jahre) ohne relevante Komorbidität gleichermaßen von einer Resektion profitieren wie jüngere;
+-im Hinblick auf die Radiotherapie bzw. Radiochemotherapie ein ungünstiger Komorbiditätsscore prädiktiv ist für ein ungünstigeres Outcome (nicht aber ein höheres Alter), allerdings die Indikationsstellung für eine Radiochemotherapie nicht nur vom Komorbiditätsscore, sondern auch vom Alter beeinflusst wird-ältere Patienten – unabhängig vom Komorbiditätsprofil –seltener eine Chemotherapie erhalten als jüngere;
+-unter definierter Therapie ein Komorbiditätsscore prädiktiven Charakter für das Outcome hat, nicht aber das Alter.
+
+Diese Daten zeigen, dass höheres Lebensalter kein alleiniger Ausschlussgrund zur Behandlung mit einer Therapiemodalität (systemische Therapie, Radiotherapie, Operation) bzw. Durchführung einer intensiven Therapie sein sollte. Von größerer Relevanz ist das Spektrum der Komorbidität. Angesichts der Bedeutung von Komorbidität bzw. dem Aktivitätsprofil im täglichen Leben sollten entsprechende Scores in Studien prospektiv geprüft werden.

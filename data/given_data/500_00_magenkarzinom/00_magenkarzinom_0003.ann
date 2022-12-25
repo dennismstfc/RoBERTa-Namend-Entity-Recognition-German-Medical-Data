@@ -1,0 +1,23 @@
+T1	Disorders 20 29	H. pylori
+T2	Procedures 220 232	Meta-Analyse
+T3	Disorders 286 295	H. pylori
+T4	Procedures 364 374	Behandlung
+T5	Disorders 429 433	para
+T6	Disorders 467 475	Atrophie
+T7	Disorders 481 503	intestinale Metaplasie
+T8	Procedures 676 688	Meta-Analyse
+T9	Disorders 737 746	H. pylori
+T10	Living_Beings 952 960	Personen
+T11	Disorders 1050 1059	H. pylori
+T12	Procedures 1140 1149	Screening
+T13	Disorders 1154 1163	H. pylori
+T14	Disorders 1351 1360	H. pylori
+T15	Disorders 1361 1370	Infektion
+T16	Procedures 1424 1439	Massenscreening
+T17	Disorders 1686 1695	H. pylori
+T18	Disorders 1828 1837	H. pylori
+T19	Living_Beings 1926 1935	Patienten
+T20	Living_Beings 2002 2011	Patienten
+T21	Disorders 2029 2039	Metaplasie
+T22	Disorders 2069 2077	Atrophie
+T23	Disorders 2121 2130	H. pylori

@@ -1,0 +1,17 @@
+T1	Living_Beings 4 13	Patienten
+T2	Disorders 24 38	Lungenkarzinom
+T3	Disorders 110 118	Karzinom
+T4	Procedures 168 176	Therapie
+T5	Disorders 263 277	Lungenkarzinom
+T6	Disorders 288 303	Sputumzytologie
+T7	Physiology 318 329	Beurteilung
+T8	Procedures 593 602	Zytologie
+T9	Anatomical_Structure 776 782	Sputum
+T10	Procedures 932 942	Histologie
+T11	Disorders 1128 1150	kleinzelliges Karzinom
+T12	Disorders 1182 1204	kleinzelliges Karzinom
+T13	Disorders 1309 1331	kleinzelliges Karzinom
+T14	Disorders 1388 1422	nicht-kleinzelliges Lungenkarzinom
+T15	Living_Beings 1650 1659	Patienten
+T16	Procedures 1821 1828	Biopsie
+T17	Procedures 1848 1858	Diagnostik

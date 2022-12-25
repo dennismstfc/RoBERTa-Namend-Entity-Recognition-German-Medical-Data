@@ -1,0 +1,14 @@
+T1	Procedures 130 140	Behandlung
+T2	Procedures 193 203	Behandlung
+T3	Devices 213 219	Rahmen
+T4	Procedures 323 333	Behandlung
+T5	Living_Beings 402 411	Patienten
+T6	Procedures 579 588	Nachsorge
+T7	Procedures 597 611	Rehabilitation
+T8	Procedures 633 643	Behandlung
+T9	Procedures 984 992	Prognose
+T10	Living_Beings 1011 1020	Patienten
+T11	Procedures 1085 1093	Prognose
+T12	Living_Beings 1205 1214	Patienten
+T13	Physiology 1306 1326	Entscheidungsfindung
+T14	Disorders 1353 1373	psychische Belastung

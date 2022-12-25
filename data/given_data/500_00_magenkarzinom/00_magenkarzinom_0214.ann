@@ -1,0 +1,13 @@
+T1	Procedures 30 42	Gastrektomie
+T2	Living_Beings 64 73	Patienten
+T3	Disorders 135 146	Meteorismus
+T4	Disorders 151 160	Flatulenz
+T5	Disorders 175 191	Appetitlosigkeit
+T6	Disorders 196 211	Gewichtsverlust
+T7	Procedures 412 424	Untersuchung
+T8	Procedures 463 475	Gastrektomie
+T9	Living_Beings 525 534	Patienten
+T10	Living_Beings 556 565	Patienten
+T11	Physiology 704 719	Stuhlkonsistenz
+T12	Living_Beings 776 785	Patienten
+T13	Procedures 799 811	Gastrektomie

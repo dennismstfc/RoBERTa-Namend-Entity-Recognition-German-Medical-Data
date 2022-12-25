@@ -1,0 +1,3 @@
+Für das postoperative FEV1 wird ein Wert von größer 800 ml bzw. über 30 % Soll als untere Grenze empfohlen.
+Für die TLCO wird gleichfalls ein Grenzwert von über 30 % Soll empfohlen.
+Die aktuelle Literatur belegt, dass FEV1 und TLCO unabhängige Prognosefaktoren der perioperativen Morbidität und Letalität sind.

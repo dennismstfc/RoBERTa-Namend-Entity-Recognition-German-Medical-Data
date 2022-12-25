@@ -1,0 +1,8 @@
+T1	Living_Beings 4 13	Patienten
+T2	Disorders 27 39	Pleuraerguss
+T3	Procedures 141 150	Zytologie
+T4	Procedures 173 186	Thorakoskopie
+T5	Disorders 287 299	Tumoraussaat
+T6	Procedures 364 377	Thorakoskopie
+T7	Disorders 611 618	Blutung
+T8	Procedures 709 722	Thorakoskopie

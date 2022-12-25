@@ -1,0 +1,58 @@
+T1	Procedures 246 262	Strahlentherapie
+T2	Disorders 312 328	Allgemeinzustand
+T3	Living_Beings 333 342	Patienten
+T4	Procedures 390 398	Therapie
+T5	Procedures 441 457	Strahlentherapie
+T6	Procedures 557 565	Therapie
+T7	Disorders 585 592	Rezidiv
+T8	Procedures 615 631	Salvage Therapie
+T9	Living_Beings 787 796	Patienten
+T10	Procedures 945 955	Behandlung
+T11	Living_Beings 999 1008	Patienten
+T12	Procedures 1067 1075	Therapie
+T13	Procedures 1117 1130	Chemotherapie
+T14	Procedures 1215 1233	Multicenterstudien
+T15	Procedures 1357 1365	Therapie
+T16	Procedures 1481 1494	Chemotherapie
+T17	Living_Beings 1507 1516	Patienten
+T18	Anatomical_Structure 1580 1584	Kopf
+T19	Disorders 1585 1598	Hals Karzinom
+T20	Procedures 1639 1652	Chemotherapie
+T21	Living_Beings 1694 1703	Patienten
+T22	Procedures 1831 1844	Chemotherapie
+T23	Chemicals_Drugs 1864 1873	Cetuximab
+T24	Living_Beings 1896 1905	Patienten
+T25	Disorders 1922 1938	Allgemeinzustand
+T26	Procedures 2016 2042	Kombinations-Chemotherapie
+T27	Chemicals_Drugs 2116 2125	Cytarabin
+T28	Chemicals_Drugs 2145 2154	Cisplatin
+T29	Living_Beings 2258 2267	Patienten
+T30	Procedures 2341 2354	Chemotherapie
+T31	Procedures 2406 2419	Chemotherapie
+T32	Chemicals_Drugs 2424 2433	Cisplatin
+T33	Procedures 2456 2466	Behandlung
+T34	Chemicals_Drugs 2471 2482	Methotrexat
+T35	Physiology 2471 2482	Methotrexat
+T36	Procedures 2602 2615	Chemotherapie
+T37	Chemicals_Drugs 2653 2664	Zytostatika
+T38	Procedures 2806 2819	Chemotherapie
+T39	Chemicals_Drugs 2930 2939	Cisplatin
+T40	Chemicals_Drugs 2944 2954	Paclitaxel
+T41	Procedures 2984 2992	Infusion
+T42	Chemicals_Drugs 3107 3116	Cisplatin
+T43	Procedures 3173 3181	Infusion
+T44	Procedures 3266 3279	Chemotherapie
+T45	Procedures 3311 3327	Strahlentherapie
+T46	Anatomical_Structure 3430 3434	Kopf
+T47	Disorders 3435 3448	Hals Karzinom
+T48	Procedures 3590 3606	Strahlentherapie
+T49	Living_Beings 3659 3668	Patienten
+T50	Anatomical_Structure 3690 3694	Kopf
+T51	Disorders 3695 3708	Hals Karzinom
+T52	Procedures 3745 3761	Strahlentherapie
+T53	Living_Beings 3812 3821	Patienten
+T54	Physiology 4106 4112	Atmung
+T55	Procedures 4338 4359	retrospektive Studien
+T56	Procedures 4505 4519	Tumorreduktion
+T57	Procedures 4557 4593	perkutane endoskopische Gastrostomie
+T58	Disorders 4880 4889	Dysphagie

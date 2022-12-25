@@ -1,0 +1,11 @@
+T1	Physiology 686 698	Blutstillung
+T2	Chemicals_Drugs 733 738	Argon
+T3	Anatomical_Structure 739 745	Plasma
+T4	Living_Beings 1144 1153	Patienten
+T5	Chemicals_Drugs 1246 1251	Argon
+T6	Anatomical_Structure 1252 1258	Plasma
+T7	Chemicals_Drugs 1363 1368	Argon
+T8	Devices 1446 1451	Sonde
+T9	Disorders 1500 1507	Tumoren
+T10	Procedures 1532 1546	Untersuchungen
+T11	Living_Beings 1637 1646	Patienten

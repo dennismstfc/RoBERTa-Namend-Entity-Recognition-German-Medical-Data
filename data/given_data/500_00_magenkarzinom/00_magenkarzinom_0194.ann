@@ -1,0 +1,15 @@
+T1	Procedures 376 386	Diagnostik
+T2	Procedures 391 399	Therapie
+T3	Living_Beings 642 651	Patienten
+T4	Living_Beings 725 734	Patienten
+T5	Procedures 757 765	Therapie
+T6	Living_Beings 903 912	Patienten
+T7	Procedures 1048 1056	Beratung
+T8	Living_Beings 1166 1175	Patienten
+T9	Procedures 1386 1403	Gewichtskontrolle
+T10	Living_Beings 1529 1538	Patienten
+T11	Physiology 1720 1736	Nahrungsaufnahme
+T12	Living_Beings 1793 1802	Patienten
+T13	Procedures 1920 1933	Radiotherapie
+T14	Living_Beings 2042 2051	Patienten
+T15	Living_Beings 2208 2217	Patienten

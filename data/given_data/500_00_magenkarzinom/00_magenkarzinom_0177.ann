@@ -1,0 +1,16 @@
+T1	Disorders 113 134	Lymphknotenmetastasen
+T2	Disorders 149 153	para
+T3	Disorders 182 186	para
+T4	Anatomical_Structure 219 230	Lymphknoten
+T5	Anatomical_Structure 248 256	Duodenum
+T6	Disorders 271 281	Magenkrebs
+T7	Anatomical_Structure 306 317	Lymphknoten
+T8	TNM 335 337	M1
+T9	Anatomical_Structure 663 669	Pleura
+T10	Anatomical_Structure 723 728	Leber
+T11	Anatomical_Structure 788 793	Lunge
+T12	Disorders 893 900	Tumoren
+T13	Disorders 911 921	Metastasen
+T14	Disorders 1021 1042	Nebennierenmetastasen
+T15	Disorders 1066 1087	Lymphknotenmetastasen
+T16	Disorders 1149 1163	Virchow-Knoten

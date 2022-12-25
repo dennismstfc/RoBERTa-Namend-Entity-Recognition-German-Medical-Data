@@ -1,0 +1,16 @@
+T1	Chemicals_Drugs 24 31	Tegafur
+T2	Chemicals_Drugs 32 38	Uracil
+T3	Procedures 116 124	Therapie
+T4	Living_Beings 129 138	Patienten
+T5	Procedures 329 340	Metaanalyse
+T6	Living_Beings 350 359	Patienten
+T7	Procedures 435 443	Therapie
+T8	TNM 648 650	T1
+T9	TNM 655 657	T2
+T10	Physiology 667 677	Geschlecht
+T11	Procedures 682 692	Histologie
+T12	Procedures 876 889	Chemotherapie
+T13	Procedures 925 936	Beobachtung
+T14	Procedures 1105 1118	Chemotherapie
+T15	Procedures 1126 1137	Beobachtung
+T16	Procedures 1238 1248	Behandlung

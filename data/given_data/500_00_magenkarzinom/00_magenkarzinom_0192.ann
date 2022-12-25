@@ -1,0 +1,63 @@
+T1	Chemicals_Drugs 0 8	Vitamine
+T2	Chemicals_Drugs 13 39	essentielle Spurenelemente
+T3	Living_Beings 315 324	Patienten
+T4	Procedures 359 368	Vitamin D
+T5	Chemicals_Drugs 359 368	Vitamin D
+T6	Procedures 436 444	prognose
+T7	Anatomical_Structure 753 758	Serum
+T8	Procedures 797 803	Mangan
+T9	Chemicals_Drugs 797 803	Mangan
+T10	Procedures 808 814	Kupfer
+T11	Chemicals_Drugs 808 814	Kupfer
+T12	Physiology 808 814	Kupfer
+T13	Procedures 884 892	Therapie
+T14	Procedures 976 984	Therapie
+T15	Living_Beings 1255 1264	Patienten
+T16	Chemicals_Drugs 1443 1451	Vitamine
+T17	Chemicals_Drugs 1456 1470	Spurenelemente
+T18	Procedures 1763 1779	Strahlentherapie
+T19	Chemicals_Drugs 1812 1820	Vitamine
+T20	Chemicals_Drugs 1835 1846	Betacarotin
+T21	Physiology 2050 2061	Beurteilung
+T22	Procedures 2073 2082	Vitamin E
+T23	Chemicals_Drugs 2073 2082	Vitamin E
+T24	Physiology 2073 2082	Vitamin E
+T25	Chemicals_Drugs 2160 2169	Cisplatin
+T26	Chemicals_Drugs 2174 2179	Taxol
+T27	Living_Beings 2365 2374	Patienten
+T28	Physiology 2428 2439	Vitamin B12
+T29	Procedures 2428 2439	Vitamin B12
+T30	Chemicals_Drugs 2428 2439	Vitamin B12
+T31	Living_Beings 2549 2558	Patienten
+T32	Physiology 2601 2606	Selen
+T33	Procedures 2601 2606	Selen
+T34	Chemicals_Drugs 2601 2606	Selen
+T35	Disorders 2849 2862	Magenkarzinom
+T36	Physiology 2929 2937	sprechen
+T37	Chemicals_Drugs 2950 2954	Zink
+T38	Physiology 2950 2954	Zink
+T39	Procedures 2950 2954	Zink
+T40	Physiology 2959 2967	Wachstum
+T41	Disorders 2972 2979	Tumoren
+T42	Disorders 3071 3084	Tumorkachexie
+T43	Procedures 3326 3336	Behandlung
+T44	Disorders 3341 3354	Tumorkachexie
+T45	Living_Beings 3491 3500	Patienten
+T46	Disorders 3505 3522	Tumorerkrankungen
+T47	Disorders 3527 3542	Gewichtsverlust
+T48	Disorders 3573 3580	Tumoren
+T49	Anatomical_Structure 3624 3632	Pankreas
+T50	Physiology 3670 3677	Appetit
+T51	Disorders 3738 3753	Gewichtszunahme
+T52	Procedures 3900 3908	Therapie
+T53	Living_Beings 3978 3987	Patienten
+T54	Living_Beings 4053 4066	Lactobacillus
+T55	Disorders 4114 4122	Diarrhoe
+T56	Procedures 4135 4148	Chemotherapie
+T57	Living_Beings 4182 4191	Patienten
+T58	Procedures 4298 4306	Therapie
+T59	Disorders 4311 4319	Diarrhoe
+T60	Chemicals_Drugs 4331 4341	Irinotecan
+T61	Living_Beings 4361 4370	Patienten
+T62	Disorders 4383 4399	Immunsuppression
+T63	Procedures 4383 4399	Immunsuppression

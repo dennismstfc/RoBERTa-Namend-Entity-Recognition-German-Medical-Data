@@ -1,0 +1,21 @@
+Die Zusammenhänge zwischen exogenen Noxen und der Entstehung von Lungenkrebs sind im Kapitel „Epidemiologie“ dargestellt. Grundsätzlich kann eine berufliche Tätigkeit zu einer Exposition gegenüber jeder dieser Noxen führen.
+In Deutschland ist der Arbeitsschutz und damit grundsätzlich die Prävention und die Minimierung jeglicher Gefährdungen gesetzlich geregelt (Arbeitssicherheitsgesetz 1973, Arbeitsschutzgesetz 1995). Die Gefahrstoffverordnung nimmt explizit Bezug auf kanzerogene Stoffe und legt im Anhang IV Herstellungs- und Verwendungsverbote für bestimmte Stoffe, Zubereitungen und Erzeugnisse, die krebserzeugende oder erbgut-verändernde Eigenschaften haben, fest. In Österreich bestehen analoge Regelungen.
+Entsprechend der wissenschaftlichen Erkenntnisse über die kanzerogene Wirkung von Arbeitsstoffen werden Gefahrstoffe regelmäßig von verschiedenen Organisationen (z. B. DFG und IARC) bewertet und eingestuft.
+Die Festlegung von gesundheitlich unbedenklichen Grenzwerten für kanzerogene Stoffe ist nicht möglich, da nach den bisherigen Erkenntnissen über die Pathomechanismen der Karzinogenese auch im Niedrigdosisbereich zumindest eine lineare Dosis-Wirkungsbeziehung angenommen werden muss, so dass das Risiko mit abnehmender Expositionshöhe sich zwar verringert, dann epidemiologisch nicht mehr nachweisbar, aber nicht völlig auszuschließen ist. Die bislang bezüglich karzinogener Arbeitsstoffe veröffentlichten Grenzwerte beziehen sich daher auf den Stand der technischen Möglichkeiten der Minimierung.
+Gleichfalls aus der Gefahrstoffverordnung ergibt sich die Pflicht des Arbeitgebers die Arbeitsplätze bezüglich ihrer Gefährdungen zu beurteilen. Für Tätigkeiten mit krebserzeugenden Stoffen werden folgende Vorgaben gemacht:
+
+-Es ist eine Substitution des Stoffes durch einen weniger gefährlichen anzustreben.
+
+
+-Wenn dies technisch nicht möglich ist, soll eine Verarbeitung im geschlossenen System erfolgen.
+
+
+-Die Einhaltung von Arbeitsplatzgrenzwerten ist sicherzustellen.
+
+
+-Wenn diese nicht gewährleistet werden kann, sind weitere technische und persönliche Schutzmaßnahmen notwendig.
+
+Der Problematik der Beurteilung von neuentwickelten Arbeitsstoffen versucht die Europäische Gemeinschaft mit der sog. REACH-Verordnung zu begegnen, die die Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe regelt. Die Verantwortung für die Einhaltung dieser Verordnung liegt bei den Herstellern bzw. Importeuren.
+Grundsätzlich wird trotz der verbesserten gesetzlichen Vorschriften eine Grauzone beziehungsweise Latenzzeit zwischen der Verwendung neuer Arbeitsstoffe und endgültiger Risikobewertung verbleiben. Als Beispiel für den Einsatz neuer Arbeitstoffe, deren Risikobewertung noch nicht abgeschlossen ist, seien die Nano-Partikel genannt.
+Nur durch eine konsequente und verantwortungsvolle Zusammenarbeit von Wissenschaftlern, Gesetzgebern, Herstellern und Arbeitgebern können so folgenschwere Fehler und Verzögerungen in der Primärprävention durch Nichtberücksichtigen von Erkenntnissen, wie sie z. B. seinerzeit beim Asbest eingetreten sind (Bestätigung der Lungenkanzerogenität 1933, durchgängiges Asbestverbot in Deutschland 1993, EU-weites Verbot 2005), vermieden werden. Der Erfolg dieser spät eingeführten Präventionsmaßnahmen wird auf Grund der langen Latenzzeiten von ca. 30 Jahren erst ab ca. 2020 durch einen stetigen Rückgang der Zahlen für asbestbedingten Lungenkarzinome zu belegen sein. Ein Rückgang der als Berufkrankheit anerkannten Fälle konnte bereits 2015 festgestellt werden (2013: 793; 2014: 832; 2015: 771) (Quelle: http://www.dguv.de).
+Die Sekundärprävention in der Arbeitsmedizin ist bezüglich Krebserkrankungen v. a. durch lebenslange nachgehende (nach Expositionsende erfolgende) arbeitsmedizinische Vorsorgeuntersuchungen geregelt. Diese werden durch die ZeBWis (Zentrale Betreuungsstelle Wismut) für die im Uranbergbau tätig gewesenen Arbeitnehmer, durch die ZAs (Zentrale Erfassungsstelle asbeststaubgefährdeter Arbeitnehmer) für die Asbestexponierten und durch ODIN (Organisationsdienst für nachgehende Untersuchungen) für alle übrigen krebserzeugenden Arbeitsstoffe organisiert.

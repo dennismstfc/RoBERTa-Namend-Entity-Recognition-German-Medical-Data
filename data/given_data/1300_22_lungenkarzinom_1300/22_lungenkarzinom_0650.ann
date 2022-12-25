@@ -1,0 +1,11 @@
+T1	Procedures 102 110	Therapie
+T2	Disorders 146 153	Raucher
+T3	Procedures 387 398	Beobachtung
+T4	Procedures 430 444	Untersuchungen
+T5	Procedures 494 507	Chemotherapie
+T6	Procedures 525 544	Chemo-Radiotherapie
+T7	Disorders 565 572	Raucher
+T8	Living_Beings 632 641	Patienten
+T9	Disorders 660 674	Lungenkarzinom
+T10	Living_Beings 751 760	Patienten
+T11	Procedures 785 793	Therapie

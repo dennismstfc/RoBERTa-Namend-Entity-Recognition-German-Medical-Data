@@ -1,0 +1,24 @@
+T1	Anatomical_Structure 16 34	Vena-cava-superior
+T2	Anatomical_Structure 147 151	Hals
+T3	Disorders 175 188	Kopfschmerzen
+T4	Disorders 190 197	Dyspnoe
+T5	Disorders 199 209	Heiserkeit
+T6	Procedures 346 356	Behandlung
+T7	Living_Beings 449 458	Patienten
+T8	Anatomical_Structure 690 708	Vena cava superior
+T9	Procedures 723 741	Ballonangioplastie
+T10	Living_Beings 959 968	Patienten
+T11	Disorders 1211 1218	Blutung
+T12	Disorders 1229 1238	Thrombose
+T13	Living_Beings 1278 1287	Patienten
+T14	Devices 1353 1359	Rahmen
+T15	Procedures 1511 1519	Therapie
+T16	Procedures 1596 1609	Chemotherapie
+T17	Disorders 1741 1749	Karzinom
+T18	Disorders 1786 1812	Vena-cava-superior-Syndrom
+T19	Procedures 1851 1869	Radiochemotherapie
+T20	Disorders 2027 2041	Lungenkarzinom
+T21	Procedures 2126 2139	Chemotherapie
+T22	Living_Beings 2153 2162	Patienten
+T23	Procedures 2233 2241	Therapie
+T24	Chemicals_Drugs 2246 2255	Diuretika

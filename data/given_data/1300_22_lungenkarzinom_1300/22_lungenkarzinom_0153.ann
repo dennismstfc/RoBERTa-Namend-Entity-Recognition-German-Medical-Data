@@ -1,0 +1,54 @@
+T1	Living_Beings 201 209	Experten
+T2	Disorders 389 402	Lungentumoren
+T3	Disorders 449 456	Tumoren
+T4	Anatomical_Structure 461 466	Lunge
+T5	Anatomical_Structure 468 474	Pleura
+T6	Anatomical_Structure 476 482	Thymus
+T7	Anatomical_Structure 506 511	Lunge
+T8	Disorders 587 600	Adenokarzinom
+T9	Disorders 615 628	Adenokarzinom
+T10	Disorders 639 652	Adenokarzinom
+T11	Disorders 665 678	Adenokarzinom
+T12	Disorders 696 709	Adenokarzinom
+T13	Disorders 719 732	Adenokarzinom
+T14	Disorders 754 767	Adenokarzinom
+T15	Disorders 821 834	Adenokarzinom
+T16	Disorders 847 860	Adenokarzinom
+T17	Disorders 870 883	Adenokarzinom
+T18	Disorders 895 908	Adenokarzinom
+T19	Disorders 928 941	Adenokarzinom
+T20	Disorders 1014 1025	Hyperplasie
+T21	Disorders 1027 1049	Adenocarcinoma in situ
+T22	Disorders 1079 1101	Plattenepithelkarzinom
+T23	Disorders 1117 1139	Plattenepithelkarzinom
+T24	Disorders 1160 1182	Plattenepithelkarzinom
+T25	Disorders 1195 1217	Plattenepithelkarzinom
+T26	Disorders 1260 1277	Carcinoma in situ
+T27	Disorders 1281 1303	Neuroendokrine Tumoren
+T28	Disorders 1306 1328	Kleinzelliges Karzinom
+T29	Disorders 1344 1366	kleinzelliges Karzinom
+T30	Disorders 1382 1406	neuroendokrines Karzinom
+T31	Disorders 1435 1459	neuroendokrines Karzinom
+T32	Disorders 1485 1494	Karzinoid
+T33	Disorders 1507 1516	Karzinoid
+T34	Disorders 1562 1573	Hyperplasie
+T35	Anatomical_Structure 1601 1607	Zellen
+T36	Disorders 1634 1642	Karzinom
+T37	Disorders 1659 1667	Karzinom
+T38	Disorders 1681 1689	Karzinom
+T39	Disorders 1691 1715	Spindelzelliges Karzinom
+T40	Disorders 1732 1740	Karzinom
+T41	Disorders 1742 1755	Karzinosarkom
+T42	Disorders 1757 1775	Pulmonales Blastom
+T43	Disorders 1817 1833	Lymphoepitheliom
+T44	Disorders 1842 1850	Karzinom
+T45	Disorders 1856 1864	Karzinom
+T46	Disorders 1867 1874	Tumoren
+T47	Disorders 1899 1924	Mukoepidermoides Karzinom
+T48	Disorders 1944 1952	Karzinom
+T49	Disorders 1983 1991	Karzinom
+T50	Disorders 1993 2011	Pleomorphes Adenom
+T51	Disorders 2047 2054	Tumoren
+T52	Disorders 2074 2081	Tumoren
+T53	Disorders 2082 2089	Tumoren
+T54	Disorders 2122 2129	Tumoren

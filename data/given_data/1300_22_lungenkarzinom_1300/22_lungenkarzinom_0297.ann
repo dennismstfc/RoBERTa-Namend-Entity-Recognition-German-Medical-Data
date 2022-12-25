@@ -1,0 +1,45 @@
+T1	Disorders 13 20	Tumoren
+T2	TNM 53 55	T3
+T3	TNM 61 63	T4
+T4	Disorders 69 85	Pancoast-Syndrom
+T5	Anatomical_Structure 109 126	Plexus brachialis
+T6	Anatomical_Structure 128 146	Ganglion stellatum
+T7	Anatomical_Structure 148 154	Rippen
+T8	Anatomical_Structure 245 255	Thoraxwand
+T9	Anatomical_Structure 260 266	Rippen
+T10	Physiology 290 298	Wachstum
+T11	Anatomical_Structure 306 323	Plexus brachialis
+T12	Anatomical_Structure 329 347	Ganglion stellatum
+T13	Disorders 470 483	Hornersyndrom
+T14	Living_Beings 494 503	Patienten
+T15	Disorders 567 574	Tumoren
+T16	Procedures 1007 1021	Untersuchungen
+T17	Procedures 1176 1190	Untersuchungen
+T18	Anatomical_Structure 1390 1407	Plexus cervicalis
+T19	Anatomical_Structure 1429 1438	Brustwand
+T20	TNM 1506 1508	R0
+T21	Procedures 1596 1604	Prognose
+T22	Procedures 1656 1669	Radiotherapie
+T23	Procedures 1814 1832	Radiochemotherapie
+T24	TNM 2059 2061	R0
+T25	TNM 2062 2064	R1
+T26	Procedures 2101 2104	pCR
+T27	Procedures 2387 2397	Behandlung
+T28	Procedures 2819 2827	Therapie
+T29	Chemicals_Drugs 3024 3033	Cisplatin
+T30	Chemicals_Drugs 3038 3046	Etoposid
+T31	Chemicals_Drugs 3220 3229	Cisplatin
+T32	Chemicals_Drugs 3234 3239	Taxol
+T33	Chemicals_Drugs 3250 3259	Cisplatin
+T34	Chemicals_Drugs 3264 3274	Vinorelbin
+T35	Chemicals_Drugs 3406 3415	Cisplatin
+T36	Procedures 3487 3503	Strahlentherapie
+T37	Chemicals_Drugs 3510 3521	Carboplatin
+T38	Disorders 3570 3577	Tumoren
+T39	Procedures 3688 3706	Radiochemotherapie
+T40	Procedures 3762 3772	Behandlung
+T41	Disorders 3786 3793	Tumoren
+T42	Procedures 3962 3975	Radiotherapie
+T43	Procedures 4036 4046	Behandlung
+T44	Procedures 4192 4205	Chemotherapie
+T45	Procedures 4238 4251	Chemotherapie

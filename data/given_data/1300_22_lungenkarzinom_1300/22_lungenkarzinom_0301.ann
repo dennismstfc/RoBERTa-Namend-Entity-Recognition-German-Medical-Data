@@ -1,0 +1,7 @@
+T1	Disorders 13 20	Tumoren
+T2	Procedures 63 81	Radiochemotherapie
+T3	Disorders 126 144	Kontraindikationen
+T4	Procedures 149 162	Chemotherapie
+T5	Procedures 188 204	Strahlentherapie
+T6	TNM 254 256	R0
+T7	Procedures 316 329	Chemotherapie

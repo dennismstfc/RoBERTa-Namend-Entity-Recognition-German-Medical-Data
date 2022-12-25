@@ -1,0 +1,11 @@
+T1	Living_Beings 0 9	Patienten
+T2	Chemicals_Drugs 197 206	Cisplatin
+T3	Chemicals_Drugs 207 215	Etoposid
+T4	Chemicals_Drugs 299 308	Cisplatin
+T5	Chemicals_Drugs 326 334	Etoposid
+T6	Procedures 568 584	Strahlentherapie
+T7	Procedures 765 778	Radiotherapie
+T8	Procedures 1289 1302	Chemotherapie
+T9	Living_Beings 1341 1350	Patienten
+T10	Disorders 1393 1409	Allgemeinzustand
+T11	Living_Beings 1488 1497	Patienten

@@ -1,0 +1,1 @@
+Beim isolierten Lokalrezidiv kann eine erneute Operation durchgeführt werden.

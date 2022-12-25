@@ -1,0 +1,15 @@
+T1	Anatomical_Structure 53 74	Gastrointestinaltrakt
+T2	Procedures 283 297	Magenresektion
+T3	Procedures 331 343	Gastrektomie
+T4	Disorders 517 532	Gewichtszunahme
+T5	Procedures 623 634	Metaanalyse
+T6	Physiology 846 862	Nahrungsaufnahme
+T7	Disorders 1022 1029	J-Pouch
+T8	Living_Beings 1278 1287	Patienten
+T9	Procedures 1748 1759	Metaanalyse
+T10	Disorders 1993 2000	J-Pouch
+T11	Procedures 2170 2191	Krankenhausaufenthalt
+T12	Disorders 2454 2469	Dumping-Syndrom
+T13	Disorders 2664 2674	Sodbrennen
+T14	Disorders 2708 2723	Dumping-Syndrom
+T15	Physiology 2764 2780	Nahrungsaufnahme

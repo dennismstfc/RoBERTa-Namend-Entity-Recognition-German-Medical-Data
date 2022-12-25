@@ -1,0 +1,15 @@
+T1	Living_Beings 158 167	Patienten
+T2	Disorders 243 252	Dysphagie
+T3	Disorders 254 264	GI-Blutung
+T4	Disorders 266 281	Gewichtsabnahme
+T5	Disorders 299 308	Erbrechen
+T6	Disorders 325 345	Aspirationspneumonie
+T7	Disorders 347 357	Inappetenz
+T8	Procedures 401 411	Endoskopie
+T9	Procedures 445 452	Biopsie
+T10	Disorders 575 582	Blutung
+T11	Procedures 613 625	Untersuchung
+T12	Disorders 701 711	Neoplasien
+T13	Disorders 809 827	Strahlenexposition
+T14	Procedures 903 915	Untersuchung
+T15	Disorders 1162 1171	Sedierung

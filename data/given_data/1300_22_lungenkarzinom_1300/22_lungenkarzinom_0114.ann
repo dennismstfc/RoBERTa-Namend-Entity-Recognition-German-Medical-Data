@@ -1,0 +1,8 @@
+T1	Procedures 182 195	Bronchoskopie
+T2	Procedures 216 227	Ultraschall
+T3	Procedures 236 248	Nadelbiopsie
+T4	Disorders 250 260	aspiration
+T5	Procedures 306 317	Ultraschall
+T6	Procedures 322 334	Nadelbiopsie
+T7	Disorders 336 346	aspiration
+T8	Procedures 348 355	EUS-FNA

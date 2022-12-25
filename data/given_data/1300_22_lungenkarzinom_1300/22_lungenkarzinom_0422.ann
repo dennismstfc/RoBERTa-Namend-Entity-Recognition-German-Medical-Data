@@ -1,0 +1,16 @@
+T1	Chemicals_Drugs 94 105	Bevacizumab
+T2	Chemicals_Drugs 110 119	Erlotinib
+T3	Chemicals_Drugs 124 133	Erlotinib
+T4	Living_Beings 176 185	Patienten
+T5	Disorders 193 200	Raucher
+T6	Chemicals_Drugs 377 386	Erlotinib
+T7	Anatomical_Structure 387 390	Arm
+T8	Chemicals_Drugs 485 494	Erlotinib
+T9	Anatomical_Structure 495 498	Arm
+T10	Disorders 540 551	Proteinurie
+T11	Disorders 765 778	Hautausschlag
+T12	Disorders 793 804	Proteinurie
+T13	Living_Beings 1185 1194	Patienten
+T14	Chemicals_Drugs 1270 1281	Bevacizumab
+T15	Disorders 1314 1321	Raucher
+T16	Living_Beings 1801 1810	Patienten

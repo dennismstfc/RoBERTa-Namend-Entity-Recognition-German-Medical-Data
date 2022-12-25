@@ -1,0 +1,16 @@
+T1	Procedures 58 79	retrospektive Studien
+T2	TNM 153 155	R1
+T3	Disorders 1228 1235	Tumoren
+T4	Procedures 1332 1340	Prognose
+T5	Living_Beings 1345 1354	Patienten
+T6	TNM 1426 1428	R1
+T7	Procedures 1458 1468	Histologie
+T8	Living_Beings 1797 1806	Patienten
+T9	Living_Beings 2134 2143	Patienten
+T10	Anatomical_Structure 2169 2180	Lymphknoten
+T11	TNM 2260 2262	R1
+T12	Living_Beings 2385 2394	Patienten
+T13	TNM 2399 2401	R1
+T14	Living_Beings 2654 2663	Patienten
+T15	TNM 2668 2670	R1
+T16	Procedures 2700 2718	Radiochemotherapie

@@ -1,0 +1,7 @@
+T1	Living_Beings 4 13	Patienten
+T2	Disorders 18 32	Lungenkarzinom
+T3	Disorders 37 44	Atemnot
+T4	Chemicals_Drugs 75 82	Opioide
+T5	Disorders 117 124	Atemnot
+T6	Procedures 163 171	Therapie
+T7	Disorders 176 183	Atemnot

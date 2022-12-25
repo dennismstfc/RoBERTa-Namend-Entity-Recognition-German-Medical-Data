@@ -1,0 +1,16 @@
+T1	Chemicals_Drugs 11 15	line
+T2	Chemicals_Drugs 112 121	Topotecan
+T3	Living_Beings 169 178	Patienten
+T4	Disorders 201 208	Rezidiv
+T5	Chemicals_Drugs 287 296	Topotecan
+T6	Chemicals_Drugs 446 455	Topotecan
+T7	Chemicals_Drugs 610 619	Topotecan
+T8	Living_Beings 632 641	Patienten
+T9	Living_Beings 797 806	Patienten
+T10	Disorders 829 845	Allgemeinzustand
+T11	Living_Beings 879 882	sus
+T12	Living_Beings 919 928	Patienten
+T13	Chemicals_Drugs 1116 1125	Topotecan
+T14	Living_Beings 1138 1147	Patienten
+T15	Chemicals_Drugs 1290 1300	Paclitaxel
+T16	Chemicals_Drugs 1306 1316	Irinotecan

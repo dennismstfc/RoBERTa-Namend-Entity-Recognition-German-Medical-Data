@@ -1,0 +1,8 @@
+T1	Procedures 4 14	Diagnostik
+T2	Procedures 68 80	Untersuchung
+T3	Procedures 112 133	Ultraschalldiagnostik
+T4	Procedures 143 146	MRT
+T5	Anatomical_Structure 156 162	Thorax
+T6	Anatomical_Structure 171 177	Thorax
+T7	Procedures 339 355	Strahlentherapie
+T8	Physiology 361 372	Beurteilung

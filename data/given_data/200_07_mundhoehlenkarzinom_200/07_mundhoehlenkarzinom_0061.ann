@@ -1,0 +1,48 @@
+T1	Procedures 159 169	Behandlung
+T2	Anatomical_Structure 208 219	Lymphknoten
+T3	Procedures 265 283	Radiochemotherapie
+T4	Procedures 375 390	Neck-dissection
+T5	TNM 416 418	N2
+T6	TNM 423 425	N3
+T7	Procedures 457 475	Radiochemotherapie
+T8	Disorders 695 705	Metastasen
+T9	Procedures 882 897	Neck-dissection
+T10	Procedures 950 974	radikale Neck-dissection
+T11	Disorders 1041 1047	Befall
+T12	Disorders 1207 1217	Metastasen
+T13	Disorders 1245 1251	Befall
+T14	Disorders 1397 1403	Befall
+T15	Disorders 1508 1514	Befall
+T16	Anatomical_Structure 1538 1549	Lymphknoten
+T17	Procedures 1865 1884	prospektive Studien
+T18	Procedures 1945 1960	Neck-dissection
+T19	Procedures 2091 2115	radikale Neck-dissection
+T20	Procedures 2171 2195	radikale Neck-dissection
+T21	Living_Beings 2528 2537	Patienten
+T22	Procedures 2600 2615	Neck-dissection
+T23	Procedures 2656 2674	Radiochemotherapie
+T24	Living_Beings 2800 2809	Patienten
+T25	Procedures 2883 2898	Neck-dissection
+T26	Procedures 2933 2951	Radiochemotherapie
+T27	Procedures 3023 3038	Neck-dissection
+T28	TNM 3081 3084	pN0
+T29	Anatomical_Structure 3264 3275	Lymphknoten
+T30	Procedures 3372 3387	Neck-dissection
+T31	TNM 3618 3620	N2
+T32	Anatomical_Structure 3662 3673	Lymphknoten
+T33	Procedures 3713 3731	Radiochemotherapie
+T34	Anatomical_Structure 3780 3784	Hals
+T35	TNM 3822 3824	N2
+T36	TNM 3830 3832	N3
+T37	Procedures 3962 3977	Neck-dissection
+T38	Procedures 4173 4197	radikale Neck-dissection
+T39	Procedures 4219 4237	Radiochemotherapie
+T40	Procedures 4324 4342	Radiochemotherapie
+T41	TNM 4406 4408	N2
+T42	TNM 4413 4415	N3
+T43	TNM 4440 4442	N1
+T44	Procedures 4512 4527	Neck-dissection
+T45	Procedures 4578 4596	Radiochemotherapie
+T46	Anatomical_Structure 4701 4705	Hals
+T47	Procedures 4759 4774	Neck-dissection
+T48	Anatomical_Structure 4833 4837	Hals

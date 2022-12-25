@@ -1,0 +1,7 @@
+T1	Procedures 20 36	Strahlentherapie
+T2	TNM 56 60	T3-4
+T3	TNM 61 65	N0-1
+T4	TNM 70 72	T1
+T5	Procedures 136 149	Chemotherapie
+T6	Chemicals_Drugs 154 163	Cisplatin
+T7	Chemicals_Drugs 168 176	Etoposid

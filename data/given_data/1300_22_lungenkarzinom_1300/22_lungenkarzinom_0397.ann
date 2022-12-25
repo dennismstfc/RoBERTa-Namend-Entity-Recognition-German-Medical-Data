@@ -1,0 +1,22 @@
+T1	Procedures 127 135	Therapie
+T2	Procedures 137 150	Immuntherapie
+T3	Procedures 152 160	Therapie
+T4	Chemicals_Drugs 205 216	Medikamente
+T5	Procedures 529 543	Untersuchungen
+T6	Procedures 619 627	Therapie
+T7	Procedures 736 746	Diagnostik
+T8	Procedures 753 761	Therapie
+T9	Procedures 874 882	Therapie
+T10	Procedures 927 935	Therapie
+T11	Living_Beings 1088 1097	Patienten
+T12	Living_Beings 1207 1216	Patienten
+T13	Procedures 1231 1239	Therapie
+T14	Living_Beings 1278 1287	Patienten
+T15	Procedures 1633 1655	bildgebende Diagnostik
+T16	Procedures 1676 1684	Therapie
+T17	Procedures 1725 1728	MRT
+T18	Anatomical_Structure 1756 1762	Thorax
+T19	Anatomical_Structure 1767 1774	Abdomen
+T20	Anatomical_Structure 1935 1941	Becken
+T21	Disorders 1963 1973	Metastasen
+T22	Procedures 2044 2053	Becken-CT

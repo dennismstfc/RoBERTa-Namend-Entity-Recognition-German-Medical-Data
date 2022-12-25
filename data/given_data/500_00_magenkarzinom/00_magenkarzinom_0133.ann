@@ -1,0 +1,12 @@
+T1	Living_Beings 33 42	Patienten
+T2	TNM 47 49	R0
+T3	Procedures 77 93	Lymphadenektomie
+T4	Procedures 113 131	Radiochemotherapie
+T5	Procedures 136 149	Chemotherapie
+T6	Living_Beings 169 178	Patienten
+T7	TNM 183 185	R0
+T8	Procedures 213 229	Lymphadenektomie
+T9	Procedures 248 261	Chemotherapie
+T10	Disorders 285 299	Risikofaktoren
+T11	Procedures 319 337	Radiochemotherapie
+T12	Procedures 343 356	Chemotherapie

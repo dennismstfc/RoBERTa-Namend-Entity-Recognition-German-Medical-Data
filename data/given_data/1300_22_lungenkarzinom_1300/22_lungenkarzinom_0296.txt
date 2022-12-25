@@ -1,0 +1,5 @@
+MLKD: Mediastinale Lymphknotendissektion; RT: Radiotherapie; CT: Chemotherapie, KRR: Kardiorespiratorische Reserve; BW-Infiltration: Brustwandinfiltration.
+Operabilität und Resektabilität wird präoperativ seitens Thoraxchirurgie gemeinsam mit Pneumologie beurteilt. Bis auf pT1 pN0 werden alle Patienten postoperativ bzw. bei Inoperabilität in einer interdisziplinären Konferenz (zumindest mit Pneumologie, Onkologie, Thoraxchirurgie, Radioonkologie und diagnostischer Radiologie) vorgestellt und das weitere Vorgehen (Indikation Radiotherapie; Indikation Chemotherapie) festgelegt und dokumentiert.
+* sensitiv mediastinal gestagt gemäß Diagnostikkapitel. 
+** pN1 impliziert ein hohes systemisches Rezidivrisiko; nach R0-Resektion profitieren Patienten mit pN1 (pT1-3) am besten von einer adjuvanten Chemotherapie, daher kann diese im Einzelfall auch nach Abschluss der Lokaltherapie bei vorangegangener R1/2-Resektion empfohlen werden.
+*** pT2pN0 zeigt in explorativen Subgruppenanalysen der adjuvanten Therapiestudien keinen konsistenten Überlebensvorteil mit adjuvanter Therapie. Eine Empfehlung kann im Einzelfall ausgesprochen werden.

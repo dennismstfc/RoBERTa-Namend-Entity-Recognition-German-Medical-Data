@@ -1,0 +1,14 @@
+T1	Chemicals_Drugs 214 223	Cisplatin
+T2	Living_Beings 329 338	Patienten
+T3	Living_Beings 530 539	Patienten
+T4	Disorders 566 582	Tumorprogression
+T5	Chemicals_Drugs 790 796	Platin
+T6	Procedures 935 947	Meta-Analyse
+T7	Living_Beings 1005 1014	Patienten
+T8	Procedures 1196 1221	Kombinationschemotherapie
+T9	Chemicals_Drugs 1622 1632	Irinotecan
+T10	Chemicals_Drugs 1638 1649	Oxaliplatin
+T11	Chemicals_Drugs 1710 1719	Cisplatin
+T12	Disorders 1846 1864	Kontraindikationen
+T13	Procedures 1874 1882	Therapie
+T14	Procedures 2080 2088	Therapie

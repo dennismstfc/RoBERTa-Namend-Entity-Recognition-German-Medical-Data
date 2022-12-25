@@ -1,0 +1,3 @@
+In den Gewebeproben von Therapie-naiven Patienten im Stadium IV soll parallel zu den molekularpathologischen Untersuchungen eine immunhistochemische Untersuchung auf PD-L1-Expression durchgeführt werden*. 
+Das Ergebnis ist als Prozentsatz membranös positiver Tumorzellen (sog. Proportion Score) anzugeben. Eine externe Qualitätssicherung im Rahmen von Ringversuchen soll nachgewiesen werden.
+*Die Empfehlung zur Untersuchung der PD-L1-Expression gilt für alle histologischen NSCLC-Typen (siehe auch Therapiealgorithmus NSCLC IV).

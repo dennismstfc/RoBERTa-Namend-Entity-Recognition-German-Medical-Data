@@ -1,0 +1,5 @@
+T1	Living_Beings 0 9	Patienten
+T2	Disorders 14 36	Plattenepithelkarzinom
+T3	Disorders 46 62	Allgemeinzustand
+T4	Disorders 85 103	Kontraindikationen
+T5	Procedures 141 149	Therapie

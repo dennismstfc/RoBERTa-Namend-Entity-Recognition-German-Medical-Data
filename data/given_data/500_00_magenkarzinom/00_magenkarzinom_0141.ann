@@ -1,0 +1,13 @@
+T1	Living_Beings 49 58	Patienten
+T2	Disorders 84 97	Magenkarzinom
+T3	Procedures 103 111	Therapie
+T4	Procedures 254 267	Chemotherapie
+T5	Procedures 302 315	Chemotherapie
+T6	Living_Beings 344 353	Patienten
+T7	Disorders 358 371	Magenkarzinom
+T8	Procedures 446 454	Therapie
+T9	Procedures 503 515	Meta-Analyse
+T10	Living_Beings 571 580	Patienten
+T11	Procedures 781 806	Kombinationschemotherapie
+T12	Procedures 824 836	Meta-Analyse
+T13	Procedures 1044 1057	Chemotherapie

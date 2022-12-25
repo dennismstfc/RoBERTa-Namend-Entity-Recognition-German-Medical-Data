@@ -1,0 +1,11 @@
+T1	TNM 103 105	M1
+T2	Disorders 117 126	Metastase
+T3	Procedures 188 200	Untersuchung
+T4	Disorders 220 230	Metastasen
+T5	Procedures 239 242	MRT
+T6	Procedures 370 382	Untersuchung
+T7	Procedures 424 436	Untersuchung
+T8	Disorders 456 466	Metastasen
+T9	Procedures 509 519	CT Abdomen
+T10	Anatomical_Structure 561 568	Abdomen
+T11	Procedures 585 588	MRT

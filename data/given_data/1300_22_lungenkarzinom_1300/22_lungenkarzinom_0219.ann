@@ -1,0 +1,15 @@
+T1	Procedures 260 268	Therapie
+T2	Procedures 593 603	Behandlung
+T3	Disorders 685 713	postoperative Komplikationen
+T4	Living_Beings 756 765	Patienten
+T5	Procedures 887 900	Radiotherapie
+T6	Procedures 906 924	Radiochemotherapie
+T7	Procedures 1080 1098	Radiochemotherapie
+T8	Living_Beings 1180 1189	Patienten
+T9	Procedures 1242 1255	Chemotherapie
+T10	Procedures 1297 1305	Therapie
+T11	Physiology 1341 1350	Charakter
+T12	Procedures 1476 1486	Behandlung
+T13	Procedures 1528 1536	Therapie
+T14	Procedures 1538 1551	Radiotherapie
+T15	Procedures 1599 1607	Therapie

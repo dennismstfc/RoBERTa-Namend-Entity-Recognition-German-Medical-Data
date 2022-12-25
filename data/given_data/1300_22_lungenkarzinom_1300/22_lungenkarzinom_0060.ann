@@ -1,0 +1,16 @@
+T1	Disorders 55 62	Tumoren
+T2	Disorders 88 94	Husten
+T3	Disorders 140 144	COPD
+T4	Living_Beings 145 154	Patienten
+T5	Disorders 181 187	Husten
+T6	Disorders 244 251	Dyspnoe
+T7	Disorders 253 267	Brustschmerzen
+T8	Anatomical_Structure 287 300	Expektoration
+T9	Disorders 361 387	Vena-cava-superior-Syndrom
+T10	Disorders 389 398	Dysphagie
+T11	Disorders 404 411	Stridor
+T12	Living_Beings 533 542	Patienten
+T13	Disorders 547 551	COPD
+T14	Procedures 624 634	Diagnostik
+T15	Anatomical_Structure 642 648	Thorax
+T16	Procedures 654 667	Bronchoskopie

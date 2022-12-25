@@ -1,0 +1,11 @@
+T1	Procedures 28 41	Chemotherapie
+T2	Living_Beings 293 302	Patienten
+T3	Living_Beings 361 370	Patienten
+T4	TNM 375 377	N2
+T5	Disorders 380 386	Befall
+T6	Living_Beings 506 515	Patienten
+T7	Devices 557 563	Rahmen
+T8	Living_Beings 671 680	Patienten
+T9	Procedures 750 773	Induktionschemotherapie
+T10	TNM 811 813	R0
+T11	Procedures 854 867	Radiotherapie

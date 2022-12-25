@@ -1,0 +1,5 @@
+Hintergrund 12.2. 
+
+Da das mediane Überleben von Patienten mit einem metastasierten Magenkarzinom ohne Therapie kurz ist und die Progression in der Regel mit einer Verschlechterung des Allgemeinzustandes einhergeht, ist der möglichst rasche Beginn einer Chemotherapie essentiell.
+Durch eine palliative Chemotherapie wird die Überlebenszeit von Patienten mit Magenkarzinom im Stadium IV im Vergleich zu einer ausschließlich supportiv orientierten Therapie erheblich verlängert. In der aktuellen Cochrane Meta-Analyse wurden hierzu 60 randomisierte Studien mit fast 11.700 Patienten ausgewertet. Es zeigte sich eine klinisch überaus relevante und hoch signifikante Verbesserung des Überlebens um durchschnittlich 6,7 Monate mit einer Hazard ratio von 0,3 (KI 0,24–0,55). 
+Durch eine Kombinationschemotherapie wird nach dieser Meta-Analyse – um den Preis etwas erhöhter hämatologischer und gastrointestinaler Toxizitäten – eine weitere Überlebensverbesserung um etwa 1 Monat erzielt: Hazard ratio von 0,84 (KI 0,79–0,89). Außerdem wird durch eine Chemotherapie eine Stabilisierung des Allgemeinzustandes und der Lebensqualität erreicht.

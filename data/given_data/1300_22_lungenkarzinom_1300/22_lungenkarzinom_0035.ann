@@ -1,0 +1,13 @@
+T1	Living_Beings 4 13	Patienten
+T2	Procedures 60 76	Strahlentherapie
+T3	Living_Beings 153 162	Patienten
+T4	Disorders 181 195	Lungenkarzinom
+T5	Procedures 245 263	Radiochemotherapie
+T6	Procedures 347 355	Prognose
+T7	Procedures 472 486	Untersuchungen
+T8	Living_Beings 600 609	Patienten
+T9	Procedures 629 645	Strahlentherapie
+T10	Disorders 650 664	Lungenkarzinom
+T11	Disorders 710 729	Strahlenpneumonitis
+T12	Procedures 768 782	Lungenfunktion
+T13	Disorders 843 862	Strahlenpneumonitis

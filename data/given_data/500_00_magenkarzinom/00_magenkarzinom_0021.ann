@@ -1,0 +1,20 @@
+T1	Disorders 21 34	Lynch-Syndrom
+T2	Physiology 148 163	Mismatch-Repair
+T3	Procedures 422 432	Diagnostik
+T4	Disorders 509 518	Darmkrebs
+T5	Living_Beings 609 618	Patienten
+T6	Physiology 831 842	Assoziation
+T7	Living_Beings 1084 1093	Patienten
+T8	Procedures 1540 1552	Untersuchung
+T9	Living_Beings 1632 1639	Familie
+T10	Procedures 1685 1697	Untersuchung
+T11	Disorders 1761 1774	Magenkarzinom
+T12	Disorders 1782 1789	Tumoren
+T13	Disorders 2165 2178	Magenkarzinom
+T14	Physiology 2269 2274	sehen
+T15	Living_Beings 2330 2339	Patienten
+T16	Devices 2461 2465	Band
+T17	Anatomical_Structure 2525 2533	Duodenum
+T18	Disorders 2573 2582	H. pylori
+T19	Disorders 2583 2592	Infektion
+T20	Living_Beings 2603 2612	Patienten

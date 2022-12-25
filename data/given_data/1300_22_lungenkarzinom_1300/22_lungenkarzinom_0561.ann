@@ -1,0 +1,8 @@
+T1	Procedures 20 34	Untersuchungen
+T2	Procedures 36 49	Bronchoskopie
+T3	Anatomical_Structure 55 61	Thorax
+T4	Disorders 149 171	bronchiale Obstruktion
+T5	Procedures 211 225	Pleurapunktion
+T6	Procedures 247 255	Drainage
+T7	Devices 247 255	Drainage
+T8	Anatomical_Structure 291 296	Lunge

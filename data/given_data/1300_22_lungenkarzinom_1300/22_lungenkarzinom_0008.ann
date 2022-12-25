@@ -1,0 +1,25 @@
+T1	Disorders 32 43	Lungenkrebs
+T2	Procedures 190 204	Untersuchungen
+T3	Procedures 564 588	epidemiologische Studien
+T4	Chemicals_Drugs 1176 1187	karzinogene
+T5	Living_Beings 1227 1233	Frauen
+T6	Disorders 1426 1433	Raucher
+T7	Physiology 1440 1447	greifen
+T8	Living_Beings 1535 1541	Frauen
+T9	Disorders 1733 1740	Raucher
+T10	Living_Beings 1791 1797	Kinder
+T11	Living_Beings 1802 1813	Jugendliche
+T12	Disorders 2266 2283	Zigarettenraucher
+T13	Disorders 2314 2325	Lungenkrebs
+T14	Living_Beings 2360 2372	Nichtraucher
+T15	Disorders 2360 2372	Nichtraucher
+T16	Living_Beings 2374 2384	Ex-Raucher
+T17	Disorders 2374 2384	Ex-Raucher
+T18	Living_Beings 2460 2466	Frauen
+T19	Disorders 2675 2686	Lungenkrebs
+T20	Disorders 2798 2810	Nichtraucher
+T21	Living_Beings 2798 2810	Nichtraucher
+T22	Living_Beings 2919 2925	Frauen
+T23	Living_Beings 2993 3001	Personen
+T24	Living_Beings 3025 3031	Frauen
+T25	Disorders 3036 3047	Lungenkrebs

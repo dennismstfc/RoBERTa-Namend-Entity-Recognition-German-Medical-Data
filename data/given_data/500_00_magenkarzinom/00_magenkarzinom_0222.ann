@@ -1,0 +1,15 @@
+T1	Disorders 169 179	Depression
+T2	Disorders 181 186	Angst
+T3	Living_Beings 441 450	Patienten
+T4	Disorders 517 526	Krankheit
+T5	Procedures 527 537	Behandlung
+T6	Procedures 755 763	Beratung
+T7	Disorders 837 852	Krebserkrankung
+T8	Procedures 857 867	Behandlung
+T9	Procedures 907 915	Therapie
+T10	Disorders 1064 1071	Schmerz
+T11	Disorders 1083 1090	Dyspnoe
+T12	Disorders 1102 1107	Angst
+T13	Procedures 1110 1128	Krisenintervention
+T14	Procedures 1219 1250	psychodynamische Psychotherapie
+T15	Disorders 1342 1357	Krebserkrankung

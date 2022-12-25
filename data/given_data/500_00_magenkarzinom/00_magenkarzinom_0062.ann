@@ -1,0 +1,10 @@
+T1	Procedures 16 35	Computertomographie
+T2	Disorders 104 114	Metastasen
+T3	Disorders 120 133	Magenkarzinom
+T4	Procedures 238 249	Sonographie
+T5	Procedures 251 266	Endosonographie
+T6	Procedures 425 437	Laparoskopie
+T7	Procedures 501 513	Laparoskopie
+T8	Living_Beings 579 588	Patienten
+T9	Disorders 721 734	Magenkarzinom
+T10	Procedures 1210 1218	Therapie

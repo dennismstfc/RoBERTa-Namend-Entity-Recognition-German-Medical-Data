@@ -1,0 +1,14 @@
+T1	Living_Beings 44 53	Patienten
+T2	Disorders 97 104	Rezidiv
+T3	Disorders 133 140	Rezidiv
+T4	Living_Beings 232 241	Patienten
+T5	Disorders 251 258	Rezidiv
+T6	Procedures 635 646	Ultraschall
+T7	Disorders 673 683	Metastasen
+T8	Disorders 845 852	Rezidiv
+T9	TNM 931 933	R0
+T10	Disorders 1222 1229	Rezidiv
+T11	Devices 1260 1268	auftritt
+T12	Disorders 1287 1296	H. pylori
+T13	Disorders 1341 1350	H. pylori
+T14	Disorders 1438 1445	Tumoren

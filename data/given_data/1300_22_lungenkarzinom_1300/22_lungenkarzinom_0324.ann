@@ -1,0 +1,13 @@
+T1	Chemicals_Drugs 42 51	Cisplatin
+T2	Chemicals_Drugs 125 136	Carboplatin
+T3	Procedures 241 257	Strahlentherapie
+T4	Chemicals_Drugs 379 388	Cisplatin
+T5	Chemicals_Drugs 389 399	Paclitaxel
+T6	Chemicals_Drugs 401 410	Cisplatin
+T7	Chemicals_Drugs 411 421	Vinorelbin
+T8	Chemicals_Drugs 509 518	Cisplatin
+T9	Chemicals_Drugs 523 531	Etoposid
+T10	Procedures 578 594	Strahlentherapie
+T11	Chemicals_Drugs 990 999	Cisplatin
+T12	Chemicals_Drugs 1004 1012	Etoposid
+T13	Procedures 1017 1033	Strahlentherapie

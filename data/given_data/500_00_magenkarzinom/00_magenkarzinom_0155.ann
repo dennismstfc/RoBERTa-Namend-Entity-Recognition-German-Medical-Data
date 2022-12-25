@@ -1,0 +1,21 @@
+T1	Chemicals_Drugs 92 101	Docetaxel
+T2	Chemicals_Drugs 209 218	Docetaxel
+T3	Living_Beings 247 256	Patienten
+T4	Living_Beings 357 366	Patienten
+T5	Chemicals_Drugs 537 546	Docetaxel
+T6	Living_Beings 568 577	Patienten
+T7	Living_Beings 648 657	Patienten
+T8	Living_Beings 742 751	Patienten
+T9	Disorders 765 776	Neutropenie
+T10	Disorders 804 823	febrile Neutropenie
+T11	Disorders 847 856	Durchfall
+T12	Living_Beings 1068 1077	Patienten
+T13	Living_Beings 1285 1294	Patienten
+T14	Living_Beings 1410 1419	Patienten
+T15	Living_Beings 1656 1665	Patienten
+T16	Living_Beings 1738 1747	Patienten
+T17	Procedures 2083 2091	Therapie
+T18	Physiology 2344 2352	sprechen
+T19	Procedures 2387 2399	Meta-Analyse
+T20	Chemicals_Drugs 2734 2743	Cisplatin
+T21	Chemicals_Drugs 2848 2857	Cisplatin

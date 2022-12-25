@@ -1,0 +1,26 @@
+T1	Procedures 230 238	Therapie
+T2	Living_Beings 501 510	Patienten
+T3	Procedures 597 611	Untersuchungen
+T4	Living_Beings 636 645	Patienten
+T5	Disorders 650 663	Magenkarzinom
+T6	Living_Beings 731 740	Patienten
+T7	Procedures 936 946	Diagnostik
+T8	Anatomical_Structure 1067 1092	zirkulierende Tumorzellen
+T9	Physiology 1118 1129	Immunstatus
+T10	Living_Beings 1142 1151	Patienten
+T11	Procedures 1324 1332	Therapie
+T12	Procedures 1425 1438	Phytotherapie
+T13	Disorders 1466 1470	alte
+T14	Procedures 1692 1700	Beratung
+T15	Living_Beings 1765 1774	Patienten
+T16	Living_Beings 1848 1857	Patienten
+T17	Procedures 1953 1961	Beratung
+T18	Procedures 2069 2077	Therapie
+T19	Procedures 2488 2496	Therapie
+T20	Living_Beings 2610 2619	Patienten
+T21	Devices 2630 2636	Rahmen
+T22	Disorders 2751 2768	Tumorerkrankungen
+T23	Living_Beings 2780 2789	Patienten
+T24	Living_Beings 2878 2887	Patienten
+T25	Living_Beings 3018 3027	Patienten
+T26	Physiology 3582 3590	erkennen

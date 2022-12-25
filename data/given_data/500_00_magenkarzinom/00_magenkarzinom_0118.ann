@@ -1,0 +1,7 @@
+T1	Living_Beings 141 150	Patienten
+T2	Procedures 193 211	Radiochemotherapie
+T3	Living_Beings 237 252	Kontrollgruppen
+T4	Procedures 325 343	Radiochemotherapie
+T5	Disorders 349 362	Magenkarzinom
+T6	Disorders 372 379	Tumoren
+T7	Procedures 526 544	Radiochemotherapie

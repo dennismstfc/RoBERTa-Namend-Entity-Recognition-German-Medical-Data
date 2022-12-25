@@ -1,0 +1,9 @@
+T1	Procedures 24 32	Therapie
+T2	TNM 592 594	N2
+T3	TNM 641 643	N2
+T4	Anatomical_Structure 690 701	Lymphknoten
+T5	TNM 736 738	N2
+T6	Procedures 842 863	Lymphknotendissektion
+T7	Procedures 904 917	Chemotherapie
+T8	Procedures 922 935	Radiotherapie
+T9	Procedures 938 958	Multimodale Therapie

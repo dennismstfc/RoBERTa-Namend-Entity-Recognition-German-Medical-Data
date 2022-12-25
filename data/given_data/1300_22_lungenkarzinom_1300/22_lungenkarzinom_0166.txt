@@ -1,0 +1,36 @@
+Die Empfehlung basiert auf einem Expertenkonsens (siehe Kapitel 2.3.4). 
+Nach vorausgegangener Radio- und/oder Chemotherapie stellt das Ausmaß der therapieinduzierten Tumorregression im Bereich des Primärtumors und der regionären Lymphknoten einen unabhängigen Prognosefaktor dar. Hierbei werden die Ausdehnung des vitalen Tumorgewebes und der Tumornekrosen sowie reaktive Veränderungen wie Schaumzellreaktion, Granulationsgewebsbildung, Cholesterinkristallausfällungen und riesenzellige Reaktion anhand der mikroskopischen Untersuchung des Tumorgewebes ermittelt und entsprechend dem Regressionsgrading nach Junker angegeben. Andere Studien zur neoadjuvanten Therapie bei Lungenkarzinomen haben die Resultate mit dem Anteil der Tumoren mit histopathologisch kompletter Regression (pCR) korreliert. Auch dieser Parameter ergibt sich aus dem hier empfohlenen Regressiongrading (RG III, s. u.). 
+Zur möglichst genauen quantitativen Erfassung der therapieinduzierten Tumorregression ist es im Allgemeinen ausreichend, zunächst einen repräsentativen Querschnitt durch den Primärtumor vollständig in Paraffin einzubetten und histologisch zu untersuchen. Insbesondere zur Frage einer vollständigen therapieinduzierten Tumorregression sind ggf. weitere histologische Untersuchungen erforderlich. Die Aufarbeitung der regionären Lymphknoten entspricht dem oben beschriebenen Vorgehen (siehe Kapitel 6.6.3).
+Folgende Regressionsgrade (RG) werden unterschieden:
+
+
+
+
+RG I:
+
+
+keine Tumorregression oder eine ausschließlich spontane Tumorregression im Bereich des Primärtumors und der regionären Lymphknoten
+
+
+
+
+RG IIa:
+
+
+morphologischer Nachweis einer therapieinduzierten Tumorregression mit mindestens 10% vitalemResttumor im Bereich des Primärtumors und/oder mehr als kleinherdiger Nachweis vitalen Tumorgewebes in den regionären Lymphknoten
+
+
+
+
+RG IIb:
+
+
+morphologischer Nachweis einer therapieinduzierten Tumorregression mit weniger als 10% vitalem Resttumor im Bereich des Primärtumors und/oder lediglich kleinherdiger Nachweis vitalen Tumorgewebes in den regionären Lymphknoten.
+
+
+
+
+RG III:
+
+
+komplette therapieinduzierte Tumorregression ohne Nachweis vitalen Tumorgewebes im Bereich des Primärtumors und der regionären Lymphknoten.

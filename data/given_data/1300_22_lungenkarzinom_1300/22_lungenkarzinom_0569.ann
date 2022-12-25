@@ -1,0 +1,20 @@
+T1	Procedures 4 17	Bronchoskopie
+T2	Anatomical_Structure 112 116	Blut
+T3	Physiology 161 173	Blutstillung
+T4	Physiology 189 198	Intention
+T5	Disorders 203 219	Vasokonstriktion
+T6	Physiology 203 219	Vasokonstriktion
+T7	Physiology 273 282	Adrenalin
+T8	Procedures 273 282	Adrenalin
+T9	Chemicals_Drugs 273 282	Adrenalin
+T10	Chemicals_Drugs 930 936	Platin
+T11	Disorders 1038 1054	Aortendissektion
+T12	Disorders 1056 1067	Perforation
+T13	Disorders 1073 1095	neurologische Defizite
+T14	Living_Beings 1386 1395	Patienten
+T15	Procedures 1794 1810	Laserkoagulation
+T16	Devices 1812 1824	Nd-YAG-Laser
+T17	Chemicals_Drugs 1850 1855	Argon
+T18	Anatomical_Structure 1856 1862	Plasma
+T19	Physiology 1931 1943	Blutstillung
+T20	Physiology 2029 2041	Blutstillung

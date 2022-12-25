@@ -1,0 +1,10 @@
+Die Empfehlungen basieren auf einem Expertenkonsens (siehe Kapitel 2.3.4). 
+2011 haben International Association for the Study of Lung Cancer (IASLC), American Thoracic Society (ATS) und European Respiratory Society (ERS) für Adenokarzinome ein Gradingsystem vorgeschlagen, dass auf dem Vorhandensein und dem Anteil fünf histologischer Muster basiert. Der prädominante histologische Subtyp korreliert demnach mit der Prognose: 
+
+-Gut differenziert (G1): prädominant lepidisch.
+-Mäßig differenziert (G2): prädominant azinär oder papillär.
+-Schlecht differenziert (G3): prädominant solide oder mikropapillär.
+
+Hinsichtlich der Anwendung dieses Gradingsystems existiert aber kein allgemeiner Konsens.
+Plattenepithelkarzinome und adenosquamöse Karzinome können grundsätzlich einem dreistufigen Gradingsystem zugeordnet werden (G1 - G3). Letztlich besteht aber nur eine unzureichende Datenlage hinsichtlich der dabei zu berücksichtigenden Kriterien. 
+Bei anderen Lungentumoren ergibt sich der Differenzierungsgrad aus der histologischen Typisierung. So gelten z. B. sarkomatoide Karzinome (pleomorphe Karzinome, Karzinosarkome und pulmonale Blastome) als schlecht differenziert. Auch bei den neuroendokrinen Tumoren (typische Karzinoide, atypische Karzinoide, großzellige neuroendokrine Karzinome, kleinzellige Karzinome) beinhaltet die histologische Typisierung bereits das Grading. Bei diesen Tumoren wird daher ein histopathologisches Grading nicht gesondert angegeben.

@@ -1,0 +1,9 @@
+T1	Disorders 106 113	Tumoren
+T2	Living_Beings 131 140	Patienten
+T3	Disorders 150 166	Allgemeinzustand
+T4	TNM 379 381	N2
+T5	Disorders 572 588	Allgemeinzustand
+T6	Procedures 641 652	Spirometrie
+T7	Procedures 654 664	Ergometrie
+T8	Procedures 678 701	Perfusionsszintigraphie
+T9	Procedures 708 723	Ergospirometrie

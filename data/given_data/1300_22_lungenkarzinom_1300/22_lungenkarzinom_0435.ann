@@ -1,0 +1,9 @@
+T1	Chemicals_Drugs 0 3	ALK
+T2	Living_Beings 19 28	Patienten
+T3	Chemicals_Drugs 59 62	ALK
+T4	Chemicals_Drugs 167 170	ALK
+T5	Procedures 251 264	Chemotherapie
+T6	Living_Beings 286 295	Patienten
+T7	Chemicals_Drugs 308 318	Pemetrexed
+T8	Chemicals_Drugs 365 368	ALK
+T9	Disorders 371 378	Tumoren

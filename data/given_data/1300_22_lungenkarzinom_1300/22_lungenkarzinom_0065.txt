@@ -1,0 +1,14 @@
+Als Basisdiagnostik des Lungenkarzinoms kann das folgende Untersuchungsprogramm angesehen werden:
+
+-Anamnese, klinische Untersuchung
+-Laboruntersuchungen
+-Röntgen Thorax (p.a. und seitlich)
+-Spiral-CT Thorax (inkl. Oberbauchregion bis inkl. Nebennieren)
+-Bronchoskopie
+-Sonografie Abdomen
+
+Der initiale Verdacht auf ein Lungenkarzinom wird aufgrund entsprechender Symptome (s. „Klinische Präsentation“) und eines auffälligen Befundes in einer Röntgenaufnahme der Thoraxorgane gestellt. Neben der eigentlichen Krankheitsvorgeschichte sind Begleiterkrankungen und die Familienanamnese zu berücksichtigen. Zu erfragen sind außerdem die Rauchgewohnheiten (Bestimmung der sog. Packungsjahre = packyears; Konsum von 20 Zigaretten pro Tag für 1 Jahr entspricht 1 packyear; der Konsum von 40 Zigaretten pro Tag über 10 Jahre ergibt beispielsweise 20 packyears) sowie die berufliche Schadstoffexposition (z.B. Asbest, Arsenverbindungen, Chrom, Nickel etc.).
+Die physikalische Untersuchung beinhaltet neben einer allgemeinen internistischen Untersuchung schwerpunktmäßig die Beurteilung der thorakalen Organe und die verschiedenen Lymphknotenstationen. Auf besondere klinische Zeichen wie obere Einflussstauung oder Horner- Syndrom ist zu achten (s. „Klinische Präsentation“).
+Der Allgemeinzustand eines Patienten und seine Leistungsfähigkeit kann anhand des Karnofsky-Index und des ECOG/WHO Performance Status quantifiziert werden.
+Die Basislaboruntersuchungen umfassen das Blutbild inkl. Differenzialblutbild, die Elektrolyte, die Leber- und Nierenparameter und die Gerinnungswerte.
+Unverändert gilt, dass aufgrund der eingeschränkten Spezifität und Sensitivität eine routinemäßige Bestimmung von Tumormarkern wie CEA, NSE oder CYFRA 21-21 in der Primärdiagnostik wie auch in der Rezidivdiagnostik des Lungenkarzinoms nicht empfohlen wird.

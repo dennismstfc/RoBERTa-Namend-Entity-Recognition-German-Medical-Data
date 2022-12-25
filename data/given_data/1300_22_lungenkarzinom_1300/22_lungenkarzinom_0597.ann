@@ -1,0 +1,7 @@
+T1	Devices 64 70	Stents
+T2	Procedures 91 101	Behandlung
+T3	Procedures 239 252	Lasertherapie
+T4	Procedures 254 268	Brachytherapie
+T5	Devices 379 385	Stents
+T6	Devices 481 487	Rahmen
+T7	Living_Beings 527 536	Patienten

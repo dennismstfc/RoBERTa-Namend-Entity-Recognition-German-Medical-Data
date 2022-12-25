@@ -1,0 +1,30 @@
+T1	Disorders 49 62	Magenkarzinom
+T2	Living_Beings 194 203	Patienten
+T3	Chemicals_Drugs 344 349	Exone
+T4	Procedures 355 362	Protein
+T5	Physiology 691 716	Verlust der Heterozygotie
+T6	Disorders 727 746	somatische Mutation
+T7	Physiology 759 775	Keimbahnmutation
+T8	Living_Beings 875 881	Frauen
+T9	Living_Beings 999 1005	Frauen
+T10	Physiology 1015 1031	Keimbahnmutation
+T11	Disorders 1052 1065	Mammakarzinom
+T12	Disorders 1491 1504	Magenkarzinom
+T13	Disorders 1564 1577	Magenkarzinom
+T14	Disorders 1650 1663	Magenkarzinom
+T15	Living_Beings 1684 1691	Familie
+T16	Disorders 1717 1730	Magenkarzinom
+T17	Disorders 1754 1767	Mammakarzinom
+T18	Disorders 1927 1940	Mammakarzinom
+T19	Procedures 2381 2412	molekular-genetische Diagnostik
+T20	Procedures 2449 2459	Diagnostik
+T21	Physiology 2476 2487	Disposition
+T22	Procedures 2923 2931	Proteins
+T23	Chemicals_Drugs 2923 2931	Proteins
+T24	Procedures 2999 3011	Meta-Analyse
+T25	Living_Beings 3521 3530	Patienten
+T26	Physiology 3554 3570	Keimbahnmutation
+T27	Procedures 3862 3874	Gastrektomie
+T28	Physiology 3916 3924	Mutation
+T29	Physiology 4125 4141	Keimbahnmutation
+T30	Procedures 4666 4676	Endoskopie

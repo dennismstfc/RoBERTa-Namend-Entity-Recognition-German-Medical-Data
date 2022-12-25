@@ -1,0 +1,42 @@
+Lungenfunktionsdaten von mehr als 2000 Patienten mit Lungenkarzinom in drei großen Serien haben gezeigt, dass eine Letalitätsrate unter 5 % erwartet werden sollte, wenn das präoperative FEV1 > 1,5 l für eine Lobektomie und > 2,0 l für eine Pneumonektomie beträgt(Evidenzgrad 2b). Von diesen Daten kann jedoch nicht auf die prädiktive Bedeutung der präoperativen Werte in %-Soll geschlossen werden. Daher werden die Werte des FEV1 als Absolutwerte angegeben. Doch ist das perioperative Risiko eines thoraxchirurgischen Eingriffs bei COPD-Patienten schon bei einem FEV1 <60 % des Sollwertes relevant erhöht, wobei die Komplikationsrate vom Ausmaß der Resektion und der Resektionstechnik abhängt (,) (Evidenzgrad 2b). 
+Wegen der häufigen Koinzidenz von Lungenkarzinom mit Lungenemphysem und interstitiellen Lungenerkrankungen soll eine präoperative Lungenfunktionsprüfung primär die Bestimmung der TLCO beinhalten, zumal die Spirometrie bei diesen Patienten noch normal sein kann, die TLCO also ein unabhängiger prognostischer Faktor ist. Eine TLCO <60 % Soll identifiziert Patienten mit hohem Risiko für eine Pneumonektomie(Evidenzgrad 2b). 
+Für eine Lobektomie sind keine weiteren Lungenfunktionstests erforderlich, wenn die postbronchodilatatorisch gemessenen FEV1–Werte über 1,5 l und die TLCO über 60 % des Soll betragen. Für eine Pneumonektomie werden keine weiteren Lungenfunktionstests benötigt, wenn die entsprechenden FEV1-Werte >2,0 l bzw. >80 % vom Soll und die TLCO über 60 % liegen (,) (Evidenzgrad 2b). 
+Bei allen Patienten mit einem erhöhten funktionellen Risiko sollten folgende Untersuchungen durchgeführt werden: 
+
+
+
+
+ (a) 
+
+
+eine komplette Lungenfunktionsprüfung mit Spirometrie - besser noch Ganzkörperplethysmographie - und CO-Transfer-Faktor (,) (Evidenzgrad 2b), 
+
+
+
+
+ (b) 
+
+
+die Bestimmung der arteriellen Blutgase in Ruhe (,) (Evidenzgrad 3b),
+
+
+
+
+ (c) 
+
+
+eine Lungenperfusionsszintigraphie mit Quantifizierung der regionalen Radionuklidbelegung (,) (Evidenzgrad 2b) und eine
+
+
+
+
+ (d) 
+
+
+Spiroergometrie,(Evidenzgrad 1b). 
+
+
+
+
+ 
+Die quantitativen Daten der regionalen Lungenperfusionsverteilung werden verwendet, um ein voraussichtliches postoperatives FEV1 und eine voraussichtliche postoperative TLCO (in %Soll) zu berechnen. Auch bei geplanter Lobektomie sollte die Berechnung der voraussichtlichen postoperativen Funktionsdaten mit Hilfe der quantitativen Lungenperfusionsszintigraphie erfolgen. Dabei ist zu berücksichtigen, ob die potenziell zu entfernenden Segmente ventiliert oder atelektatisch sind.

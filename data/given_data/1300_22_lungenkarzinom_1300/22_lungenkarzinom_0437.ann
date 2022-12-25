@@ -1,0 +1,26 @@
+T1	Chemicals_Drugs 37 40	ALK
+T2	Chemicals_Drugs 142 145	ALK
+T3	Chemicals_Drugs 225 235	Crizotinib
+T4	Living_Beings 292 301	Patienten
+T5	Chemicals_Drugs 306 309	ALK
+T6	Chemicals_Drugs 336 346	Crizotinib
+T7	Procedures 384 400	klinische Studie
+T8	Chemicals_Drugs 433 436	ALK
+T9	Living_Beings 514 523	Patienten
+T10	Disorders 550 566	Allgemeinzustand
+T11	Procedures 602 615	Chemotherapie
+T12	Procedures 707 720	Chemotherapie
+T13	Chemicals_Drugs 752 762	Pemetrexed
+T14	Chemicals_Drugs 830 840	Pemetrexed
+T15	Chemicals_Drugs 891 901	Crizotinib
+T16	Chemicals_Drugs 966 969	ALK
+T17	Living_Beings 971 980	Patienten
+T18	Chemicals_Drugs 985 995	Pemetrexed
+T19	Chemicals_Drugs 1016 1025	Docetaxel
+T20	Chemicals_Drugs 1048 1058	Crizotinib
+T21	Procedures 1108 1121	Chemotherapie
+T22	Chemicals_Drugs 1147 1157	Crizotinib
+T23	Chemicals_Drugs 1197 1207	Pemetrexed
+T24	Chemicals_Drugs 1234 1243	Docetaxel
+T25	Chemicals_Drugs 1294 1304	Pemetrexed
+T26	Chemicals_Drugs 1373 1382	Docetaxel

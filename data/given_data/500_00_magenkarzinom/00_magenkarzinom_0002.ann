@@ -1,0 +1,61 @@
+T1	Disorders 4 17	Magenkarzinom
+T2	Disorders 68 77	Infektion
+T3	Disorders 82 91	H. pylori
+T4	Disorders 146 155	H. pylori
+T5	Procedures 364 378	Untersuchungen
+T6	Procedures 518 542	epidemiologische Studien
+T7	Disorders 594 607	Magenkarzinom
+T8	Disorders 618 627	Infektion
+T9	Disorders 632 641	H. pylori
+T10	Living_Beings 724 733	Patienten
+T11	Disorders 755 764	H. pylori
+T12	Living_Beings 844 853	Patienten
+T13	Disorders 871 879	Atrophie
+T14	Disorders 902 911	Gastritis
+T15	Disorders 930 940	Metaplasie
+T16	Procedures 1089 1101	Meta-Analyse
+T17	Living_Beings 1126 1135	Patienten
+T18	Disorders 1283 1292	H. pylori
+T19	Living_Beings 1305 1314	Patienten
+T20	Procedures 1334 1346	Meta-Analyse
+T21	Procedures 1354 1375	Fall-Kontroll-Studien
+T22	Disorders 1400 1409	Infektion
+T23	Procedures 1560 1581	Fall-Kontroll-Studien
+T24	Anatomical_Structure 1620 1626	Kardia
+T25	Disorders 1641 1650	H. pylori
+T26	Living_Beings 1661 1670	Patienten
+T27	Disorders 1802 1811	Infektion
+T28	Disorders 1874 1883	Infektion
+T29	Disorders 1888 1897	H. pylori
+T30	Disorders 1936 1945	Gastritis
+T31	Living_Beings 1966 1975	Patienten
+T32	Disorders 2021 2042	atrophische Gastritis
+T33	Disorders 2052 2074	intestinale Metaplasie
+T34	Disorders 2084 2097	Magenkarzinom
+T35	Disorders 2292 2301	Infektion
+T36	Disorders 2309 2322	Karzinogenese
+T37	Devices 2488 2494	tragen
+T38	Anatomical_Structure 2685 2691	Mukosa
+T39	Anatomical_Structure 2735 2741	Kardia
+T40	Disorders 2771 2780	H. pylori
+T41	Disorders 2781 2790	Infektion
+T42	Chemicals_Drugs 2817 2828	karzinogene
+T43	Disorders 2843 2852	H. pylori
+T44	Disorders 2876 2883	Tumoren
+T45	Disorders 2965 2974	H. pylori
+T46	Physiology 3150 3161	Beurteilung
+T47	Disorders 3421 3430	H. pylori
+T48	Disorders 3477 3484	Tumoren
+T49	Disorders 3572 3581	H. pylori
+T50	Disorders 3725 3732	Tumoren
+T51	Physiology 3788 3799	Beurteilung
+T52	Anatomical_Structure 3981 3986	Atlas
+T53	Disorders 4676 4685	H. pylori
+T54	Disorders 4686 4695	Infektion
+T55	Living_Beings 4794 4812	Epstein-Barr-Virus
+T56	Living_Beings 4814 4817	EBV
+T57	Living_Beings 4864 4882	Epstein-Barr-Virus
+T58	Living_Beings 4963 4966	EBV
+T59	Disorders 4977 4984	Tumoren
+T60	Living_Beings 5058 5061	EBV
+T61	Living_Beings 5158 5167	Patienten

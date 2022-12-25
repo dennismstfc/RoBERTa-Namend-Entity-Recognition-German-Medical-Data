@@ -1,0 +1,5 @@
+T1	Living_Beings 4 13	Patienten
+T2	Disorders 18 40	Plattenepithelkarzinom
+T3	Procedures 105 117	Untersuchung
+T4	Chemicals_Drugs 152 161	Cisplatin
+T5	Procedures 323 331	Therapie

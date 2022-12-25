@@ -1,0 +1,6 @@
+Intraepitheliale Neoplasien (sogenannte Dysplasien) jeglicher Größe sowie Magenfrühkarzinome, die alle vier folgenden Kriterien erfüllen, sollen endoskopisch en-bloc reseziert werden:
+
+-< 2cm Durchmesser
+-nicht ulceriert
+-Mukosakarzinom
+-intestinaler Typ bzw. histologischer Differenzierungsgrad gut oder mäßig (G1/G2)

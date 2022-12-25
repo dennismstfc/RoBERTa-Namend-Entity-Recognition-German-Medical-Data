@@ -1,0 +1,21 @@
+T1	Chemicals_Drugs 4 14	Crizotinib
+T2	Chemicals_Drugs 24 27	ALK
+T3	Living_Beings 45 54	Patienten
+T4	Chemicals_Drugs 432 442	Crizotinib
+T5	Chemicals_Drugs 482 485	ALK
+T6	Living_Beings 502 511	Patienten
+T7	Procedures 516 524	Therapie
+T8	Chemicals_Drugs 569 579	Crizotinib
+T9	Living_Beings 667 676	Patienten
+T10	Living_Beings 688 697	Patienten
+T11	Disorders 733 756	Plattenepithel Karzinom
+T12	Procedures 757 767	Histologie
+T13	Chemicals_Drugs 854 864	Crizotinib
+T14	Chemicals_Drugs 892 902	Pemetrexed
+T15	Chemicals_Drugs 919 928	Docetaxel
+T16	Chemicals_Drugs 987 997	Crizotinib
+T17	Chemicals_Drugs 1121 1131	Crizotinib
+T18	Anatomical_Structure 1132 1135	Arm
+T19	Procedures 1154 1167	Chemotherapie
+T20	Procedures 1281 1294	Chemotherapie
+T21	Chemicals_Drugs 1297 1307	Crizotinib

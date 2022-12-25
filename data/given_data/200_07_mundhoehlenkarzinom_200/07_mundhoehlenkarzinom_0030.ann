@@ -1,0 +1,5 @@
+T1	Living_Beings 4 13	Patienten
+T2	Anatomical_Structure 49 53	Kopf
+T3	Anatomical_Structure 54 58	Hals
+T4	Procedures 100 103	MRT
+T5	Procedures 156 162	PET-CT

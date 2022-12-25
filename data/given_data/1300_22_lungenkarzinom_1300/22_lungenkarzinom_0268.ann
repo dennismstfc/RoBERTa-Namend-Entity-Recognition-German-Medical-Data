@@ -1,0 +1,9 @@
+T1	Procedures 66 79	Chemotherapie
+T2	Chemicals_Drugs 98 105	Tegafur
+T3	Chemicals_Drugs 106 112	Uracil
+T4	Procedures 170 180	Behandlung
+T5	Living_Beings 330 333	BCG
+T6	Procedures 369 379	Behandlung
+T7	Procedures 504 517	Chemotherapie
+T8	Procedures 774 802	adjuvante Chemoradiotherapie
+T9	Procedures 824 850	adjuvante Strahlentherapie

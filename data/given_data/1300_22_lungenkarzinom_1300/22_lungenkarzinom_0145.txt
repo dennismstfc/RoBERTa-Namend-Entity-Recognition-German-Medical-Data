@@ -1,0 +1,11 @@
+Pathologisch-anatomische Befunde bilden bei Lungentumoren die entscheidende Grundlage insbesondere für die Sicherung der Tumordiagnose, die histologische Typisierung sowie die Bestimmung des Tumorstadiums an Operationspräparaten.
+Die pathologisch-anatomische Beurteilung wird durchgeführt zur: 
+
+-Sicherung der Diagnose und Bestimmung der Dignität eines Lungentumors
+-histologischen Typisierung des Lungentumors (Typing)
+-Bestimmung der Tumorausdehnung am Resektionspräparat (Staging)
+-Bestimmung des Differenzierungsgrades (Grading)
+-Beurteilung der Resektionsränder
+-Bestimmung des Regressionsgradings bei neoadjuvant behandelten Tumoren
+-Einleitung molekularpathologischer Untersuchungen zur Frage therapierelevanter Mutationen der Tumorzellen
+-Bestimmung der Klonalität bei multiplen Lungentumoren (molekular unterstütztes Staging)

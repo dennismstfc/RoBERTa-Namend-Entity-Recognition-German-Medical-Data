@@ -1,0 +1,12 @@
+T1	Chemicals_Drugs 248 256	Etoposid
+T2	Chemicals_Drugs 427 442	Cyclophosphamid
+T3	Chemicals_Drugs 448 456	Etoposid
+T4	Chemicals_Drugs 462 472	Vincristin
+T5	Chemicals_Drugs 518 533	Cyclophosphamid
+T6	Chemicals_Drugs 538 548	Vincristin
+T7	Chemicals_Drugs 599 607	Etoposid
+T8	Chemicals_Drugs 675 684	Ifosfamid
+T9	Chemicals_Drugs 827 842	Cyclophosphamid
+T10	Chemicals_Drugs 847 857	Adriamycin
+T11	Living_Beings 1265 1274	Patienten
+T12	Procedures 1292 1311	Antibiotikatherapie

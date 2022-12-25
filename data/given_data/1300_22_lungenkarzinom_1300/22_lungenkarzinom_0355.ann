@@ -1,0 +1,6 @@
+T1	Living_Beings 0 9	Patienten
+T2	TNM 56 58	N2
+T3	Disorders 59 65	Befall
+T4	Procedures 101 117	Strahlentherapie
+T5	Procedures 122 135	Chemotherapie
+T6	Procedures 155 168	Radiotherapie

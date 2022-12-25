@@ -1,0 +1,15 @@
+T1	Anatomical_Structure 57 72	Mundschleimhaut
+T2	Disorders 175 186	Leukoplakie
+T3	Disorders 217 225	Karzinom
+T4	Anatomical_Structure 278 282	Kopf
+T5	Disorders 283 295	Hals-Tumoren
+T6	Physiology 586 595	Charakter
+T7	Disorders 1177 1188	Leukoplakie
+T8	Procedures 1266 1280	Untersuchungen
+T9	Anatomical_Structure 1779 1783	Kopf
+T10	Anatomical_Structure 1784 1788	Hals
+T11	Disorders 1846 1860	Risikofaktoren
+T12	Procedures 1888 1897	Screening
+T13	Living_Beings 2001 2007	HPV 16
+T14	Anatomical_Structure 2012 2017	Serum
+T15	Disorders 2077 2092	Pharynxkarzinom

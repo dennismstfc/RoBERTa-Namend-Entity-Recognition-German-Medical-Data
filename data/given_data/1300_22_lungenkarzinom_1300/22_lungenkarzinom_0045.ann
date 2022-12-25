@@ -1,0 +1,17 @@
+T1	Chemicals_Drugs 117 126	Retinoide
+T2	Chemicals_Drugs 609 616	Aspirin
+T3	Physiology 618 627	Vitamin E
+T4	Procedures 618 627	Vitamin E
+T5	Chemicals_Drugs 618 627	Vitamin E
+T6	Chemicals_Drugs 637 646	palmitate
+T7	Disorders 1046 1059	Karzinogenese
+T8	Disorders 1140 1151	Lungenkrebs
+T9	Disorders 1253 1277	Plattenepithelmetaplasie
+T10	Disorders 1279 1288	Dysplasie
+T11	Chemicals_Drugs 1399 1411	Isotretinoin
+T12	Disorders 1437 1461	Plattenepithelmetaplasie
+T13	Disorders 1737 1748	Leukoplakie
+T14	Anatomical_Structure 1753 1768	Mundschleimhaut
+T15	Anatomical_Structure 1863 1868	Lunge
+T16	Anatomical_Structure 1911 1915	Kopf
+T17	Anatomical_Structure 1916 1920	Hals

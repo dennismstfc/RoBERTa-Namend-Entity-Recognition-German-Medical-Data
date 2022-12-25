@@ -1,0 +1,14 @@
+T1	Chemicals_Drugs 29 35	Asbest
+T2	Chemicals_Drugs 124 133	Chrysotil
+T3	Chemicals_Drugs 303 309	Asbest
+T4	Chemicals_Drugs 486 497	kanzerogene
+T5	Chemicals_Drugs 510 516	Asbest
+T6	Chemicals_Drugs 2183 2189	Asbest
+T7	Disorders 2342 2359	Berufskrankheiten
+T8	Chemicals_Drugs 2366 2372	Asbest
+T9	Disorders 2382 2393	Lungenkrebs
+T10	Disorders 2399 2412	Kehlkopfkrebs
+T11	Disorders 2463 2472	Asbestose
+T12	Disorders 2525 2548	Erkrankungen der Pleura
+T13	Chemicals_Drugs 2710 2716	Asbest
+T14	Disorders 2730 2741	Mesotheliom

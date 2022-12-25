@@ -1,0 +1,5 @@
+T1	Procedures 104 120	Strahlentherapie
+T2	Procedures 244 262	Chemoradiotherapie
+T3	Anatomical_Structure 598 603	Lunge
+T4	Disorders 892 903	Pneumonitis
+T5	Disorders 909 913	ARDS

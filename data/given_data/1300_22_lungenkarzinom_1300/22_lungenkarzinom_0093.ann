@@ -1,0 +1,9 @@
+T1	Living_Beings 4 13	Patienten
+T2	Procedures 142 154	Untersuchung
+T3	Anatomical_Structure 159 165	Thorax
+T4	Anatomical_Structure 187 192	Leber
+T5	Anatomical_Structure 197 208	Nebennieren
+T6	Procedures 225 237	Untersuchung
+T7	Physiology 242 253	Beurteilung
+T8	TNM 357 359	T1
+T9	TNM 364 366	T2

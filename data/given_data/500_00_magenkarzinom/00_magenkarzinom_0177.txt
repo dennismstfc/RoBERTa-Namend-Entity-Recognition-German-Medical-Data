@@ -1,0 +1,20 @@
+Definition des limitierten metastatischen Status gemäß der Flot3-Studie mit Modifikation 
+
+
+Nur retroperitoneale Lymphknotenmetastasen (RPLM) (z. B. para-aortale, infra-aortocavale, para-pankreatische oder mesenteriale Lymphknoten);
+
+
+-Hinweis: In Duodenum eindringender Magenkrebs und retro-pankreatische Lymphknoten werden nicht als M1 angesehen.
+-Als Oligo-Metastasierung gilt, wenn nach dem folgenden Schema maximal ein Organ einbezogen ist, mit oder ohne RPLM:
+-Lokalisierte potentiell operable Peritonealkarzinose: Stadium P1 nach der Klassifikation der "Japanischen Magenkrebsforschungsgesellschaft", d.h. Klinisch sichtbare Karzinose des Peritoneums oder Pleura (Cave: >P1 Peritonealkarzinose) sind nicht erlaubt!
+-Leber: maximal 5 potentiell resezierbare metastatische Läsionen
+-Lunge: einseitige Beteiligung, potentiell resezierbar (meist < 5 Herde)
+-Uni- oder bilaterale Krukenberg-Tumoren (Ovariale Metastasen), jedoch nur in Abwesenheit von makroskopisch sichtbarer Peritonealkarzinose
+-Uni- oder bilaterale Nebennierenmetastasen oder
+-extra-abdominale Lymphknotenmetastasen wie supra-klavikuläre oder zervikale Lymphknotenbeteiligung (Virchow-Knoten) oder
+-Klar lokalisierte Knochenbeteiligung (definiert als innerhalb eines Bestrahlungsfeldes)
+
+
+
+
+Quelle:

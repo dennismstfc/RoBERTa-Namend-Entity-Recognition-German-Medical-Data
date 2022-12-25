@@ -1,0 +1,11 @@
+T1	Living_Beings 142 151	Patienten
+T2	TNM 218 220	T1
+T3	TNM 225 227	N2
+T4	Procedures 289 297	Therapie
+T5	Disorders 420 429	Metastase
+T6	Procedures 498 521	Induktionschemotherapie
+T7	TNM 728 730	T4
+T8	TNM 740 742	N3
+T9	Procedures 835 854	Radio-Chemotherapie
+T10	Devices 905 911	Rahmen
+T11	Procedures 916 934	Radiochemotherapie

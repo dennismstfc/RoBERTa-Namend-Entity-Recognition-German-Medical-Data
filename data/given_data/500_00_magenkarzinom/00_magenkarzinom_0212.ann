@@ -1,0 +1,32 @@
+T1	Anatomical_Structure 34 38	Urin
+T2	Chemicals_Drugs 43 52	Cobalamin
+T3	Physiology 111 122	Vitamin B12
+T4	Procedures 111 122	Vitamin B12
+T5	Chemicals_Drugs 111 122	Vitamin B12
+T6	Chemicals_Drugs 124 133	Cobalamin
+T7	Physiology 201 212	Vitamin B12
+T8	Procedures 201 212	Vitamin B12
+T9	Chemicals_Drugs 201 212	Vitamin B12
+T10	Living_Beings 247 257	Erwachsene
+T11	Anatomical_Structure 278 283	Leber
+T12	Chemicals_Drugs 307 316	Cobalamin
+T13	Physiology 412 423	Vitamin B12
+T14	Procedures 412 423	Vitamin B12
+T15	Chemicals_Drugs 412 423	Vitamin B12
+T16	Anatomical_Structure 516 521	Ileum
+T17	Procedures 613 625	Gastrektomie
+T18	Physiology 634 645	Vitamin B12
+T19	Procedures 634 645	Vitamin B12
+T20	Chemicals_Drugs 634 645	Vitamin B12
+T21	Physiology 706 717	Vitamin B12
+T22	Procedures 706 717	Vitamin B12
+T23	Chemicals_Drugs 706 717	Vitamin B12
+T24	Living_Beings 848 857	Patienten
+T25	Procedures 863 875	Gastrektomie
+T26	Chemicals_Drugs 1084 1098	Cyanocobalamin
+T27	Chemicals_Drugs 1209 1223	Cyanocobalamin
+T28	Chemicals_Drugs 1310 1326	Hydroxycobalamin
+T29	Chemicals_Drugs 1390 1406	Hydroxycobalamin
+T30	Procedures 1583 1592	Injektion
+T31	Disorders 1647 1655	Diarrhoe
+T32	Disorders 1657 1667	Hautjucken

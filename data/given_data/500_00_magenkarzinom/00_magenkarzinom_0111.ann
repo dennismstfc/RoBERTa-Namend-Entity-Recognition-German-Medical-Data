@@ -1,0 +1,26 @@
+T1	Procedures 39 57	Radiochemotherapie
+T2	Procedures 217 225	Therapie
+T3	Procedures 256 266	Behandlung
+T4	Procedures 353 361	Therapie
+T5	Procedures 415 433	Radiochemotherapie
+T6	Living_Beings 542 551	Patienten
+T7	Procedures 599 617	Radiochemotherapie
+T8	Living_Beings 792 801	Patienten
+T9	Procedures 817 830	Chemotherapie
+T10	Procedures 949 965	Strahlentherapie
+T11	Living_Beings 1090 1099	Patienten
+T12	Chemicals_Drugs 1204 1213	Docetaxel
+T13	Chemicals_Drugs 1215 1224	Cisplatin
+T14	Living_Beings 1241 1250	Patienten
+T15	TNM 1432 1434	M0
+T16	Living_Beings 1557 1566	Patienten
+T17	Disorders 1843 1859	Allgemeinzustand
+T18	Living_Beings 1901 1910	Patienten
+T19	Procedures 1927 1957	Kombinierte Radiochemotherapie
+T20	Procedures 1982 1995	Chemotherapie
+T21	Disorders 2134 2142	Karzinom
+T22	Procedures 2405 2418	Radiotherapie
+T23	Disorders 2472 2475	Arc
+T24	Procedures 2476 2484	Therapie
+T25	Procedures 2765 2781	Strahlentherapie
+T26	Procedures 2823 2841	Radiochemotherapie

@@ -1,0 +1,7 @@
+T1	Living_Beings 0 9	Patienten
+T2	Disorders 47 61	Lungenkarzinom
+T3	Procedures 81 94	Chemotherapie
+T4	Chemicals_Drugs 212 218	Platin
+T5	Chemicals_Drugs 223 231	Etoposid
+T6	Chemicals_Drugs 233 244	Carboplatin
+T7	Chemicals_Drugs 260 269	Cisplatin

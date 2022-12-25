@@ -1,0 +1,924 @@
+Version 1 (2012)
+Version 2 (2018)
+Kommentar
+
+
+Kapitel 3.1. Helicobacter pylori 
+
+
+Helicobacter pylori ist ein wesentlicher Risikofaktor für das distale Magenkarzinom.
+Helicobacter pylori ist der wesentliche Risikofaktor für das Magenkarzinom.
+Statement geändert
+
+
+Die H.pylori-Eradikation mit dem Ziel der Magenkarzinomprophylaxe kann bei Risikopersonen durchgeführt werden.
+Die H. pylori-Eradikation mit dem Ziel der Magenkarzinomprävention sollte bei folgenden Risikopersonen durchgeführt werden (s. Tabelle 2).
+Empfehlung geändert
+
+
+Kapitel 3.2. Weitere Risikofaktoren 
+
+
+Wichtige Risikofaktoren für das distale Magenkarzinom sind Alter, niedriger sozio-ökonomischer Status, Tabakrauchen, Alkoholkonsum, familiäre Belastung, vorangegangene Magenoperationen, perniziöse Anämie, Leben in einer Hochrisikopopulation sowie Ernährungs- und Umweltfaktoren.
+Wichtige Risikofaktoren für das Nicht-Kardiakarzinom sind Alter, niedriger sozioökonomischer Status, Tabakrauchen, Alkoholkonsum, familiäre Belastung, vorangegangene Magenoperationen, perniziöse Anämie, Leben in einer Hochrisikopopulation sowie Ernährungs- und Umweltfaktoren.
+Statement geändert
+
+
+Übergewicht ist ein gesicherter Risikofaktor für Karzinome des ösophagogastralenÜberganges. Für das distale Magenkarzinom stellt das Übergewicht keinen signifikanten Risikofaktor dar.
+ 
+Statement gestrichen
+
+
+Es gibt Hinweise auf eine Assoziation zwischen einer gastroösophagogealen Refluxkrankheit (GERD) und der Entstehung eines Adenokarzinoms des Magens (AEG II und III).
+Die Assoziation zwischen einer gastroösophagealen Refluxkrankheit (GERD) und der Entstehung eines Adenokarzinoms des gastroösophagealen Übergangs ist wahrscheinlich.
+Statement geändert
+
+
+Kapitel 4.1. Familiäres Risiko
+
+
+Ein frühes Erkrankungsalter, das Vorliegen eines diffusen Magenkarzinoms und eine familiäre Häufung sind Hinweise auf das Vorliegen eines hereditären diffusen Magenkarzinoms.
+Ein frühes Erkrankungsalter, das Vorliegen eines Magenkarzinoms und eine familiäre Häufung weisen auch bei gesunden Personen auf eine erbliche Form eines Magenkarzinoms hin. In diesen Fällen sollte die Indexperson einem multidisziplinären Team unter Einbeziehung eines Humangenetikers und Zugang zu psychosozialer Beratung vorgestellt werden.
+Statement geändert
+
+
+ 
+Bereits erkrankte Personen, Anlageträger und Risikopersonen für monogen erbliche Erkrankungen mit erhöhtem Risiko für Magenkarzinome sollen auf die Möglichkeit und Nutzen einer psychosozialen Beratung und Betreuung hingewiesen werden.
+Neue Empfehlung
+
+
+ 
+Personen aus Familien, die die Kriterien des International Gastric Cancer Linkage Consortium (IGCLC) für das Vorliegen eines hereditären diffusen Magenkarzinoms (HDGC) erfüllen, sind Risikopersonen.
+Neues Statement
+
+
+ 
+Die Feststellung, ob bei einem Patienten die Kriterien des International Gastric Cancer Linkage Consortium (IGCLC) für das Vorliegen eines hereditären diffusen Magenkarzinoms erfüllt sind, soll anamnestisch durch die behandelnden Ärzte erfolgen.
+Neue Empfehlung
+
+
+ 
+Bei Individuen mit gesicherter pathogener CDH1-Keimbahnmutation, bei denen keine prophylaktische Gastrektomie durchgeführt wird, soll eine regelmäßige Endoskopie (ÖGD) angeboten werden.
+Neue Empfehlung
+
+
+In diesem Fall soll eine genetische Beratung erfolgen. Bei Nachweis einer Keimbahnmutation des CDH-1-Gens soll eine prophylaktische Gastrektomie dem Patienten nach Aufklärung geraten werden.
+Risikopersonen für ein HDGC sollen mit Erreichen der Einwilligungsfähigkeit (ab dem 18. Lebensjahr) eine genetische Beratung empfohlen werden. Sobald die krankheitsverursachende Mutation in der betreffenden Familie bekannt ist, sollen Risikopersonen auf die Möglichkeit einer prädiktiven Testung hingewiesen werden.
+Empfehlung geändert
+
+
+ 
+Bei gesicherten Trägern einer pathogenen CDH1-Mutation soll eine prophylaktische Gastrektomie ab dem 20. Lebensjahr angeboten werden.
+Neue Empfehlung
+
+
+Kapitel 4.2. Hereditäres nonpolypöses Kolorektales Karzinom (HNPCC) 
+
+
+Patienten mit hereditärem kolorektalen Karzinom ohne Polyposis (HNPCC, Lynch-Syndrom) sollten über ihr erhöhtes Lebenszeitrisiko für die Entwicklung eines Magenkarzinoms aufgeklärt werden. Eine Ösophago-Gastro-Duodenoskopie kann angeboten werden.
+Bei HNPCC-Patienten und Risikopersonen für HNPCC sollte ab dem 35. Lebensjahr zusätzlich zur Koloskopie regelmäßig eine ÖGD durchgeführt werden.
+Empfehlung geändert
+
+
+Kapitel 5.1. Screening 
+
+
+Ein serologisches Screening der asymptomatischen Normalbevölkerung sollte nicht durchgeführt werden.
+Ein serologisches Screening der asymptomatischen Bevölkerung auf H. pylori, EBV sowie pathologische Serumpepsinogene soll nicht durchgeführt werden.
+Empfehlung geändert
+
+
+Die fokale Atrophie und intestinale Metaplasie müssen nicht endoskopisch überwacht werden.
+Patienten mit fortgeschrittener Atrophie und intestinaler Metaplasie des Magens soll eine endoskopische Überwachung angeboten werden.
+Empfehlung geändert
+
+
+Ein bevölkerungsbezogenes endoskopisches Screening zum Nachweis von Magenfrühkarzinomen wird für Deutschland nicht empfohlen.
+Ein bevölkerungsbezogenes endoskopisches Screening zum Nachweis von Magenkarzinomen soll in Deutschland nicht erfolgen.
+Empfehlung geändert
+
+
+Bezüglich einer möglichen endoskopischen Überwachung von Patienten mit reseziertem Magen lässt sich aus den existierenden Daten keine Empfehlung ableiten.
+Bezüglich einer möglichen endoskopischen Überwachung von Patienten mit reseziertem Magen ohne Magenkarzinomanamnese lässt sich aus den existierenden Daten keine Empfehlung ableiten.
+Statement geändert
+
+
+Kapitel 5.2. Prävention 
+
+
+ASS oder NSAR sollten nicht zur Prophylaxe des Magenkarzinoms angewendet werden.
+ASS oder NSAR sollen nicht mit der Indikation der Prophylaxe eines Magenkarzinoms angewendet werden.
+Empfehlung geändert
+
+
+Kapitel 6.1. Endoskopische Untersuchung 
+
+
+Patienten mit einem oder mehreren der folgenden Alarmsymptome im klinischen Zusammenhang mit einem V.a. Ösophagus- oder Magenkarzinom sollen zu einer frühzeitigen Endoskopie mit Entnahme von Biopsien überwiesen werden:
+
+
+-Dysphagie
+-Rezidivierendes Erbrechen
+-Inappetenz
+-Gewichtsverlust
+-Gastrointestinale Blutung
+
+
+Patienten mit einem oder mehreren der folgenden Alarmsymptome sollen zu einer frühzeitigen ÖGD mit Entnahme von Biopsien überwiesen werden:
+
+
+-Dysphagie
+-Rezidivierendes Erbrechen
+-Inappetenz
+-unklarer Gewichtsverlust
+-Gastrointestinale Blutung
+-unklare Eisenmangelanämie
+
+
+Empfehlung geändert
+
+
+Die vollständige endoskopische Untersuchung von Ösophagus und Magen stellt das Standardverfahren zur Detektion der Tumoren dar. Diese Untersuchung besitzt die höchste Sensitivität und Spezifität für den Nachweis von Neoplasien des oberen Gastrointestinaltraktes.
+Bei Verdacht auf das Vorliegen einer Neoplasie des Magens oder ösophagogastralen Übergangs soll eine vollständige endoskopische Untersuchung von Ösophagus, Magen und Duodenum (Ösophagogastroduodenoskopie, ÖGD) erfolgen.
+Empfehlung geändert
+
+
+Der Einsatz neuer endoskopischer Verfahren (NBI, Chromoendoskopie, konfokale Lasermikroskopie) über eine Videoendoskopie hinaus in der Primärdiagnostik von Ösophagus- und Magenkarzinom ist routinemäßig nicht notwendig.
+Zur Primärdiagnostik des Adenokarzinoms des Magens oder ösophagogastralen Übergangs soll die hochauflösende Videoendoskopie eingesetzt werden.
+Magnifikation und computergestützte Chromoendoskopie sollten zur Verbesserung der Detektionsrate und Therapieplanung eingesetzt werden.
+Empfehlung geändert
+
+
+Kapitel 6.2. Staging 
+
+
+Intraepitheliale Neoplasien (früher Dysplasien) des Magens werden nach WHO in Low-Grade und High-Grade unterschieden.
+Intraepitheliale Neoplasien (früher Dysplasien) des Magens und gastroösophagealen Übergangs werden nach WHO in Low-Grade und High-Grade unterschieden.
+Statement geändert
+
+
+Bei High-Grade intraepithelialen Neoplasien sollte eine externe Zweitbefundung durch einen in der gastrointestinalen Onkologie erfahrenen Pathologen durchgeführt werden.
+Bei histologischer Diagnose jeder IEN/Dysplasie soll der Prozess einer kompetenten (dokumentierten) pathologischen Zweitmeinung im Sinne eines Vier-Augen-Prinzips durchgeführt werden.
+
+
+Empfehlung geändert
+
+
+Kapitel 6.3. Histologie 
+
+
+In Fällen, in denen, trotz hochgradigem klinischem und endoskopischem Verdacht auf ein Adenokarzinom des Magens bzw. ein AEG, ausgiebige Biopsien die Sicherung der Diagnose nicht erlauben, kann der EUS zur primären Diagnosesicherung beitragen.
+In Fällen, in denen trotz eines hochgradigen klinischen und endoskopischen Verdachts auf eine Neoplasie des Magens bzw. ösophagogstralen Übergangs ausgiebige Biopsien die Sicherung der Diagnose nicht erlauben, kann der EUS zur primären Diagnosesicherung genutzt werden.
+Statement geändert
+
+
+
+
+Kapitel 7.2. Ultraschalldiagnostik 
+
+
+Eine Fernmetastasierung soll mittels konventioneller B-Bild-Sonographie, CT-Thorax und CT-Abdomen ausgeschlossen werden.
+Eine Fernmetastasierung soll mittels Sonographie, CT-Thorax und CT-Abdomen inklusive Becken ausgeschlossen werden.
+Empfehlung geändert
+
+
+Die B-Bild-Sonographie sollte als erstes bildgebendes Verfahren zum Ausschluss von Lebermetastasen eingesetzt werden.
+Die Sonographie sollte als erstes bildgebendes Verfahren zur Detektion von Lebermetastasen eingesetzt werden.
+Empfehlung geändert
+
+
+Die B-Bild-Sonographie des Halses kann beim Magenkarzinom bei klinischem Verdacht und sollte bei AEG-Tumoren ergänzend im Staging eingesetzt werden.
+Die Sonographie des Halses sollte bei Karzinomen des ösophagogastralen Übergangs zur Detektion von Lymphknotenmetastasen im Staging ergänzend eingesetzt werden. Beim Magenkarzinom kann sie bei klinischem Verdacht auf Lymphknotenmetastasen erfolgen.
+Empfehlung geändert
+
+
+Kapitel 7.4. Röntgendiagnostik 
+
+
+Bei Patienten mit kurativem Therapieansatz sollte ein CT des Thorax und Abdomens mit i.v. Kontrastmittel und Distensionen des Magens mit oralem Kontrastmittel oder Wasser durchgeführt werden.
+Bei Patienten mit kurativem Therapieansatz soll die CT des Thorax und Abdomens inklusive Becken mit i.v. Kontrastmittel und Distension des Magens mit oralem Kontrastmittel oder Wasser durchgeführt werden.
+Empfehlung geändert
+
+
+Die MRT sollte Patienten vorbehalten sein, bei denen keine CT durchgeführt werden kann oder sollte, falls erforderlich nach Vorliegen von CT- und/oder EUS-Befunden genutzt werden.
+Die MRT sollte Patienten vorbehalten sein, bei denen keine CT durchgeführt werden kann.
+Empfehlung geändert
+
+
+Eine Knochenszintigraphie im Rahmen des Stagings ist ohne entsprechende klinische Symptomatik nicht indiziert.
+Eine Knochenszintigraphie soll im Rahmen des Stagings ohne Verdacht auf eine Knochenmetastasierung nicht durchgeführt werden.
+Empfehlung geändert
+
+
+Für Patienten mit Adenokarzinomen des ösophagogastralen Übergangs und kurativer Therapieoption kann nach konventionellem Staging mit CT/EUS eine PET-CT für das Staging von loko-regionär und nicht loko-regionär gelegenen Lymphknoten und zum Nachweis/Ausschluss anderer Fernmetastasen in Betracht gezogen werden.
+ 
+Statement gestrichen
+
+
+Kapitel 7.6. Laparoskopie 
+
+
+Eine Staging-Laparoskopie kann zur Verbesserung der Staging-Genauigkeit, zum Ausschluss von Lebermetastasen und zum Ausschluss von Peritonealmetastasen in den fortgeschrittenen Stadien (insbesondere cT3, cT4) durchgeführt werden.
+Die Staging-Laparoskopie verbessert die Therapieentscheidungen beim lokal fortgeschrittenen Magenkarzinom (Insbesondere cT3, cT4) und sollte vor Beginn der neoadjuvanten Therapie durchgeführt werden.
+Empfehlung geändert
+
+
+Eine Peritoneallavage mit Zytologie kann zur Ergänzung des Stagings durchgeführt werden. Das Ergebnis korreliert mit der Prognose, hat aber keinen Einfluss auf die weitere Therapie.
+ 
+Statement gestrichen
+
+
+Breischluckuntersuchungen sind für das Staging von Tumoren des Magens oder ösophagogastralen Übergangs nicht geeignet. Die Fragen der Höhenlokalisation des Tumors kann durch Endoskopie und CT-Rekonstruktionstechniken hinreichend beantwortet werden.
+ 
+Statement gestrichen
+
+
+Kapitel 7.7. Laborchemische Paramenter 
+
+
+Molekulare Prognosemarker sollen für die Primärdiagnostik außerhalb klinischer Studien nicht bestimmt werden.
+Molekulare Marker zur Abschätzung der Prognose sollen für die Primärdiagnostik außerhalb klinischer Studien nicht bestimmt werden.
+Empfehlung geändert
+
+
+Kapitel 9.1. Resektion 
+
+
+Oberflächliche Magenkarzinome, die auf die Mukosa begrenzt sind (T1a N0 M0), können unter Berücksichtigung folgender Kriterien mit einer endoskopischen Resektion behandelt werden (basierend auf der Japanischen Klassifikation der Magenkarzinome): • Läsionen von < 2 cm Größe in erhabenen Typen • Läsionen von < 1 cm Größe in flachen Typen • Histologischer Differenzierungsgrad: gut oder mäßig (G1/G2) • Keine makroskopische Ulzeration • Invasion begrenzt auf die Mukosa • Keine restliche invasive Erkrankung nach ER
+Intraepitheliale Neoplasien (sogenannte Dysplasien) jeglicher Größe sowie Magenfrühkarzinome, die alle vier folgenden Kriterien erfüllen, sollen endoskopisch en-bloc reseziert werden:
+
+
+-< 2cm Durchmesser
+-nicht ulceriert
+-Mukosakarzinom
+-intestinaler Typ bzw. histologischer Differenzierungsgrad gut oder mäßig (G1/G2)
+
+
+Empfehlung geändert
+
+
+ 
+
+Magenfrühkarzinome mit maximal einem „erweitertem Kriterium“ können endoskopisch kurativ reseziert werden. Zur Resektion soll die ESD eingesetzt werden. Liegt mehr als ein erweitertes Kriterium vor, soll eine onkologisch-chirurgische Nachresektion erfolgen.
+
+Die erweiterten Kriterien sind wie folgt definiert:
+
+-differenziertes Mukosakarzinom (G1/2) ohne Ulceration und Größe >2cm
+-Differenziertes Mukosakarzinom mit Ulceration und Größe <3cm
+-Gut differenzierte Karzinome mit Submukosainvasion <500µm und Größe <3cm
+-Undifferenziertes Mukosakarzinom <2cm Durchmesser (sofern bioptisch kein Nachweis von Tumorzellen im Abstand ≤1cm besteht (Cave: Bitte Hintergrundtext beachten!).
+
+
+Neue Empfehlung
+
+
+Der Endoskopiker arbeitet mit dem Ziel, den Tumor als Ganzes zu entfernen ohne residuales Tumorgewebe zurückzulassen. Daher ist immer eine Mukosaresektion mit kurativer Intention und R0 Resektion anzustreben.
+ 
+Statement gestrichen
+
+
+Kapitel 9.2. Rezidiv 
+
+
+Die ER und ESD von Magenfrühkarzinomen soll nur durch Endoskopiker mit entsprechender Expertise in der endoskopischen Therapie von gastrointestinalen Frühkarzinomen durchgeführt werden.
+Die ER und ESD von Magenfrühkarzinomen soll nur durch Endoskopiker mit Expertise in der endoskopischen Therapie von gastrointestinalen Frühkarzinomen durchgeführt werden.
+Empfehlung geändert
+
+
+Lokalrezidive nach ER eines Magenfrühkarzinom können erneut endoskopisch behandelt werden, wenn ein mukosaler Befall (rT1a N0 M0) vorliegt. Alternativ soll ein chirurgisches Vorgehen gewählt werden.
+Bei Nachweis eines positiven horizontalen Randes oder im Falle einer piece-meal-Resektion ist das Lokalrezidivrisiko sehr hoch. Lokalrezidive nach ER eines Magenfrühkarzinoms können erneut endoskopisch behandelt werden, wenn ein mukosaler Befall (rT1a N0 M0) vorliegt. Alternativ soll ein chirurgisches Vorgehen gewählt werden.
+Empfehlung geändert
+
+
+Kapitel 9.3. Komplikationen 
+
+
+Blutung und Perforation sind typische Komplikationen nach endoskopischer Resektion von Magenfrühkarzinomen.
+Blutung und Perforation sind typische Komplikationen nach endoskopischer Resektion von Magenfrühkarzinomen und können in der Regel endoskopisch bzw. konservativ behandelt werden.
+Statement geändert
+
+
+Kapitel 9.4. Nachsorge 
+
+
+Patienten, die mit endoskopischer Resektion behandelt wurden, sollten eine endoskopische Überwachung erhalten. Eine Nachsorge-Endoskopie sollte alle 3 Monate im ersten Jahr, danach alle 6 Monate im zweiten Jahr und dann jährlich erfolgen.
+Patienten, die mit endoskopischer Resektion behandelt wurden, sollen eine endoskopische Überwachung erhalten. Bei Vorliegen erweiterter Kriterien sollten in der Nachsorge zusätzlich bildgebende Verfahren eingesetzt werden.
+Empfehlung geändert
+
+
+Patienten mit einer R1-Resektion sollen nachreseziert werden. Nach einer Piece-Meal-Resektion ohne Indikation für eine Operation soll nach 3 Monaten endoskopisch-bioptisch kontrolliert werden.
+ 
+Neue Empfehlung
+
+
+Kapitel 10.1. Resektion 
+
+
+
+Die chirurgische Resektion stellt die einzige Möglichkeit zur kurativen Behandlung und damit die Standardtherapie für alle potentiell resektablen Magenkarzinome dar.
+Eine Ausnahme bilden die auf die Mukosa begrenzten Karzinome (T1a N0 M0), wenn sie endoskopisch komplett R0 reseziert werden können.
+
+
+Die chirurgische Resektion stellt die einzige Möglichkeit zur kurativen Behandlung und damit die Standardtherapie für alle potentiell resektablen Magenkarzinome dar.
+Eine Ausnahme stellen die endoskopisch kurativ resezierbaren Frühkarzinome dar (s. Empfehlung 44).
+
+Statement geändert
+
+
+ 
+Bei Magenfrühkarzinomen kann eine laparoskopische subtotale distale Resektion oder Gastrektomie durchgeführt werden und ist einer offenen Resektion onkologisch gleichwertig.
+Neues Statement
+
+
+Das Ziel der Resektion ist die vollständige Entfernung des Karzinoms (oral, aboral und in der Zirkumferenz) zusammen mit den regionären Lymphknoten.
+ 
+Statement gestrichen
+
+
+Um tumorfreie Resektionsränder (R0) zu erzielen, ist außer bei Mukosakarzinomen (T1a N0 M0) in der Regel ein proximaler Sicherheitsabstand am Magen von 5 cm (intestinaler Typ n. Laurén) bzw. 8 cm (diffuser Typ n. Laurén) in situ einzuhalten.
+Um tumorfreie Resektionsränder bei chirurgischer Resektion zu erzielen, sollte ein proximaler Sicherheitsabstand am Magen von 5 cm (intestinaler Typ n. Laurén) bzw. 8 cm (diffuser Typ n. Laurén) in situ angestrebt werden. Bei Unterschreitung des Sicherheitsabstandes nach oral soll ein Schnellschnitt erfolgen.
+Empfehlung geändert
+
+
+Es liegen deutliche Hinweise dafür vor, dass in Kliniken mit hoher Fallzahl die perioperative Letalität geringer ist als in Kliniken mit niedriger Fallzahl.
+Kliniken mit hoher Fallzahl haben eine geringere perioperative Letalität als Kliniken mit niedriger Fallzahl. Patienten sollte daher die Überweisung an Kliniken mit hoher Fallzahl angeboten werden.
+Empfehlung geändert
+
+
+ 
+
+Bei Lokalisation des Tumors im ösophagogastralen Übergang (AEG Typ II) mit Infiltration der unteren Speiseröhre kann eine transthorakale subtotale Ösophagektomie mit proximaler Magenresektion nach Ivor Lewis durchgeführt werden.
+Alternativ kann eine transhiatal erweiterte Gastrektomie mit distaler Ösophagusresektion erfolgen. 
+Bei zusätzlich ausgedehntem Magenbefall kann eine Ösophago-Gastrektomie erforderlich sein.
+
+Neues Statement
+
+
+Die Entfernung der regionären Lymphknoten von Kompartiment I und II (D2-Lymphadenektomie) stellt den Standard für die operative Behandlung in kurativer Intention dar.
+Die Entfernung der regionären Lymphknoten von Kompartiment I und II (D2-Lymphadenektomie) soll bei der operativen Behandlung in kurativer Intention erfolgen.
+Empfehlung geändert
+
+
+Bei der D2-Lymphadenektomie ohne Splenektomie/Pankreaslinksresektion werden in der Regel mehr als 25 regionäre Lymphknoten entfernt und histopathologisch untersucht.
+Bei der D2-Lymphadenektomie ohne Splenektomie/Pankreaslinksresektion sollten mindestens 25 regionäre Lymphknoten entfernt und histopathologisch untersucht werden.
+Empfehlung geändert
+
+
+Die Peritonektomie bei Peritonealmetastasen kann außerhalb klinischer Studien nicht empfohlen werden.
+ 
+Statement gestrichen
+
+
+Nach R1-Resektion beim Adenokarzinom des Magens und des ösophagogastralen Übergangs soll zunächst die Möglichkeit einer kurativen Nachresektion geprüft werden. Falls dies nicht möglich ist, kann eine postoperative Radiochemotherapie nach Konsens in der interdisziplinären Tumorkonferenz durchgeführt werden. Eine alleinige postoperative Chemotherapie soll nicht durchgeführt werden.
+Nach R1-Resektion beim Adenokarzinom des Magens und des ösophagogastralen Übergangs soll zunächst die Möglichkeit einer kurativen Nachresektion geprüft werden. Falls dies nicht möglich ist, kann eine postoperative Radiochemotherapie nach Konsens in der interdisziplinären Tumorkonferenz durchgeführt werden.
+Empfehlung geändert
+
+
+Nach inkompletter Resektion (lokale R2-Resektion) ohne Nachweis von Fernmetastasen soll zunächst die Möglichkeit einer kurativen Nachresektion geprüft werden. Falls diese nicht möglich ist, kann eine postoperative Radiochemotherapie nach Konsens in der interdisziplinären Tumorkonferenz durchgeführt werden.
+Nach makroskopisch inkompletter Resektion (R2) ohne Nachweis von Fernmetastasen soll zunächst die Möglichkeit einer kurativen Nachresektion geprüft werden. Falls diese nicht möglich ist, kann eine postoperative Radiochemotherapie nach Konsens in der interdisziplinären Tumorkonferenz durchgeführt werden.
+Empfehlung geändert
+
+
+Kapitel 10.3. Definitive Radiochemotherapie 
+
+
+Bei funktioneller Inoperabilität eines Patienten oder Irresektabilität eines lokal begrenzten Adenokarzinom des Magens oder ösophagogastralen Übergangs kann eine definitive Radiochemotherapie in potenziell kurativer Absicht durchgeführt werden.
+Bei funktioneller Inoperabilität eines Patienten oder Irresektabilität eines lokal begrenzten Adenokarzinom des Magens oder ösophagogastralen Übergangs kann eine definitive Radiochemotherapie durchgeführt werden.
+Statement geändert
+
+
+Kapitel 11.1. Perioperative Chemotherapie 
+
+
+Bei lokalisierten Adenokarzinomen des Magens oder ösophagogastralen Übergangs mit Kategorie uT2 kann eine präoperative Chemotherapie durchgeführt und postoperativ fortgesetzt werden.
+Bei lokalisierten Adenokarzinomen des Magens oder ösophagogastralen Übergangs mit Kategorie cT2 kann eine perioperative Chemotherapie durchgeführt werden.
+Statement geändert
+
+
+Beim lokalisierten Adenokarzinom des ösophagogastralen Übergangs der Kategorien uT3 und resektablen uT4 Tumoren soll/sollte eine perioperative Chemotherapie oder eine neoadjuvante Radiochemotherapie durchgeführt werden.
+Beim nicht-fernmetastasierten Adenokarzinom des ösophagogastralen Übergangs der Kategorien cT3 und resektablen cT4 Tumoren soll eine neoadjuvante Radiochemotherapie oder eine perioperative Chemotherapie durchgeführt werden.
+Empfehlung geändert
+
+
+
+
+Kapitel 11.2. Präoperative Radiochemotherapie – Magen 
+
+
+Eine präoperative Radiochemotherapie soll beim Magenkarzinom nicht durchgeführt werden.
+Eine präoperative Radiochemotherapie soll außerhalb von Studien beim Magenkarzinom nicht durchgeführt werden.
+Empfehlung geändert
+
+
+Kapitel 11.3. Präoperative Antikörper-Therapie 
+
+
+Antikörper und „small molecules“ sollen in der präoperativen Therapie nicht eingesetzt werden.
+Antikörper und „small molecules“ sollen in der präoperativen Therapie nicht außerhalb klinischer Studien eingesetzt werden.
+Empfehlung geändert
+
+
+Kapitel 11.4. Restaging nach neoadjuvanter Therapie 
+
+
+Die Genauigkeit des Restaging von lokal fortgeschrittenen Magenkarzinomen und AEG nach neoadjuvanter Therapie ist im Bezug auf den Primärtumor sowohl mit der Endosonographie als auch mit der Computertomographie gering.
+ 
+Statement gestrichen
+
+
+Ein routinemäßiges Restaging des Lokalbefundes ist nicht erforderlich. Ein erneuter Ausschluss von Fernmetastasen soll erfolgen.
+Ein Restaging zur Bewertung der Response soll mittels CT und ÖGD nach Abschluss der präoperativen Therapie durchgeführt werden.
+Empfehlung geändert
+
+
+
+
+Falls im Verlauf der neoadjuvanten Therapie klinisch Hinweise auf eine Tumorprogression bestehen (Verschlechterung tumorbedingter Symptome oder des Allgemeinzustandes), soll eine symptomadaptierte Diagnostik erfolgen.
+Bei Patienten mit klinischen Hinweisen auf einen Tumorprogress (z.B. Verschlechterung tumorbedingter Symptome oder des Allgemeinzustandes) während präoperativer Therapie soll eine Re-Evaluation durch Endoskopie und Bildgebung erfolgen.
+Empfehlung geändert
+
+
+Im Falle eines lokalen Tumorprogresses unter neoadjuvanter Therapie sollte eine frühzeitige Operation durchgeführt werden.
+Im Falle eines lokalen Tumorprogresses unter neoadjuvanter Therapie sollte diese abgebrochen und eine frühzeitige Operation durchgeführt werden.
+Empfehlung geändert
+
+
+
+
+Bislang können noch keine Empfehlungen zum Einsatz von prädiktiven Biomarkern für die Lenkung der neoadjuvanten Therapie des Magenkarzinoms ausgesprochen werden.
+Prädiktive Biomarker sollen für die Lenkung der präoperativen Therapie des Magenkarzinoms nicht außerhalb klinischer Studien eingesetzt werden.
+Empfehlung geändert
+
+
+Der Stellenwert der histologischen Bestimmung des Tumorregressionsgrades nach neoadjuvanter Chemotherapie ist zur Beurteilung der Prognose nicht gesichert.
+Nach präoperativer Therapie soll eine histologische Bestimmung des Tumorregressionsgrades nach Becker erfolgen.
+Empfehlung geändert
+
+
+Kapitel 11.5. Postoperative und adjuvante Therapie 
+
+
+Nach präoperativer Chemotherapie und anschließender Operation sollte die Chemotherapie postoperativ fortgesetzt werden.
+Nach präoperativer Chemotherapie und anschließender Operation soll über die postoperative Chemotherapie interdisziplinär entschieden werden.
+In diese Entscheidung sollen Regressionsgrad, klinisches Ansprechen, Verträglichkeit der Chemotherapie und Allgemeinszustand einfließen. 
+Empfehlung geändert
+
+
+ 
+Bei Progress soll die präoperative Therapie postoperativ nicht fortgesetzt werden.
+Neue Empfehlung
+
+
+Vor Einleitung einer postoperativen Chemotherapie sollte mit einfachen Mitteln (Röntgen-Thorax, Sonographie Abdomen) eine Metastasierung ausgeschlossen werden.
+ 
+Empfehlung gestrichen
+
+
+Für Patienten mit R0-Resektion und adäquater D2-Lymphadenektomie ist die postoperative Radiochemotherapie kein Standard.
+
+Für nicht neoadjuvant behandelte Patienten mit R0-Resektion und adäquater D2-Lymphadenektomie sind postoperative Radiochemotherapie und Chemotherapie kein Standard.
+
+Für Patienten mit R0-Resektion und adäquater D2-Lymphadenektomie ohne präoperative Chemotherapie kann bei Vorliegen von Risikofaktoren eine postoperative Radiochemotherapie oder Chemotherapie angeboten werden.
+
+Statement geändert
+
+
+Bei einer Lymphadenektomie <D2 oder in begründeten Risikosituationen kann eine adjuvante Radiochemotherapie bei nicht neoadjuvant behandelten Patienten nach interdisziplinärer Entscheidung im Tumorboard durchgeführt werden.
+Bei einer Lymphadenektomie <D2 und in begründeten Risikosituationen sollte eine adjuvante Radiochemotherapie bei nicht neoadjuvant behandelten Patienten nach interdisziplinärer Entscheidung im Tumorboard durchgeführt werden.
+Empfehlung geändert
+
+
+Nach primärer R0-Resektion (ohne präoperative Chemotherapie) sollte keine adjuvante Chemotherapie durchgeführt werden.
+ 
+Empfehlung gestrichen
+
+
+Bei primär komplett reseziertem Adenokarzinom des ösophagogastralen Übergangs (keine präoperative Chemotherapie) sollte keine adjuvante Chemotherapie durchgeführt werden.
+ 
+Empfehlung gestrichen
+
+
+Außerhalb klinischer Studien soll eine adjuvante Immuno-Chemotherapie nicht durchgeführt werden.
+ 
+Empfehlung gestrichen
+
+
+Eine intraperitoneale Chemo(immun)therapie soll außerhalb klinischer Studien nicht durchgeführt werden.
+ 
+Empfehlung gestrichen
+
+
+Kapitel 12.1. Medikamentöse Tumortherapie 
+
+
+ 
+Während der Chemotherapie sollen das allgemeine Befinden des Patienten, Tumorsymptome und vitale Körperfunktionen regelmäßig geprüft werden.
+Neue Empfehlung
+
+
+ 
+Unter laufender palliativer Chemotherapie sollte alle 6-12 Wochen eine klinische Re-Evaluation und geeignete Bildgebung erfolgen, um negative Entwicklungen der Erkrankung rechtzeitig zu erkennen und Patienten nicht unnötig lange unwirksamen Therapien aussetzen bzw. die Chance auf wirksamere Therapien zu ermöglichen.
+Neue Empfehlung
+
+
+
+Vor dem Einsatz einer palliativen medikamentösen Tumortherapie sollte der HER-2-Status als positiver prädiktiver Faktor für eine Therapie mit Trastuzumab bestimmt werden.
+
+Die histopathologische Bestimmung am Tumorgewebe soll qualitätsgesichert durchgeführt werden.
+
+Vor dem Einsatz einer palliativen medikamentösen Tumortherapie soll der HER-2-Status als positiver prädiktiver Faktor für eine Therapie mit Trastuzumab bestimmt werden.
+Empfehlung geändert
+
+
+Kapitel 12.2. Vorgehen bei Tumoren ohne HER-2-Überexpression 
+
+
+Die Kombinationstherapie ist der Monotherapie mit 5-FU bzw. oralen Fluoropyrimidinen in Bezug auf die Überlebenszeit signifikant überlegen.
+ 
+Statement gestrichen
+
+
+Indiziert ist eine systemische Platin/Fluoropyrimidin-haltige Kombinationstherapie. Bei der Indikationsstellung sind mögliche Kontraindikationen zu berücksichtigen.
+
+In der Palliativsituation soll in der Erstlinientherapie eine Platin-/Fluoropyrimidin-haltige Kombinationstherapie durchgeführt werden.
+Bei Vorliegen von Kontraindikationen gegen Platin kann alternativ eine Irinotecan/Fluoropyrimidinhaltige Kombinationstherapie durchgeführt werden. Dabei handelt es sich um einen Off-Label-Use.
+
+
+Empfehlung geändert
+
+
+Eine Dreifachkombination mit Cisplatin/5-FU und Docetaxel (DCF) führt bei einer jüngeren Patientenpopulation (median 55 Jahre) im Vergleich zu einer Zweifachtherapie mit Cisplatin/5-FU zu einem statistisch signifikanten Überlebensvorteil, ist jedoch mit einer höheren Rate an Toxizitäten verbunden.
+ 
+Statement gestrichen
+
+
+Die Docetaxel-haltige Dreifachkombination (DCF) sollte daher nur Patienten in gutem Allgemeinzustand ohne relevante Komorbidität angeboten werden.
+Eine Docetaxel-haltige Dreifachkombination kann unter Berücksichtigung von Alter, Allgemeinzustand und Komorbidität erwogen werden.
+Statement geändert
+
+
+Die sogenannten modifizierten DCF-Schemata verfügen über ein im Vergleich zum klassischen DCF verbessertes Nebenwirkungsprofil.
+ 
+Statement gestrichen
+
+
+Besteht eine Indikation zu einer Docetaxel-basierten Dreifachkombination, kann der Einsatz der modifizierten DCF-Schemata in Erwägung gezogen werden.
+Wenn eine taxan-basierte Dreifachkombination geplant ist, soll ein modifiziertes DCF-Schema (z.B. FLOT) durchgeführt werden.
+Empfehlung geändert
+
+
+Oxaliplatin hat eine dem Cisplatin vergleichbare Wirksamkeit, die Toxizitätsprofile sind jedoch unterschiedlich.
+ 
+Statement gestrichen
+
+
+
+
+Die Therapieentscheidung zwischen diesen beiden Substanzen sollte deshalb die Begleiterkrankungen des jeweiligen Patienten berücksichtigen.
+Die Therapieentscheidung zwischen Oxaliplatin und Cisplatin soll aufgrund vergleichbarer Wirksamkeit und unterschiedlicher Nebenwirkungen die Begleiterkrankungen des jeweiligen Patienten berücksichtigen.
+Empfehlung geändert
+
+
+Capecitabin zeigt eine dem 5-FU vergleichbare Wirksamkeit.
+ 
+Statement gestrichen
+
+
+
+
+Die orale Gabe von Capecitabin kann Patienten mit ausreichender Nierenfunktion und guter Compliance anstatt der intravenösen 5-FU-Dauerinfusion (wie z. B. bei ECF) angeboten werden.
+Die Therapieentscheidung zwischen oralen und infusionalen Fluoropyrimidinen soll aufgrund vergleichbarer Wirksamkeit und unterschiedlicher Nebenwirkungen die Begleiterkrankungen und Präferenz des jeweiligen Patienten berücksichtigen.
+Empfehlung geändert
+
+
+Im Rahmen von 5-FU-basierten Kombinationstherapien zeigt Irinotecan eine dem Cisplatin vergleichbare Wirksamkeit.
+ 
+Statement gestrichen
+
+
+Eine Irinotecan/Fluropyrimidin-basierte Kombinationstherapie kann Patienten angeboten werden, bei denen aufgrund des Nebenwirkungsprofils eine Alternative zu einer platinhaltigen Kombination sinnvoll ist.
+ 
+Statement gestrichen
+
+
+Kapitel 12.3. Vorgehen bei metastasierten Karzinomen mit HER-2-Überexpression/-Amplifikation 
+
+
+Aufgrund eines nachgewiesenen Überlebensvorteils besteht bei HER-2-überexprimierenden Tumoren (IHC3+ oder IHC2+ und FISH+) eine Indikation für den Einsatz von Trastuzumab in Kombination mit Cisplatin und Fluoropyrimidinen (5-FU oder Capecitabin).
+Bei HER2-überexprimierenden Tumoren soll eine Cisplatin-/Fluoropyrimidin-basierte Erstlinienchemotherapie um Trastuzumab ergänzt werden.
+Empfehlung geändert
+
+
+Kapitel 12.4. Zweit-Chemotherapie 
+
+
+ 
+Eine Zweitlinientherapie sollte Irinotecan*, Docetaxel*, Paclitaxel*, Ramucirumab* oder Paclitaxel* und Ramucirumab* beinhalten, wobei der Zulassungsstatus zu berücksichtigen ist.
+Neue Empfehlung
+
+
+Kapitel 13.1. Palliative Therapieoptionen 
+
+
+Die Wahl des palliativen Therapieverfahrens einer symptomatischen Tumorstenose des Magens hängt vor allem von der Tumorlokalisation, –ausdehnung und Schwere der Symptomatik ab.
+Die Wahl des palliativen Therapieverfahrens einer symptomatischen Tumorstenose des Magens hängt von der Tumorlokalisation, –ausdehnung und Schwere der Symptomatik und der Vortherapie ab.
+Statement geändert
+
+
+Im Bereich des ösophagogastralen Übergangs bieten interventionelle endoskopische Verfahren wie Stentimplantation eine raschere Wirksamkeit gegenüber einer Strahlentherapie und sind daher für eine rasche Symptomlinderung zu favorisieren. Der Effekt einer endoluminalen oder perkutanen Strahlentherapie scheint langfristig aber günstiger zu sein.
+Bei symptomatischen Tumorstenosen im Bereich des ösophagogastralen Übergangs sollen in Abhängigkeit von der Prognose selbstexpandierende Metallstents (SEMS), eine hochdosierte intraluminale Brachytherapie oder eine perkutane Radiotherapie angeboten werden.
+Empfehlung geändert
+
+
+Kapitel 13.2. Therapie der Tumorblutung in palliativer Situation 
+
+
+
+Sollte bei Tumorblutungen im Magen endoskopisch keine Blutstillung möglich sein, sollte bei einer starken Blutung eine angiographische Embolisation oder eine palliative Resektion erwogen werden. Eine palliative Radiotherapie kann bei chronischer Sickerblutung sinnvoll sein.
+
+
+Bei endoskopisch nicht stillbaren, bedrohlichen Tumorblutungen in der palliativen Situation sollte eine angiographische Embolisation angeboten werden. Führen beide Verfahren nicht zur Blutstillung, kann eine palliative Resektion erwogen werden.
+Bei chronischer Sickerblutung sollte eine palliative Radiotherapie angeboten werden.
+
+Empfehlung geändert
+
+
+
+Bzgl. Tumorblutungen speziell im Bereich des ösophagogastralen Übergangs gibt es keine relevanten Studien für nicht-endoskopische lokale palliative Verfahren. Eine palliative Radiotherapie kann auch hier nach Versagen endoskopischer Therapiemaßnahmen bei chronischer Sickerblutung sinnvoll sein.
+ 
+Statement gestrichen
+
+
+Kapitel 13.3. Therapie bei limitierter Metastasierung 
+
+
+Gegenwärtig liegt für die Effektivität einer lokalablativen oder operativen Therapie von synchronen oder metachronen Metastasen in Bezug auf das Überleben keine ausreichende Evidenz vor.
+Eine Resektion von Primärtumor und Metastasen sollte außerhalb von Studien nicht erfolgen.
+Empfehlung geändert
+
+
+ 
+Im Einzelfall können erst intraoperativ entdeckte, limitierte Metastasen, wenn R0 resektabel, reseziert werden.
+Neues Statement
+
+
+ 
+Patienten mit synchron limitierten Metastasen sollte die Überweisung in eine Klinik mit hoher Fallzahl angeboten werden.
+Neue Empfehlung
+
+
+Kapitel 13.4. Chemotherapie-refraktärer maligner Aszites 
+
+
+
+Die Peritonealkarzinose mit regelmäßig punktionswürdigem Aszites entwickelt sich bei Patienten im fortgeschrittenen Stadium der Krebserkrankung und kann die Lebensqualität stark beeinträchtigen.
+Die Standardtherapie des symptomatischen, Chemotherapie-refraktären malignen Aszites ist die Parazentese.
+
+Die Therapie des symptomatischen, chemotherapie-refraktären Aszites soll mittels Parazentese erfolgen.
+Empfehlung geändert
+
+
+ 
+HIPEC soll beim Chemotherapie-refraktären Aszites – aufgrund der relevanten Morbidität und Letalität - bei fraglichem Nutzen in der Palliativsituation nicht durchgeführt werden.
+ 
+
+
+Kapitel 13.5. Limitierte Peritonealkarzinose 
+
+
+ 
+Bei limitierter Peritonealkarzinose soll eine zytoreduktive Chirurgie mit hyperthermer intraperitonealer Chemotherapie nicht außerhalb von Studien durchgeführt werden.
+Neue Empfehlung
+
+
+ 
+Patienten mit limitierter Peritonealkarzinose sollte die Überweisung an eine Klinik mit hoher Fallzahl angeboten werden.
+Neue Empfehlung
+
+
+
+
+ 
+Eine PIPAC zur Therapie soll nicht außerhalb von Studien durchgeführt werden.
+Neue Empfehlung
+
+
+Bei Chemotherapie-refraktärem malignem Aszites kann zur Verlängerung des punktionsfreien Intervalls die Anwendung des intraperitoneal applizierbaren Antikörpers Catumaxomab erwogen werden.
+Bei Patienten mit nachgewiesener Mikrosatelliten-Instabilität kann nach Ausschöpfung zugelassener Therapien eine Therapie mit Immuncheckpoint-Inhibitoren erwogen werden.
+
+
+Statement geändert
+
+
+ 
+Der Stellenwert einer Therapie mit Immuncheckpoint-Inihibitoren ist bei unselektierten Patienten unklar.
+Neues Statement
+
+
+Kapitel 14.1. Allgemeine Entscheidungshilfen 
+
+
+Zur Reduzierung des Fatigue-Syndroms sollte ein sich an der individuellen Belastungs- fähigkeit orientierendes Ausdauertraining durchgeführt werden.
+ 
+Empfehlung gestrichen
+
+
+Obwohl eine künstliche Ernährung Tumorgewebe mit Nährstoffen versorgt, liegen keine Daten vor, dass dies die klinische Situation negativ beeinflusst. Diese Überlegungen sollten deshalb nicht die Entscheidung für eine klinisch indizierte Ernährung beeinflussen.
+Patienten sollen eine Ernährungstherapie erhalten, wenn der Ernährungszustand so weit kompromittiert ist, dass ein hohes Risiko für Komplikationen besteht oder eine geplante onkologische Therapie deshalb nicht durchgeführt werden kann.
+
+
+Empfehlung geändert
+
+
+Der Ernährungsstatus sollte bei allen Tumorpatienten, beginnend mit der Diagnosestellung, bei jedem Patientenkontakt beurteilt werden, um Interventionen frühzeitig einleiten zu können, bevor es zu schwer beeinflussbaren Einschränkungen des Allgemeinzustands kommt.
+Der Ernährungsstatus soll bei allen Tumorpatienten, beginnend mit der Diagnosestellung, bei jeder stationären Aufnahme und ambulantem Patientenkontakt beurteilt werden, um Interventionen frühzeitig einleiten zu können. 
+Empfehlung geändert
+
+
+Kapitel 14.2. Präoperative Ernährungstherapie 
+
+
+Zur Frage der funktionellen Auswirkungen einer Ösophagektomie oder Gastrektomie auf die Ernährung, kann bereits präoperativ, im Rahmen der Aufklärung, ein Diätassistent hinzugezogen werden.
+Zur Begleitung während einer multimodalen Therapie und zur Vorbereitung auf die funktionellen Auswirkungen einer Ösophagektomie oder Gastrektomie sollte bereits präoperativ eine Ernährungsfachkraft hinzugezogen werden.
+
+
+Empfehlung geändert
+
+
+Patienten vor großen Tumorresektionen im oberen GI-Bereich sollten auch ohne Zeichen einer Mangelernährung präoperativ immun-modulierende Trinklösungen einnehmen, die Arginin, Omega-3-Fettsäuren und Ribonukleotide enthalten.
+Patienten sollen auch ohne Zeichen einer Mangelernährung präoperativ für 5-7 Tage zur Einnahme bilanzierter Trinklösungen zusätzlich zur normalen Ernährung motiviert werden.
+Empfehlung geändert
+
+
+Kapitel 14.3. Präoperative Ernährungstherapie 
+
+
+Patienten mit hohem ernährungsmedizinischem Risiko sollten für eine Dauer von 10-14 Tagen präoperativ eine gezielte Ernährungstherapie erhalten, auch wenn dafür die Operation verschoben werden muss.
+Mangelernährte Patienten mit hohem ernährungsmedizinischem Risiko sollten für eine Dauer von 10-14 Tagen präoperativ eine gezielte Ernährungstherapie erhalten, auch wenn dafür die Operation verschoben werden muss. 
+Empfehlung geändert
+
+
+Kapitel 14.4. Postoperative Ernährungstherapie 
+
+
+Nach Ösophagektomie oder Gastrektomie sollte eine enterale Sondenernährung frühzeitig innerhalb von 24 Stunden postoperativ begonnen werden.
+Nach Ösophagektomie oder Gastrektomie kann die enterale Substratzufuhr frühzeitig (innerhalb von 24 Stunden) begonnen werden.
+
+
+Statement geändert
+
+
+Postoperativ sollen Patienten nach Ösophagektomie oder Gastrektomie vor der Entlassung eine eingehende diätetische Beratung zu den erforderlichen Änderungen im Ernährungsverhalten sowie ggf. eine Schulung im Umgang mit einer vorhandenen Feinnadelkatheterjejunostomie erhalten. Ernährungsmedizinische Verlaufskontrollen ggf. mit Wiederholung der Ernährungsberatung sollten regelmäßig erfolgen.
+Ernährungsmedizinische Verlaufskontrollen ggf. mit Wiederholung der Ernährungsberatung sollten regelmäßig erfolgen.
+Empfehlung geändert
+
+
+Eine routinemäßige parenterale oder enterale Ernährung sollte weder während Chemotherapie oder Strahlentherapie noch während kombinierter Behandlung eingesetzt werden.
+
+
+Empfehlung gestrichen
+
+
+Eine Ernährungstherapie sollte regelmäßig erfolgen, wenn die normale Nahrungsaufnahme unzureichend ist, um einer mit Mangelernährung assoziierten Prognoseeinschränkung entgegenzuwirken.
+ 
+Empfehlung gestrichen
+
+
+Während einer Chemo- oder Strahlentherapie sollten Vitamine und Spurenelemente entsprechend des physiologischen Bedarfs und möglichst über die natürliche Ernährung zugeführt werden.
+ 
+Empfehlung gestrichen
+
+
+Kapitel 14.5. Ernährung unter Chemo- oder Strahlentherapie 
+
+
+Auch bei Tumorpatienten, die palliativ behandelt werden, sollte der Ernährungszustand regelmäßig beurteilt werden und bei der Feststellung eines Defizits sollte eine Intervention frühzeitig eingeleitet werden.
+Eine Bewegungstherapie sollte allen Patienten angeboten werden. Bei Patienten mit eingeschränktem funktionellen Status sollte diese präoperativ im Rahmen der „Prähabilitation“ durchgeführt werden.
+Empfehlung geändert
+
+
+Kapitel 14.6. Ernährung in der Sterbephase 
+
+
+In der Sterbephase sind Grundsätze zum Erhalt des Ernährungszustands nicht länger relevant und eine intensive künstliche Ernährung kann den Zustand eines sterbenden Patienten sogar verschlechtern.
+In der Sterbephase soll sich die Betreuung auf die Linderung der Symptome Hunger und Durst konzentrieren, da der Erhalt des Ernährungszustandes nicht relevant ist und eine künstliche Ernährung den Zustand eines sterbenden Patienten verschlechtern kann.
+Empfehlung geändert
+
+
+Kapitel 15.1. Lebensqualität 
+
+
+Die Nachsorge nach chirurgischer Resektion sollte symptomorientiert Funktionsstörungen erfassen, die die Lebensqualität beeinflussen.
+Patienten nach kurativer Therapie eines Karzinoms des Magens oder ösophagogastralen Übergangs sollte eine strukturierte ganzheitliche Nachsorge angeboten werden.
+
+
+Empfehlung geändert
+
+
+ 
+Die strukturierte Nachsorge umfasst die klinische Kontrolle, endoskopische Kontrolle und Kontrolle mittels Bildgebung. Die Intervalle sollten in den ersten zwei Jahren zumindest halbjährlich und danach bis zum 5. Jahr jährlich betragen.
+Neue Empfehlung
+
+
+Kapitel 15.3. Rehabilitationsmaßnahmen 
+
+
+Nach Abschluss der Primärtherapie sollte eine Anschlussheilbehandlung bei allen rehabilitationsfähigen Patienten angeboten werden.
+Allen rehabilitationsfähigen Patienten soll nach Abschluss der Primärtherapie eine Anschlussheilbehandlung angeboten werden.
+Empfehlung geändert
+
+
+Kapitel 15.4. Bestimmung von Tumormarkern 
+
+
+Die routinemäßige Bestimmung von Tumormarkern wird in der Nachsorge nicht empfohlen.
+Eine routinemäßige Bestimmung von Tumormarkern soll in der Nachsorge nicht erfolgen.
+Empfehlung geändert
+
+
+Kapitel 16.2.1. Lebensqualität 
+
+
+Das psychische Befinden und psychische Störungen der Patienten sollen im gesamten Krankheitsverlauf wiederholt ermittelt werden.
+Die Lebensqualität sollte wiederholt im Krankheitsverlauf aus Patientensicht erfragt werden.
+Empfehlung geändert
+
+
+Angemessene professionelle psychische Unterstützung/ Mitbehandlung soll verfügbar sein.
+ 
+Empfehlung gestrichen
+
+
+Psychosoziale Interventionen sind wichtig. Psychosoziale Interventionen können die Lebensqualität von Patienten mit Magenkrebs verbessern und sollten Bestandteil einer umfassenden Versorgung sein.
+ 
+Statement gestrichen
+
+
+Kapitel 17.1. Allgemeine Hinweise zu komplementären und alternativen Verfahren 
+
+
+Diagnostische Massnahmen der alternativen oder komplementären Medizin können für Patienten mit Karzinomen des Magens und des ösophagogastralen Übergangs nicht empfohlen werden.
+Patienten, die komplementäre Verfahren einsetzen, sollten auch auf mögliche Risiken und Interaktionen hingewiesen werden.
+
+
+Empfehlung geändert
+
+
+Es gibt keinen Hinweis darauf, dass Misteltherapie einen positiven Einfluss auf das Überleben von Patienten mit Magenkarzinom hat.
+Diagnostische Maßnahmen der alternativen oder komplementären Medizin sollen für Patienten mit Karzinomen des Magens und des ösophagogastralen Übergangs nicht empfohlen werden.
+Empfehlung geändert
+
+
+Von Mischkollektiven aus Patienten mit unterschiedlichen Tumorarten gibt es allerdings schwache Hinweise für eine Verbesserung der Lebensqualität.
+ 
+Statement gestrichen
+
+
+Kapitel 17.2. Misteltherapie 
+
+
+ 
+Eine Misteltherapie kann bei Patienten mit Karzinomen des Magens bzw. ösophagogastralen Übergangs mit dem Ziel der Verbesserung der Lebensqualität, nicht aber der Lebensverlängerung angewendet werden.
+Neues Statement
+
+
+Während einer Chemo- oder Strahlentherapie sollten Vitamine und Spurenelemente entsprechend des physiologischen Bedarfs und möglichst über die natürliche Ernährung zugeführt werden.
+ 
+Empfehlung gestrichen
+
+
+Kapitel 17.3. Chinesische Kräutermischungen 
+
+
+Für eine Reihe von hauptsächlich pflanzlichen Stoffen liegen präklinisch-experimentelle Daten vor, die auf eine antitumorale Wirkung hindeuten. Diese rechtfertigen einen klinischen Einsatz außerhalb von Studien nicht.
+Chinesische Kräutermischungen sollten bei Magenkarzinomen nicht angewendet werden.
+Statement geändert
+
+
+Kapitel 17.4. Probiotika 
+
+
+Ein therapeutischer Nutzen der Homöopathie ist beim Magenkarzinom als supportive Therapie nicht erwiesen.
+Probiotika können bei Diarrhö eingesetzt werden. Aufgrund von vereinzelten Sepsisfällen unter Chemotherapie/Immunsuppression muss die Indikation jedoch streng geregelt werden.
+Statement geändert
+
+
+Kapitel 17.5. Akupunktur 
+
+
+Eine Empfehlung zu Hypnose, Visualisierungen, unterstützende Gruppen, Akupunktur und Healing Touch zur Schmerzlinderung bei Patienten mit Tumorerkrankungen kann nicht ausgesprochen werden.
+Akupunktur kann zur Linderung krebsbedingter Schmerzen in einem multimodalen Programm angewendet werden.
+Statement geändert
+
+
+Patienten sollte aktiv von der Verwendung von als „alternativ angebotenen“, jedoch zu wissenschaftlich empfohlenen Therapien abgeraten werden.
+Akupunktur kann im palliativen Setting komplementär zur Linderung therapiebedingter Nebenwirkungen (Übelkeit, Erbrechen, Fatigue) eingesetzt werden.
+Statement geändert
+
+
+Kapitel 17.6. Achtsamkeitsbasierte Verfahren 
+
+
+ 
+Achtsamkeitsbasierte Verfahren/Mind-Body-Medizin können komplementär zur Verbesserung der Lebensqualität und der Linderung von Ängsten und Stress eingesetzt werden.
+Neues Statement

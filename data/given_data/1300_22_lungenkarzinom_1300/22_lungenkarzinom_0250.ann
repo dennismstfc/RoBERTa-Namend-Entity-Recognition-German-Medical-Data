@@ -1,0 +1,13 @@
+T1	Procedures 4 8	VATS
+T2	Procedures 207 211	VATS
+T3	Procedures 274 288	Lungenfunktion
+T4	Procedures 294 298	VATS
+T5	Procedures 311 332	Krankenhausaufenthalt
+T6	Disorders 396 403	Schmerz
+T7	Procedures 418 422	VATS
+T8	Procedures 468 480	Thorakotomie
+T9	Procedures 652 656	VATS
+T10	Procedures 685 701	Lymphadenektomie
+T11	Procedures 799 820	Lymphknotendissektion
+T12	Living_Beings 1004 1013	Patienten
+T13	Procedures 1018 1022	VATS

@@ -1,0 +1,18 @@
+T1	Procedures 144 162	Radiochemotherapie
+T2	Procedures 463 484	retrospektive Studien
+T3	Procedures 570 588	Radiochemotherapie
+T4	Procedures 671 684	Radiotherapie
+T5	Procedures 720 733	Chemotherapie
+T6	Procedures 826 844	Radiochemotherapie
+T7	TNM 952 954	R1
+T8	TNM 960 962	R2
+T9	Procedures 1052 1073	retrospektive Studien
+T10	Procedures 1078 1086	Therapie
+T11	Procedures 1187 1203	Strahlentherapie
+T12	Procedures 1257 1273	Strahlentherapie
+T13	Procedures 1367 1383	Strahlentherapie
+T14	Procedures 1425 1441	Strahlentherapie
+T15	Living_Beings 1577 1586	Patienten
+T16	Procedures 1605 1623	Radiochemotherapie
+T17	Procedures 1658 1671	Chemotherapie
+T18	TNM 1741 1743	R0

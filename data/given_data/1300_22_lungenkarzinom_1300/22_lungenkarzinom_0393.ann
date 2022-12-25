@@ -1,0 +1,6 @@
+T1	Living_Beings 4 13	Patienten
+T2	Disorders 44 58	Lungenkarzinom
+T3	Disorders 82 98	Allgemeinzustand
+T4	Procedures 137 150	Chemotherapie
+T5	Procedures 181 194	Chemotherapie
+T6	Chemicals_Drugs 303 313	Pemetrexed

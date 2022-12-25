@@ -1,0 +1,24 @@
+T1	Physiology 31 47	Nahrungsaufnahme
+T2	Disorders 226 241	Gewichtsverlust
+T3	Living_Beings 392 401	Patienten
+T4	Disorders 406 419	Magenkarzinom
+T5	Procedures 575 583	Prognose
+T6	Living_Beings 796 805	Patienten
+T7	Physiology 1019 1039	Stoffwechselprozesse
+T8	Living_Beings 1511 1519	Personen
+T9	Physiology 1558 1568	Motivation
+T10	Living_Beings 1573 1582	Patienten
+T11	Physiology 1776 1779	CRP
+T12	Disorders 1788 1806	Albumin erniedrigt
+T13	Chemicals_Drugs 1898 1912	Antirheumatika
+T14	Chemicals_Drugs 1914 1922	Steroide
+T15	Procedures 1965 1979	Nahrungszufuhr
+T16	Living_Beings 2071 2080	Patienten
+T17	Disorders 2229 2235	Nausea
+T18	Disorders 2237 2246	Erbrechen
+T19	Disorders 2332 2340	Diarrhoe
+T20	Procedures 3054 3062	In-vitro
+T21	Physiology 3268 3276	Wachstum
+T22	Disorders 3281 3288	Tumoren
+T23	Procedures 3359 3367	Prognose
+T24	Physiology 3599 3615	Nahrungsaufnahme

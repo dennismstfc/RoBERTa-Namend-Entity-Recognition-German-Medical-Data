@@ -1,0 +1,8 @@
+T1	Devices 113 125	Bronchoskope
+T2	Procedures 175 187	Kryotherapie
+T3	Procedures 408 421	Lasertherapie
+T4	Procedures 533 554	Radiofrequenzablation
+T5	Procedures 601 617	Strahlentherapie
+T6	Procedures 762 778	Strahlentherapie
+T7	Disorders 843 859	Sensibilisierung
+T8	Anatomical_Structure 1046 1057	Schleimhaut

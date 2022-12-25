@@ -1,0 +1,27 @@
+Abhängig von der Intention spricht man von einer elektiven (prophylaktischen) Neck-dissection, wenn ein cN0- Befund vorliegt und einer kurativen Neck-dissection, wenn sich aufgrund der klinischen und radiologischen Voruntersuchungen der Verdacht auf das Vorliegen einer oder mehrerer Lymphknotenmetastasen ergeben hat. Bezüglich des Ausmaßes der Neck-dissection werden folgende Modifikationen unterschieden,:
+
+
+
+Radikale Neck-dissection
+Ausräumung der Level I-V zusammen mit Opferung des N. accessorius, der V. jugularis und des M. sternocleidomastoideus
+
+
+Modifizierte radikale Neck-dissection
+Ausräumung der Level I-V unter Erhalt einer oder mehrerer nicht-lymphatischer Strukturen
+
+
+Selektive Neck-dissection
+Ausräumung von weniger Levels als I-V; beim Mundhöhlenkarzinom in der Regel Ausräumung der Level I-III
+
+
+Erweiterte Neck-dissection
+Ausräumung oder Entfernung zusätzlicher Lymphknotengruppen oder nicht-lymphatischer Strukturen
+
+
+
+
+
+Das Risiko einer okkulten Metastasierung bei klinisch unauffälligem Halsbefund (cN0) macht eine Empfehlung zur Indikationsstellung einer elektiven (prophylaktischen) Halslymphknotenausräumung erforderlich. Es liegen jedoch keine prospektiv randomisierten Studien vor die eine Risikogrenze, ab der eine elektive Neck-dissection vorgenommen werden muss, näher festlegen. Somit kann umgekehrt auch keine Empfehlung zur Unterlassung einer elektiven Neck-dissection beim Mundhöhlenkarzinom ausgesprochen werden. Eine computergestützte Risikoanalyse unter Verwendung retrospektiver Daten konnte jedoch zeigen, dass die für das Mundhöhlenkarzinom zutreffende Wahrscheinlichkeit einer okkulten Metastasierung von über 20% eine elektive Neck-dissection eindeutig rechtfertigt. Randomisierte klinische Studien, die bei klinisch unauffälligem Halsbefund die Ergebnisse der elektiven Neck-dissection mit denen einer alleinigen Nachbeobachtung verglichen lassen die Schlussfolgerung zu, dass im Falle einer später eintretenden Metastasierung trotz einer nachgeholten therapeutischen Halslymphknotenausräumung ("salvage Neck-dissection") grundsätzlich mit einer schlechteren Prognose zu rechnen ist. Aufgrund der beim "wait and see" - Konzept bis zu sechsfach erhöhten Inzidenz späterer Lymphknotenmetastasen kam es in den Beobachtungsgruppen zu einer signifikant verkürzten krankheitsfreien Überlebenszeit. Somit ist selbst bei initalen Plattenepithelkarzinomen der Mundhöhle und bei klinisch unauffälligem Hals eine elektive Neck-dissection zu empfehlen. In einer weiteren prospektiven randomisierten Studie mit sehr strikten, engmaschigen Nachkontrollen der nicht am Hals ausgeräumten Patienten wurde - auch unter Berücksichtigung der hierfür erforderlichen Patientencompliance - eine regelhafte selektive Halslymphknotenausräumung (Level I-III) empfohlen.
+
+Zur Frage, welche Level des Halses bei klinisch unauffälligem Lymphknotenbefund im Rahmen einer elektiven Neck-dissection ausgeräumt werden sollten, ist die Studienlage eindeutig. Für das Mundhöhlenkarzinom konnte schon früh gezeigt werden, dass die Metastasierung im Wesentlichen in die Level I-III stattfindet, während Level V nur in ca. 1% betroffen ist. Bei den Zungenkarzinomen wurde eine häufigere Metastasierung auch im Level IV beobachtet, so dass dessen Ausräumung bei Zungenkarzinomen zusätzlich erwogen werden kann. Abhängig von der Lokalisation des Primärtumors in der Mundhöhle ist der Level IIB im Falle eines klinisch unauffälligen Halses nur selten befallen, und zwar in bis zu 5%, wobei es sich hier fast ausnahmslos um Zungenkarzinome handelt. Für die Zungenkarzinome muss daher die Ausräumung des Level IIB gefordert werden, während für die Mundbodenkarzinome ein Verzicht auf die Ausräumung von Level IIB erwogen werden kann, wenn ansonsten kein Hinweis auf Lymphknotenfiliarisierung besteht. 
+Die Wahrscheinlichkeit einer kontra- oder bilateralen Metastasierung ist bei Karzinomen des Mundbodens und allgemein bei Mittellinien- nahen Karzinomen erhöht. Zahlreiche Therapiestudien konnten bezüglich der lokoregionären Tumorkontrolle und des Gesamtüberlebens beim cN0-Hals keine statistisch signifikanten Unterschiede zwischen der selektiven Neck-dissection (Level I-III) und der modifizierten radikalen Neck-dissection,oder der radikalen Neck-dissection,nachweisen. Ergibt sich in der histopathologischen Aufarbeitung des Präparates einer selektiven Neck-dissection (Level I-III) ein Lymphknotenbefall, so wird vereinzelt dennoch die Erweiterung der Ausräumung auf die Level IV und V sowie eine adjuvante Strahlentherapie empfohlen. Für eine generelle Empfehlung eines Verzichts auf eine adjuvante Strahlentherapie besteht auch bei nicht kapselüberschreitendem pN1 Befund keine gesicherte Evidenz.

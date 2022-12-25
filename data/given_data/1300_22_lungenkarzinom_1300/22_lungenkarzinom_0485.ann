@@ -1,0 +1,24 @@
+T1	Disorders 37 65	kleinzelliges Lungenkarzinom
+T2	Procedures 177 187	Behandlung
+T3	Procedures 282 295	Chemotherapie
+T4	Living_Beings 307 316	Patienten
+T5	TNM 357 359	N0
+T6	Disorders 470 484	Lungenkarzinom
+T7	TNM 528 530	N1
+T8	Disorders 546 552	fallen
+T9	TNM 670 672	N2
+T10	Procedures 820 833	Chemotherapie
+T11	Disorders 852 866	Lungenkarzinom
+T12	Procedures 977 990	Chemotherapie
+T13	Living_Beings 1019 1028	Patienten
+T14	Procedures 1087 1099	Untersuchung
+T15	Living_Beings 1125 1134	Patienten
+T16	Procedures 1178 1191	Chemotherapie
+T17	Living_Beings 1341 1350	Patienten
+T18	Living_Beings 1557 1566	Patienten
+T19	Living_Beings 1711 1720	Patienten
+T20	Living_Beings 1758 1767	Patienten
+T21	Procedures 1788 1801	Chemotherapie
+T22	Chemicals_Drugs 1803 1814	Carboplatin
+T23	Chemicals_Drugs 1816 1824	Etoposid
+T24	Chemicals_Drugs 1829 1839	Paclitaxel

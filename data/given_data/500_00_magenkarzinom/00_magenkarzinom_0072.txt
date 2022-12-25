@@ -1,0 +1,10 @@
+Empfehlungsgrad 0:
+Magenfrühkarzinome mit maximal einem „erweitertem Kriterium“ können endoskopisch kurativ reseziert werden.
+Empfehlungsgrad A: 
+Zur Resektion soll die ESD eingesetzt werden. Liegt mehr als ein erweitertes Kriterium vor, soll eine onkologisch-chirurgische Nachresektion erfolgen.
+Die erweiterten Kriterien sind wie folgt definiert:
+
+-differenziertes Mukosakarzinom (G1/2) ohne Ulceration und Größe >2cm
+-Differenziertes Mukosakarzinom mit Ulceration und Größe <3cm
+-Gut differenzierte Karzinome mit Submukosainvasion <500µm und Größe <3cm
+-Undifferenziertes Mukosakarzinom <2cm Durchmesser (sofern bioptisch kein Nachweis von Tumorzellen im Abstand ≤1cm besteht (Cave: Bitte Hintergrundtext beachten!).

@@ -1,0 +1,15 @@
+T1	Disorders 36 50	Lungenkarzinom
+T2	Disorders 69 81	Todesursache
+T3	Disorders 88 93	Krebs
+T4	Living_Beings 104 113	Patienten
+T5	Disorders 133 147	Lungenkarzinom
+T6	Disorders 148 154	leiden
+T7	Disorders 189 195	fallen
+T8	Procedures 341 351	Behandlung
+T9	Disorders 356 370	Lungenkarzinom
+T10	Living_Beings 371 380	Patienten
+T11	Procedures 408 416	Therapie
+T12	Procedures 449 465	Sterbebegleitung
+T13	Living_Beings 722 729	Familie
+T14	Disorders 1069 1084	Terminalstadium
+T15	Disorders 1309 1323	Lungenkarzinom

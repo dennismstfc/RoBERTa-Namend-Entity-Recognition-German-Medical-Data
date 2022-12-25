@@ -1,0 +1,14 @@
+T1	Devices 111 116	Sonde
+T2	Devices 261 267	tragen
+T3	Living_Beings 328 337	Patienten
+T4	Anatomical_Structure 342 346	Kopf
+T5	Anatomical_Structure 347 351	Hals
+T6	Living_Beings 449 458	Patienten
+T7	Disorders 550 563	Alkoholabusus
+T8	Procedures 597 611	Pharyngektomie
+T9	Procedures 661 677	Strahlentherapie
+T10	Disorders 742 749	Tumoren
+T11	Devices 780 785	Sonde
+T12	Procedures 988 996	Therapie
+T13	Devices 1155 1160	Sonde
+T14	Disorders 1266 1275	Dysphagie

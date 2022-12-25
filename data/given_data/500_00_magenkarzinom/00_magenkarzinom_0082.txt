@@ -1,0 +1,7 @@
+Hintergrund
+Japanische Daten an knapp 3.100 Patienten mit kurativer ER belegen, dass ein lokales Rezidiv in 11,9% auftrat und dieses Rezidiv in 46% aller Fälle innerhalb der ersten 3 Monate nach ER detektiert wurde. Nur bei 16% der Patienten trat das Rezidiv >12 Monate nach erfolgter ER auf.
+Aus Langzeitdaten nach ESD ist bekannt, dass in 10-20% der Fälle synchrone oder multiple metachrone Läsionen auftreten können.
+Die japanischen Leitlinien empfehlen alle 6-12 Monate eine endoskopische Kontrolle vorzunehmen, um vor allem metachrone Läsionen zu detektieren. Bei Befunden, die „erweiterte Kriterien“ aufweisen, werden zusätzlich Ultraschall und CT zum Ausschluss von Metastasen empfohlen.
+Eine Kontrolle früher als 3 Monate scheint nicht hilfreich, da zu diesem Zeitpunkt eine Unterscheidung von regenerativen Schleimhautveränderungen und Rezidiv schwierig ist. Aus diesem Grund schlagen wir die erste Kontrolle nach ESD und R0-Resektion nach 3-6 Monaten vor und danach jährlich.
+War die Resektion inkomplett (z.B. bei piece-Meal EMR) sollte schon nach 3 Monaten endoskopiert und biopsiert werden, danach ist eine weitere Kontrolle innerhalb des 1. Jahres erforderlich, da in einigen Studien gezeigt wurde, dass das Rezidiv meist innerhalb des 1. Jahres auftritt.
+Eine Testung auf H. pylori sollte erfolgen. Bei positivem Nachweis von H. pylori sollte eine Eradikationstherapie durchgeführt werden, da so die Anzahl der metachronen Tumoren reduziert werden kann.

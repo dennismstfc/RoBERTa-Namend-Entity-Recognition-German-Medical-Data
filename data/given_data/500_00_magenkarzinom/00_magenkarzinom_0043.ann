@@ -1,0 +1,14 @@
+T1	Procedures 56 66	Endoskopie
+T2	Living_Beings 275 284	Patienten
+T3	Anatomical_Structure 688 699	Schleimhaut
+T4	Disorders 795 803	Atrophie
+T5	Disorders 805 827	Intestinale Metaplasie
+T6	Living_Beings 846 865	Helicobacter pylori
+T7	Disorders 846 865	Helicobacter pylori
+T8	Disorders 938 947	Dysplasie
+T9	Disorders 1048 1057	Dysplasie
+T10	Disorders 1120 1129	Dysplasie
+T11	Disorders 1146 1154	Karzinom
+T12	Disorders 1194 1203	Dysplasie
+T13	Disorders 1450 1462	Unsicherheit
+T14	Living_Beings 1566 1576	Pathologen

@@ -1,0 +1,6 @@
+T1	Living_Beings 17 26	Patienten
+T2	Disorders 31 45	Lungenkarzinom
+T3	Disorders 177 194	Krankheitszeichen
+T4	Disorders 414 428	Lungenkarzinom
+T5	Disorders 458 465	Syndrom
+T6	Procedures 549 559	Behandlung

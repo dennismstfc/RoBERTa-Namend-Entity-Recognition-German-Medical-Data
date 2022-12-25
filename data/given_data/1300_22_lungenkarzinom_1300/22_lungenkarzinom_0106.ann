@@ -1,0 +1,14 @@
+T1	Chemicals_Drugs 195 208	Radiopharmaka
+T2	Procedures 382 394	Untersuchung
+T3	Chemicals_Drugs 407 419	Radioisotope
+T4	Disorders 449 467	Strahlenexposition
+T5	Procedures 520 532	Untersuchung
+T6	Procedures 785 792	Glukose
+T7	Chemicals_Drugs 785 792	Glukose
+T8	Chemicals_Drugs 796 802	18-FDG
+T9	Disorders 940 951	Tuberkulose
+T10	Disorders 957 967	Sarkoidose
+T11	Living_Beings 1368 1377	Patienten
+T12	Physiology 1501 1512	Beurteilung
+T13	Disorders 1680 1690	Atelektase
+T14	Procedures 1746 1756	Diagnostik

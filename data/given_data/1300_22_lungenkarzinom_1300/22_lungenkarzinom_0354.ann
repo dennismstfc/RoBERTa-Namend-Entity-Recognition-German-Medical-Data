@@ -1,0 +1,23 @@
+T1	Living_Beings 0 9	Patienten
+T2	Disorders 47 63	Allgemeinzustand
+T3	Procedures 121 137	Strahlentherapie
+T4	Procedures 142 155	Chemotherapie
+T5	Procedures 170 183	Chemotherapie
+T6	Procedures 197 213	Strahlentherapie
+T7	Procedures 253 266	Radiotherapie
+T8	Disorders 422 438	Allgemeinzustand
+T9	Procedures 466 479	Chemotherapie
+T10	Procedures 504 520	Strahlentherapie
+T11	Procedures 554 570	Strahlentherapie
+T12	Living_Beings 696 705	Patienten
+T13	Procedures 728 741	Chemotherapie
+T14	Procedures 760 768	Therapie
+T15	Chemicals_Drugs 927 936	Cisplatin
+T16	Chemicals_Drugs 937 945	Etoposid
+T17	Chemicals_Drugs 951 960	Cisplatin
+T18	Procedures 1081 1106	Kombinationschemotherapie
+T19	Procedures 1213 1226	Chemotherapie
+T20	Procedures 1458 1474	Strahlentherapie
+T21	Procedures 1536 1550	Fraktionierung
+T22	Procedures 1659 1675	Strahlentherapie
+T23	Procedures 1722 1751	konsolidierende Chemotherapie

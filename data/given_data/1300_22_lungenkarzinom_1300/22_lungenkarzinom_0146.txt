@@ -1,0 +1,9 @@
+Bei der makroskopischen Beschreibung und Präparation von Lungenresektionspräparaten sollen die folgenden Parameter erfasst werden:
+
+-Art und Größe des Präparates (z. B. Pneumonektomie, Lobektomie, Segmentresektion)
+-Tumorlokalisation,
+-Tumorgröße/Tumorausdehnung,
+-Beziehung/Abstand des Tumors zu den Resektionsrändern, insbesondere zum Bronchusresektionsrand,
+-Beziehung des Tumors zur Pleura visceralis/Thoraxwand,
+-Erfassung ggf. vorhandener weiterer Tumorherde,
+-Veränderungen des tumorfreien Lungengewebes.

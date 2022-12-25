@@ -1,0 +1,31 @@
+T1	Procedures 21 31	Diagnostik
+T2	Procedures 251 259	Therapie
+T3	Devices 283 292	Endoskope
+T4	Devices 729 738	Endoskope
+T5	Devices 824 833	Endoskope
+T6	Devices 897 904	Monitor
+T7	Procedures 1293 1312	Narrow Band Imaging
+T8	Devices 1352 1356	Band
+T9	Procedures 1387 1391	Scan
+T10	Devices 1517 1523	Filter
+T11	Procedures 1961 1971	Diagnostik
+T12	Procedures 2329 2341	Meta-Analyse
+T13	Living_Beings 2382 2391	Patienten
+T14	Procedures 2607 2617	Endoskopie
+T15	Living_Beings 2999 3008	Patienten
+T16	Procedures 3023 3033	Endoskopie
+T17	Procedures 3072 3091	Narrow-Band-Imaging
+T18	Living_Beings 3118 3127	Patienten
+T19	Procedures 3415 3425	Endoskopie
+T20	Living_Beings 3535 3544	Patienten
+T21	Procedures 3682 3692	Endoskopie
+T22	Living_Beings 3747 3756	Patienten
+T23	Procedures 3998 4017	Narrow Band Imaging
+T24	Procedures 4018 4028	Endoskopie
+T25	Procedures 4076 4088	Meta-Analyse
+T26	Procedures 4294 4304	Endoskopie
+T27	Living_Beings 4438 4447	Patienten
+T28	Living_Beings 4766 4775	Patienten
+T29	Devices 4955 4963	Endoskop
+T30	Procedures 5081 5091	Endoskopie
+T31	Procedures 5340 5344	scan

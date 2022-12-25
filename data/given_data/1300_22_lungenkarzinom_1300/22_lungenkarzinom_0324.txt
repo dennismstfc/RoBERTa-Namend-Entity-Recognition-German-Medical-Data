@@ -1,0 +1,5 @@
+Die weitaus meisten Daten sind bisher für Cisplatin-basierte Chemotherapieschemata publiziert worden. Routinemäßiger Einsatz Carboplatin-basierter Protokolle ist hinsichtlich Effektivität insbesondere in der simultanen Therapiephase mit der Strahlentherapie in diesem Zusammenhang noch nicht ausreichend abgesichert. Präliminäre Daten sind für neuere Chemotherapiekombinationen (Cisplatin/Paclitaxel, Cisplatin/Vinorelbin) mitgeteilt worden. Abschließend dürfte die größte Datenbasis für eine Kombination aus Cisplatin und Etoposid vorhanden sein. 
+
+Die präoperativ eingesetzte Strahlentherapie verwendet typische Dosen zwischen 40 und 50 Gy. Konventionelle Fraktionierungen (1,8 bzw. 2,0 Gy pro die, qd) sind beschrieben worden, ebenfalls aber auch hyperfraktioniert akzelerierte Radiotherapieverfahren (45 Gy, 2 x 1,5 Gy, bid). Ein Standard-Behandlungsprotokoll kann derzeit nicht abgeleitet werden.
+
+Die weitaus meisten klinischen Daten liegen bisher für die Kombination aus zwei Zyklen Cisplatin und Etoposid mit Strahlentherapie bis 45 Gy vor.

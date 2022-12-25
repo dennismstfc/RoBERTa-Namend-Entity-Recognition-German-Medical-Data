@@ -1,0 +1,9 @@
+Hintergrund 12.5.
+
+In der überwiegenden Mehrzahl der Studienwurde die Therapie bis zur Tumorprogression, inakzeptabler Toxizität oder Zurücknahme des Einverständnisses durch den Patienten durchgeführt. In drei Studien wurde die Dauer für die Erstlinientherapie folgendermaßen festgelegt:
+
+-Cunningham: Maximale Therapiedauer 8 Zyklen (entspricht 24 Wochen); bei Einsatz der anthrazyklinhaltigen Regime (ECF, EOX, EOF, ECX) sollte daher – auch bei guter Verträglichkeit und Wirksamkeit - die Dauer der Erstlinientherapie auf 24 Wochen begrenzt werden.
+-Für das Cisplatin/HD-5-FU/PLV-Regimewurde die Dauer der Erstlinientherapie auf 4 Zyklen von jeweils 7 Wochen begrenzt. Dabei wurde im letzten Zyklus kein Cisplatin eingesetzt. Der Nutzen einer längeren Therapiedauer ist für dieses Regime nicht belegt.
+-In der ToGA Studie, die den Einsatz von Trastuzumab zusammen mit Cisplatin/Fluoropyrimidin in der Erstlinientherapie bei HER-2-positiven Patienten untersucht hat, wurde die Chemotherapie auf 6 Zyklen begrenzt und anschließend eine Erhaltungstherapie mit Trastuzumab fortgesetzt. Die Lebensqualität blieb auch unter der Erhaltungstherapie mit Trastuzumab längere Zeit stabil als im Arm ohne Trastuzumab.
+
+Die Dauer einer palliativen Chemotherapie selbst war aber bislang nicht Gegenstand von klinischen Studien. Die negativen Auswirkungen der palliativen Chemotherapie auf Aspekte der Lebensqualität sind auch bei intensiveren Therapie-Schemata nur gering. Bei der Wahl der individuellen Chemotherapie sollte daher das Nebenwirkungsprofil, die damit verbundene potentielle Beeinflussung der Lebensqualität des individuellen Patienten, die Tumorlast und der Remissionsdruck in Betracht gezogen werden.

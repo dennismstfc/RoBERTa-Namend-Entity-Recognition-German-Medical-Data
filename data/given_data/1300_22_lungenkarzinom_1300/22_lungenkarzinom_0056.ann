@@ -1,0 +1,6 @@
+T1	Disorders 44 58	Lungenkarzinom
+T2	Procedures 68 77	Screening
+T3	Disorders 89 105	Sputum-Zytologie
+T4	Procedures 118 131	Bronchoskopie
+T5	Chemicals_Drugs 144 155	Tumormarker
+T6	Anatomical_Structure 159 164	Serum

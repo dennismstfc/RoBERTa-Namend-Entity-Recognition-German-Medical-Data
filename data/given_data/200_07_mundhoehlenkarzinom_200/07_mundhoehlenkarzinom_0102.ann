@@ -1,0 +1,5 @@
+T1	Living_Beings 0 9	Patienten
+T2	Physiology 64 80	Nahrungsaufnahme
+T3	Physiology 90 98	Sprechen
+T4	Procedures 125 143	Radiochemotherapie
+T5	Procedures 188 198	Behandlung

@@ -1,0 +1,26 @@
+T1	Living_Beings 121 130	Patienten
+T2	Disorders 135 149	Lungenkarzinom
+T3	Procedures 253 263	Diagnostik
+T4	Procedures 265 273	Beratung
+T5	Procedures 278 288	Behandlung
+T6	Living_Beings 451 460	Patienten
+T7	Disorders 471 488	Bronchialkarzinom
+T8	Procedures 494 509	Lungenresektion
+T9	Disorders 1280 1294	Risikofaktoren
+T10	Procedures 1408 1418	Diagnostik
+T11	Procedures 1450 1459	Screening
+T12	Procedures 1643 1653	Behandlung
+T13	Procedures 1655 1676	Entspannungsverfahren
+T14	Procedures 1758 1780	Psychosoziale Beratung
+T15	Procedures 1855 1867	Ergotherapie
+T16	Procedures 1881 1898	Bewegungstherapie
+T17	Procedures 1952 1962	Behandlung
+T18	Procedures 2016 2029	Chemotherapie
+T19	Procedures 2059 2083	Stammzelltransplantation
+T20	Disorders 2139 2153	Larynxkarzinom
+T21	Procedures 2191 2201	Behandlung
+T22	Living_Beings 2206 2215	Patienten
+T23	Disorders 2239 2246	Tumoren
+T24	Living_Beings 2276 2285	Patienten
+T25	Disorders 2296 2313	Bronchialkarzinom
+T26	Procedures 2319 2334	Lungenresektion

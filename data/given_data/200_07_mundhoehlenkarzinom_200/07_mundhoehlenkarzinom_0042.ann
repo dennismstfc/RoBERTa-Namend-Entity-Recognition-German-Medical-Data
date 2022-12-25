@@ -1,0 +1,10 @@
+T1	Disorders 65 74	Infektion
+T2	Anatomical_Structure 106 110	Kopf
+T3	Disorders 111 124	Hals Karzinom
+T4	Disorders 181 188	Tumoren
+T5	Disorders 200 209	Infektion
+T6	Living_Beings 239 248	Patienten
+T7	Disorders 265 279	Risikofaktoren
+T8	Procedures 398 414	Strahlentherapie
+T9	Procedures 434 442	Prognose
+T10	Disorders 753 769	Tumorprogression

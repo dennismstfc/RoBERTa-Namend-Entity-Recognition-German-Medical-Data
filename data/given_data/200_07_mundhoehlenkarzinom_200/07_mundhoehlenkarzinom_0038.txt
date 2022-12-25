@@ -1,0 +1,4 @@
+Der histopathologische Befund soll in Kommunikation mit dem Kliniker die genaue Lokalisation einer ggf. vorliegenden R+-Situation beschreiben. 
+Das Tumorpräparat soll mit klarer Bezeichnung der anatomischen Topographie an den Pathologen geschickt werden. Hierzu kann eine Faden- oder Farbmarkierung erfolgen. 
+Der histopathologische Befund soll umfassen:
+Tumorlokalisation, makroskopische Tumorgröße, histologischer Tumottyp nach WHO, histologischer Tumorgrad, Invasionstiefe, Lymphgefäßinvasion, Blutgefäßinvasion und perineurale Invasion, lokal infiltrierte Strukturen, Klassifikation pT, Angaben zu befallenen Bezirken und infiltrierten Strukturen, R-Status.

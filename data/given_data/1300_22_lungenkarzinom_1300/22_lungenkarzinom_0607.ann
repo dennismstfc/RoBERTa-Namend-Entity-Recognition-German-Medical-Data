@@ -1,0 +1,13 @@
+T1	Chemicals_Drugs 174 188	Thymusextrakte
+T2	Chemicals_Drugs 603 609	Enzyme
+T3	Disorders 610 626	Wechselwirkungen
+T4	Procedures 789 794	Selen
+T5	Chemicals_Drugs 789 794	Selen
+T6	Physiology 789 794	Selen
+T7	Physiology 796 805	Vitamin C
+T8	Procedures 796 805	Vitamin C
+T9	Chemicals_Drugs 796 805	Vitamin C
+T10	Physiology 822 831	Vitamin E
+T11	Procedures 822 831	Vitamin E
+T12	Chemicals_Drugs 822 831	Vitamin E
+T13	Procedures 893 906	Chemotherapie

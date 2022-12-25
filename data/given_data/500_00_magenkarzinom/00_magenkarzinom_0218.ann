@@ -1,0 +1,10 @@
+T1	Chemicals_Drugs 86 97	Tumormarker
+T2	Procedures 157 169	Gastrektomie
+T3	Chemicals_Drugs 258 269	Tumormarker
+T4	Chemicals_Drugs 387 398	Tumormarker
+T5	Chemicals_Drugs 487 498	Tumormarker
+T6	Disorders 504 511	Rezidiv
+T7	Procedures 555 567	Untersuchung
+T8	Procedures 770 780	Diagnostik
+T9	Procedures 811 823	Gastrektomie
+T10	Devices 880 886	Marker

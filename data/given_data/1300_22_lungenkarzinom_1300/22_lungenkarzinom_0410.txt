@@ -1,0 +1,7 @@
+Patienten mit Nicht-Plattenepithelkarzinom, die als Zweitlinientherapie eine Immuncheckpoint-Inhibitor-Therapie erhalten haben und keine Kontraindikationen gegen eine Drittlinientherapie aufweisen, sollte eine weitere Therapielinie angeboten werden.
+Therapieoptionenen sind: 
+
+-Docetaxel
+-Pemetrexed
+-Docetaxel mit Ramucirumab/Nintedanib
+-Erlotinib.

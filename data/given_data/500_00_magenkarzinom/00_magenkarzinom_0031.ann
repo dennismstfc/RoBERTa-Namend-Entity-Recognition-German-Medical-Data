@@ -1,0 +1,54 @@
+T1	Anatomical_Structure 50 55	Magen
+T2	Procedures 66 74	Therapie
+T3	Chemicals_Drugs 79 104	Protonenpumpeninhibitoren
+T4	Physiology 149 156	Gastrin
+T5	Procedures 149 156	Gastrin
+T6	Living_Beings 169 178	Patienten
+T7	Procedures 189 197	Therapie
+T8	Physiology 258 265	Gastrin
+T9	Procedures 258 265	Gastrin
+T10	Physiology 297 304	Gastrin
+T11	Procedures 297 304	Gastrin
+T12	Anatomical_Structure 342 358	Magenschleimhaut
+T13	Disorders 433 440	Tumoren
+T14	Anatomical_Structure 462 467	Magen
+T15	Living_Beings 532 541	Patienten
+T16	Procedures 572 580	Therapie
+T17	Disorders 593 604	Hyperplasie
+T18	Anatomical_Structure 631 637	Zellen
+T19	Anatomical_Structure 639 649	ECL-Zellen
+T20	Living_Beings 710 719	Patienten
+T21	Disorders 724 733	H. pylori
+T22	Disorders 734 743	Infektion
+T23	Disorders 785 794	Gastritis
+T24	Procedures 825 833	Therapie
+T25	Procedures 914 938	epidemiologische Studien
+T26	Physiology 949 960	Assoziation
+T27	Procedures 1047 1061	Untersuchungen
+T28	Living_Beings 1133 1142	Patienten
+T29	Procedures 1153 1161	Therapie
+T30	Procedures 1323 1331	Therapie
+T31	Disorders 1417 1426	Krankheit
+T32	Living_Beings 1663 1672	Patienten
+T33	Living_Beings 1729 1738	Patienten
+T34	Disorders 1868 1881	Magenkarzinom
+T35	Procedures 2005 2017	Meta-Analyse
+T36	Physiology 2182 2190	erkennen
+T37	Living_Beings 2456 2465	Patienten
+T38	Disorders 2758 2766	Atrophie
+T39	Disorders 2768 2790	intestinale Metaplasie
+T40	Living_Beings 2867 2876	Patienten
+T41	Physiology 3117 3125	erkennen
+T42	Living_Beings 3206 3215	Patienten
+T43	Disorders 3232 3241	H. pylori
+T44	Living_Beings 3413 3422	Patienten
+T45	Disorders 3433 3446	Magenkarzinom
+T46	Living_Beings 3503 3512	Patienten
+T47	Disorders 3517 3527	Magenulkus
+T48	Living_Beings 3534 3543	Patienten
+T49	Disorders 3930 3939	H. pylori
+T50	Living_Beings 4231 4240	Patienten
+T51	Physiology 4311 4321	Medikation
+T52	Disorders 4431 4439	Atrophie
+T53	Disorders 4551 4560	H. pylori
+T54	Procedures 4632 4640	Therapie

@@ -1,0 +1,14 @@
+T1	Anatomical_Structure 120 129	Brustwand
+T2	Disorders 240 250	Heiserkeit
+T3	Disorders 265 280	Stimmbandparese
+T4	Anatomical_Structure 332 349	Plexus brachialis
+T5	Disorders 387 401	Pancoast-Tumor
+T6	Disorders 408 422	Horner-Syndrom
+T7	Disorders 424 430	Befall
+T8	Anatomical_Structure 435 453	Ganglion stellatum
+T9	Disorders 463 489	Vena-cava-superior-Syndrom
+T10	Disorders 539 554	Thoraxschmerzen
+T11	Anatomical_Structure 597 603	Pleura
+T12	Anatomical_Structure 609 618	Brustwand
+T13	Living_Beings 655 664	Patienten
+T14	Disorders 731 746	Thoraxschmerzen

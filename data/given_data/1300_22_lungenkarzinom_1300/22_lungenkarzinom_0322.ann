@@ -1,0 +1,24 @@
+T1	Procedures 18 36	Chemoradiotherapie
+T2	TNM 53 55	N2
+T3	Procedures 426 429	pCR
+T4	Living_Beings 979 988	Patienten
+T5	TNM 1005 1007	N2
+T6	Procedures 1219 1242	Induktionschemotherapie
+T7	Procedures 1263 1281	Chemoradiotherapie
+T8	Chemicals_Drugs 1323 1334	Carboplatin
+T9	Chemicals_Drugs 1339 1347	Vindesin
+T10	Chemicals_Drugs 1407 1416	Cisplatin
+T11	Anatomical_Structure 1475 1478	Arm
+T12	Procedures 1494 1517	Induktionschemotherapie
+T13	Procedures 1547 1560	Radiotherapie
+T14	Procedures 1728 1746	Chemoradiotherapie
+T15	TNM 1779 1781	N2
+T16	Anatomical_Structure 1884 1887	Arm
+T17	Procedures 2076 2090	Pneumonektomie
+T18	Physiology 2213 2221	gewissen
+T19	Living_Beings 2238 2247	Patienten
+T20	Living_Beings 2405 2414	Patienten
+T21	TNM 2431 2433	N2
+T22	Procedures 2489 2507	Chemoradiotherapie
+T23	Procedures 2889 2903	Pneumonektomie
+T24	Disorders 2954 2982	postoperative Komplikationen
