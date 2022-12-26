@@ -124,3 +124,21 @@ def should_get_skipped(act_word):
     
     return False
 
+'''
+This function returns the filenames without the ending, so that the .txt and .ann 
+files can be read later on.
+'''
+def get_filenames_without_ending(file_path):
+    subfolders = os.listdir(file_path)
+    subfolders = [file_path  + el + "/" for el in subfolders]
+    fnames = []
+
+    for act_subfolder in subfolders:
+        tmp_files = os.listdir(act_subfolder)
+        tmp_files = [act_subfolder + el for el in tmp_files]
+
+        for act_file in tmp_files:
+            if act_file.endswith(".txt"):
+              fnames.append(act_file[:-4])
+        
+    return fnames
