@@ -8,6 +8,7 @@ from sklearn.metrics import accuracy_score
 from simpletransformers.ner import NERModel, NERArgs
 
 # selfmade functions import
+from utils import get_filenames_without_ending
 from utils import read_txt
 from utils import get_ann
 from utils import stem
@@ -31,22 +32,18 @@ def pipeline(model, checkpoint, epochs, random_state=111):
         # loading data
         subfolders = os.listdir(DATA_PATH)
         subfolders = [DATA_PATH  + el + "/" for el in subfolders]
+        fnames = get_filenames_without_ending(DATA_PATH)
         
         # X is the text and y the ann data
         X = []
         y = []
 
-        for act_subfolder in subfolders:
-            tmp_files = os.listdir(act_subfolder)
-            tmp_files = [act_subfolder + el for el in tmp_files]
+        for act_file in fnames:
+            tmp_txt = get_ann(act_file + ".txt")
+            tmp_ann = get_ann(act_file + ".ann")
+            X.append(tmp_txt)
+            y.append(tmp_ann)
 
-            for act_file in tmp_files:
-                if act_file.endswith(".txt"):
-                    X.append(read_txt(act_file))
-
-                if act_file.endswith(".ann"):
-                    y.append(get_ann(act_file))
-            
         print("saving the data into pickle files...")
         save_pickle(SAVE_PATH + "X.pickle", X)
         save_pickle(SAVE_PATH + "y.pickle", y)
